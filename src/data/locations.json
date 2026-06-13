@@ -1,0 +1,147 @@
+{
+  "serviceCenters": [
+    {
+      "id": "pune",
+      "city": "Pune",
+      "engineers": [
+         { "name": "Kaustubh More", "phone": "+91 86980 75629" },
+        
+        { "name": "Sagar Mane", "phone": "+91 79728 70571" },
+        { "name": "Ajit Kamble", "phone": "+91 75177 21855" },
+        { "name": "Vijay Tamang", "phone": "+91 95884 27267" },
+        { "name": "Shubham Bharat", "phone": "+91 78219 54537" },
+        { "name": "Sushant Pisal", "phone": "+91 96570 16240" },
+        { "name": "Satish Jadhav", "phone": "+91 98703 38252" },
+        { "name": "Abdul Sayeed", "phone": "+91 95523 89379" },
+        { "name": "Harshad Nagori", "phone": "+91 77560 11805" }
+       
+      ]
+    },
+    {
+      "id": "mumbai",
+      "city": "Mumbai",
+      "engineers": [
+        { "name": "Mahendra Pawar", "phone": "+91 80975 66280" },
+        { "name": "Amit Verma", "phone": "+91 98199 76601" }
+      ]
+    },
+    {
+      "id": "bhopal",
+      "city": "Bhopal",
+      "engineers": [
+        { "name": "Mitesh Soni", "phone": "+91 90988 17795" }
+      ]
+    },
+    {
+      "id": "andaman",
+      "city": "Andaman",
+      "engineers": [
+        { "name": "Ajith T.N", "phone": "+91 63803 02282" }
+      ]
+    },
+    {
+      "id": "tamil-nadu",
+      "city": "Tamil Nadu",
+      "engineers": [
+        { "name": "VR. Saravanan", "phone": "+91 96009 90261" }
+      ]
+    },
+    {
+      "id": "assam",
+      "city": "Assam",
+      "engineers": [
+        { "name": "Dhanraj", "phone": "+91 97074 26825" }
+      ]
+    },
+    {
+      "id": "osmanabad",
+      "city": "Osmanabad",
+      "engineers": [
+        { "name": "Suraj Talwade", "phone": "+91 90223 40552" },
+        { "name": "Birendra Kumar G", "phone": "+91 80526 67532" },
+        { "name": "Anil Kumar", "phone": "+91 98897 23177" }
+      ]
+    },
+    {
+      "id": "bindex",
+      "city": "Bindex",
+      "engineers": [
+        { "name": "Ravindra Gautam", "phone": "+91 63935 98253" }
+      ]
+    },
+    {
+      "id": "nagpur",
+      "city": "Nagpur",
+      "engineers": [
+        { "name": "Rohit Ahire", "phone": "+91 88885 86466" }
+      ]
+    },
+    {
+      "id": "rajasthan",
+      "city": "Rajasthan",
+      "engineers": [
+        { "name": "Anup Singh", "phone": "+91 81690 18851" }
+      ]
+    },
+    {
+      "id": "delhi",
+      "city": "Delhi",
+      "engineers": [
+        { "name": "Tushar Raj Singh", "phone": "+91 78883 57668" },
+        { "name": "Rachit Divedi", "phone": "+91 63861 07733" },
+        { "name": "Rajesh Jaiswal", "phone": "+91 81089 61426" },
+        { "name": "Shivharday", "phone": "+91 74599 33039" }
+      ]
+    },
+    {
+      "id": "agra",
+      "city": "Agra",
+      "engineers": [
+        { "name": "Ankit Singh", "phone": "+91 75992 60283" }
+      ]
+    },
+    {
+      "id": "up",
+      "city": "UP",
+      "engineers": [
+        { "name": "Sandeep Shrivastava", "phone": "+91 95068 95617" }
+      ]
+    },
+    {
+      "id": "bihar",
+      "city": "Bihar",
+      "engineers": [
+        { "name": "Arun Kumar", "phone": "+91 82990 23915" }
+      ]
+    },
+    {
+      "id": "kochin",
+      "city": "Kochin",
+      "engineers": [
+        { "name": "Saran Sasi", "phone": "+91 96335 28299" }
+      ]
+    },
+    {
+      "id": "factory",
+      "city": "Factory",
+      "engineers": [
+        { "name": "Ashok Kr", "phone": "+91 73052 25549" }
+      ]
+    },
+    {
+      "id": "bangalore",
+      "city": "Bangalore",
+      "engineers": [
+        { "name": "Irfan", "phone": "+91 86604 68603" }
+      ]
+    },
+    {
+      "id": "west-bengal",
+      "city": "West Bengal",
+      "engineers": [
+        { "name": "Munmun Dalpati", "phone": "+91 98741 20774" },
+        { "name": "Ramij Biswas", "phone": "+91 77971 30383" }
+      ]
+    }
+  ]
+}

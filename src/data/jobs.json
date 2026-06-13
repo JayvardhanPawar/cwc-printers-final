@@ -1,0 +1,29 @@
+[
+  {
+    "id": "j1",
+    "title": "Senior Service Engineer",
+    "department": "Technical Support",
+    "vacancies": 2,
+    "location": "Pune, MH",
+    "email": "hr@ecompusell.com",
+    "type": "Full-time"
+  },
+  {
+    "id": "j2",
+    "title": "Business Development Executive",
+    "department": "Sales",
+    "vacancies": 3,
+    "location": "Mumbai, MH",
+    "email": "info@ecompusell.com",
+    "type": "Full-time"
+  },
+  {
+    "id": "j3",
+    "title": "R&D Hardware Specialist",
+    "department": "Engineering",
+    "vacancies": 1,
+    "location": "Pune, MH",
+    "email": "hr@ecompusell.com",
+    "type": "Full-time"
+  }
+]

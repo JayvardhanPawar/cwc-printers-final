@@ -1,0 +1,10 @@
+[
+  { "title": "Unboxing & Setup", "type": "installation", "url": "https://youtube.com/embed/example1", "thumb": "/images/v1.jpg" },
+  { "title": "Toner Replacement", "type": "maintenance", "url": "https://youtube.com/embed/example2", "thumb": "/images/v2.jpg" },
+  { "title": "Driver Installation Guide", "type": "installation", "url": "https://youtube.com/embed/example3", "thumb": "/images/v3.jpg" },
+  { "title": "Paper Jam Fix Tutorial", "type": "troubleshooting", "url": "https://youtube.com/embed/example4", "thumb": "/images/v4.jpg" },
+  { "title": "WiFi Setup for Printer", "type": "installation", "url": "https://youtube.com/embed/example5", "thumb": "/images/v5.jpg" },
+  { "title": "Print Quality Improvement Tips", "type": "maintenance", "url": "https://youtube.com/embed/example6", "thumb": "/images/v6.jpg" },
+  { "title": "Scanner Setup Guide", "type": "installation", "url": "https://youtube.com/embed/example7", "thumb": "/images/v7.jpg" },
+  { "title": "Firmware Update Process", "type": "maintenance", "url": "https://youtube.com/embed/example8", "thumb": "/images/v8.jpg" }
+]

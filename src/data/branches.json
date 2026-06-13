@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Pune HQ",
+    "coords": [18.5204, 73.8567],
+    "address": "Aditya Centeegra, 13, 1st floor, FC Road, Pune, MH",
+    "email": "pune.hub@cwc.com"
+  },
+  {
+    "id": 2,
+    "name": "E-COMPUSELL LIMITED Delhi",
+    "coords": [28.6139, 77.2090],
+    "address": "1074, SECTOR-19,POCKET-3, New Delhi, DL",
+    "email": "delhi.ops@cwc.com"
+  },
+  {
+    "id": 3,
+    "name": "E-Compusell Limited Chhattisgarh",
+    "coords": [21.2514, 81.6296],
+    "address": "Room No 001, Kedia Business Park, Chandnidih, Bhilai Road, Raipur, Chhattisgarh",
+    "email": "cg.office@cwc.com"
+  },
+  {
+    "id": 4,
+    "name": "E-COMPUSELL LIMITED ANDAMAN & NICOBAR",
+    "coords": [11.6234, 92.7265],
+    "address": "GARCHARMA, Garacharma, South Andaman and Nicobar ",
+    "email": "andaman.ops@cwc.com"
+  },
+  {
+    "id": 5,
+    "name": "E-Compusell Limited GOA",
+    "coords": [15.2993, 74.1240],
+    "address": "H.NO/177/1 F1, GREVA RESIDENCY, SANCOALE, Sancoale, Goa",
+    "email": "goa.office@cwc.com"
+  }
+]
