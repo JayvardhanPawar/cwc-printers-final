@@ -18,10 +18,14 @@ const customIcon = new L.DivIcon({
   iconAnchor: [16, 32],
 });
 
-// Helper: Center map on multiple markers
+// Helper: Center map on coords/zoom changes only
 function SetViewOnClick({ center, zoom }) {
   const map = useMap();
-  map.setView(center, zoom, { animate: true, duration: 1.2 });
+
+  useEffect(() => {
+    map.setView(center, zoom, { animate: true, duration: 1.2 });
+  }, [center[0], center[1], zoom]); // only re-run when coords or zoom actually change
+
   return null;
 }
 
@@ -30,9 +34,9 @@ export default function Worldwide() {
   const [activeBranch, setActiveBranch] = useState(null);
   const [mapConfig, setMapConfig] = useState({ center: [20.5937, 78.9629], zoom: 5 });
 
-  const filteredBranches = useMemo(() => 
-    branches.filter(b => 
-      b.name.toLowerCase().includes(searchQuery.toLowerCase()) || 
+  const filteredBranches = useMemo(() =>
+    branches.filter(b =>
+      b.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
       b.address.toLowerCase().includes(searchQuery.toLowerCase())
     ), [searchQuery]);
 
@@ -49,7 +53,7 @@ export default function Worldwide() {
   return (
     <div className="pt-32 pb-16 bg-brand-primary dark:bg-brand-darkBg transition-colors duration-500 min-h-screen">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
-        
+
         {/* HEADER */}
         <div className="flex flex-col md:flex-row justify-between items-end gap-6 mb-10">
           <div className="space-y-2">
@@ -61,12 +65,12 @@ export default function Worldwide() {
               Network <span className="text-brand-accent">Presence.</span>
             </h1>
           </div>
-          
+
           <div className="relative w-full md:w-72 group">
             <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-gray-400 group-focus-within:text-brand-accent transition-colors" />
-            <input 
-              type="text" 
-              placeholder="Filter branches..." 
+            <input
+              type="text"
+              placeholder="Filter branches..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="w-full bg-white dark:bg-brand-darkCard border border-brand-secondary dark:border-gray-800 focus:border-brand-accent rounded-xl py-2.5 pl-10 pr-4 outline-none dark:text-white text-[11px] font-bold shadow-sm"
@@ -75,22 +79,22 @@ export default function Worldwide() {
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 h-auto lg:h-[600px]">
-          
+
           {/* SIDEBAR */}
           <div className="lg:col-span-3 flex flex-col gap-3">
             <div className="flex items-center justify-between px-1 text-[9px] font-black text-gray-400 uppercase tracking-widest">
               <span>Branch Directory</span>
               <span className="text-brand-accent">{filteredBranches.length} Total</span>
             </div>
-            
+
             <div className="flex-grow overflow-y-auto pr-2 space-y-2 custom-mini-scrollbar">
-              {filteredBranches.map((branch) => (
+              {filteredBranches.map((branch, index) => (
                 <button
-                  key={branch.id}
+                  key={`sidebar-${branch.id}-${index}`}
                   onClick={() => handleSelect(branch)}
                   className={`w-full text-left p-4 rounded-2xl border transition-all duration-300 group ${
-                    activeBranch?.id === branch.id 
-                    ? 'bg-brand-text border-brand-text text-white shadow-3d scale-[1.02]' 
+                    activeBranch?.id === branch.id
+                    ? 'bg-brand-text border-brand-text text-white shadow-3d scale-[1.02]'
                     : 'bg-white dark:bg-brand-darkCard border-brand-secondary dark:border-gray-800 text-brand-text dark:text-gray-400 hover:border-brand-accent'
                   }`}
                 >
@@ -114,19 +118,21 @@ export default function Worldwide() {
           {/* MAP */}
           <div className="lg:col-span-9 flex flex-col gap-4 relative">
             <div className="flex-grow rounded-[2.5rem] overflow-hidden border border-brand-secondary dark:border-gray-800 shadow-xl relative z-0">
-              <MapContainer 
-                center={mapConfig.center} 
-                zoom={mapConfig.zoom} 
+              {/* key="main-map" is intentionally stable so MapContainer never remounts */}
+              <MapContainer
+                key="main-map"
+                center={mapConfig.center}
+                zoom={mapConfig.zoom}
                 style={{ height: '100%', width: '100%' }}
                 zoomControl={false}
               >
                 <SetViewOnClick center={mapConfig.center} zoom={mapConfig.zoom} />
                 <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" className="map-tiles" />
-                {branches.map((branch) => (
-                  <Marker 
-                    key={branch.id} 
-                    position={branch.coords} 
-                    icon={customIcon} 
+                {branches.map((branch, index) => (
+                  <Marker
+                    key={`marker-${branch.id}-${index}`}
+                    position={branch.coords}
+                    icon={customIcon}
                     eventHandlers={{ click: () => handleSelect(branch) }}
                   />
                 ))}
@@ -134,12 +140,12 @@ export default function Worldwide() {
 
               {/* FLOATING ACTION BUTTONS */}
               <div className="absolute top-6 right-6 z-[1000] flex flex-col gap-2">
-                <button 
-                    onClick={resetView}
-                    className="bg-white dark:bg-brand-darkCard p-2.5 rounded-xl shadow-3d border border-brand-secondary dark:border-gray-800 text-brand-accent hover:scale-110 transition-all"
-                    title="Fit all branches"
+                <button
+                  onClick={resetView}
+                  className="bg-white dark:bg-brand-darkCard p-2.5 rounded-xl shadow-3d border border-brand-secondary dark:border-gray-800 text-brand-accent hover:scale-110 transition-all"
+                  title="Fit all branches"
                 >
-                    <Maximize className="w-4 h-4" />
+                  <Maximize className="w-4 h-4" />
                 </button>
               </div>
 
@@ -152,7 +158,9 @@ export default function Worldwide() {
                       <h3 className="font-black text-lg text-brand-text dark:text-white mt-1 leading-none">{activeBranch.name}</h3>
                     </div>
                     <div className="flex gap-1">
-                      <a href={`mailto:${activeBranch.email}`} className="p-2 bg-brand-primary dark:bg-gray-800 rounded-lg text-gray-500 hover:text-brand-accent"><Mail className="w-3.5 h-3.5" /></a>
+                      <a href={`mailto:${activeBranch.email}`} className="p-2 bg-brand-primary dark:bg-gray-800 rounded-lg text-gray-500 hover:text-brand-accent">
+                        <Mail className="w-3.5 h-3.5" />
+                      </a>
                     </div>
                   </div>
                   <div className="flex items-center gap-2 text-[10px] text-gray-500 font-medium mb-6">
@@ -166,6 +174,7 @@ export default function Worldwide() {
               )}
             </div>
           </div>
+
         </div>
       </div>
     </div>

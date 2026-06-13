@@ -39,12 +39,12 @@ export default function Navbar() {
 
                     {/* Logo */}
                     <Link to="/" className="flex items-center gap-2 shrink-0 group">
-    <img 
-        src="/images/new_cwc_logo.png" 
-        alt="CWC Logo" 
-        className="h-10 w-auto dark:invert"
-    />
-</Link>
+                        <img 
+                            src="/images/new_cwc_logo.png" 
+                            alt="CWC Logo" 
+                            className="h-10 w-auto dark:invert"
+                        />
+                    </Link>
 
                     {/* Desktop Nav */}
                     <div className="hidden lg:flex items-center space-x-1">
@@ -83,9 +83,8 @@ export default function Navbar() {
                                 Support <ChevronDown className="w-4 h-4 group-hover:rotate-180 transition-transform" />
                             </button>
                             <div className="absolute top-full left-0 w-72 bg-white dark:bg-brand-darkCard rounded-xl shadow-2xl border border-brand-secondary dark:border-gray-800 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-y-2 group-hover:translate-y-0 py-4">
-                                
-                                 <Link to="/services#warranty" className={dropdownLinkClass}>Warranty</Link>
-                                 <Link to="/services#drivers" className={dropdownLinkClass}>Driver / File Download</Link>
+                                <Link to="/services#warranty" className={dropdownLinkClass}>Warranty</Link>
+                                <Link to="/services#drivers" className={dropdownLinkClass}>Driver / File Download</Link>
                                 <Link to="/services#manuals" className={dropdownLinkClass}>Manual Download</Link>
                                 <Link to="/services#videos" className={dropdownLinkClass}>Operational Videos</Link>
                                 <Link to="/services#service-network" className={dropdownLinkClass}>Service Center</Link>
@@ -97,13 +96,9 @@ export default function Navbar() {
                     </div>
 
                     {/* Right Icons */}
-                    <div className="hidden lg:flex items-center space-x-5 border-l border-brand-secondary dark:border-gray-700 pl-5">
-                        <Link to="/worldwide" className="flex items-center gap-2 text-sm font-bold text-brand-text dark:text-brand-darkText hover:text-brand-accent transition-all group">
-                            <Globe className="w-4 h-4 group-hover:rotate-[360deg] transition-transform duration-[2000ms]" />
-                            <span className="tracking-tight uppercase text-[10px]">Our Presence</span>
-                        </Link>
+                    <div className="hidden lg:flex items-center border-l border-brand-secondary dark:border-gray-700 pl-5">
                         <ThemeToggle />
-                    </div> 
+                    </div>
 
                     {/* Mobile Menu Toggle */}
                     <div className="lg:hidden flex items-center space-x-4">
@@ -119,7 +114,7 @@ export default function Navbar() {
             <div className={`lg:hidden fixed inset-0 z-40 bg-white dark:bg-brand-darkBg transition-transform duration-500 ease-in-out transform ${mobileMenuOpen ? 'translate-x-0' : 'translate-x-full'}`}>
                 <div className="pt-24 px-6 h-full overflow-y-auto pb-20">
                     <div className="flex flex-col space-y-2">
-                        
+
                         {/* Products Accordion */}
                         <div>
                             <button onClick={() => toggleMobileMenu('products')} className="flex justify-between items-center w-full py-4 text-xl font-bold text-brand-text dark:text-white border-b border-brand-secondary dark:border-gray-800">
@@ -160,7 +155,6 @@ export default function Navbar() {
                         {/* Direct Links */}
                         <Link to="/about" onClick={() => setMobileMenuOpen(false)} className="block py-4 text-xl font-bold text-brand-text dark:text-white border-b border-brand-secondary dark:border-gray-800">About</Link>
                         <Link to="/contact" onClick={() => setMobileMenuOpen(false)} className="block py-4 text-xl font-bold text-brand-text dark:text-white border-b border-brand-secondary dark:border-gray-800">Contact</Link>
-                        <Link to="/worldwide" onClick={() => setMobileMenuOpen(false)} className="block py-4 text-xl font-bold text-brand-accent">Our Presence</Link>
                     </div>
                 </div>
             </div>
