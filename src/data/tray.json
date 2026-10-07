@@ -1,0 +1,188 @@
+[
+  {
+    "id": "4055-Tray-Single",
+    "name": "CWC 4055 Single Tray",
+    "type": "Tray",
+    "category": "consumables",
+    "format": "A4",
+    "compatibleIds": [
+      "cwc-4055"
+    ],
+    "image": "/images/Tray/4055-Tray/main.webp",
+    "img1": "/images/Tray/4055-Tray/img1.webp",
+    "img2": "/images/Tray/4055-Tray/img2.webp",
+    "img3": "/images/Tray/4055-Tray/img3.webp",
+    "specSummary": [
+      "Capacity: 550 sheets",
+      "Compatible with CWC 4055"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Capacity",
+          "desc": "550 sheets"
+        },
+        {
+          "title": "Compatibility",
+          "desc": "CWC 4055"
+        }
+      ],
+      "consumable": []
+    }
+  },
+  {
+    "id": "4055-Tray-Double",
+    "name": "CWC 4055 Double Tray",
+    "type": "Tray",
+    "category": "consumables",
+    "format": "A4",
+    "compatibleIds": [
+      "cwc-4055"
+    ],
+    "image": "/images/Tray/4055-Tray-Double/main.webp",
+    "img1": "/images/Tray/4055-Tray-Double/img1.webp",
+    "img2": "/images/Tray/4055-Tray-Double/img2.webp",
+    "img3": "/images/Tray/4055-Tray-Double/img3.webp",
+    "specSummary": [
+      "Capacity: 550 sheets",
+      "Compatible with CWC 4055"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Capacity",
+          "desc": "550 sheets"
+        },
+        {
+          "title": "Compatibility",
+          "desc": "CWC 4055"
+        }
+      ],
+      "consumable": []
+    }
+  },
+  {
+    "id": "4500s-Tray-Single",
+    "name": "CWC 4500s Single Tray",
+    "type": "Tray",
+    "category": "consumables",
+    "format": "A4",
+    "compatibleIds": [
+      "cwc-4500s"
+    ],
+    "image": "/images/Tray/4500s-Tray/main.webp",
+    "img1": "/images/Tray/4500s-Tray/img1.webp",
+    "img2": "/images/Tray/4500s-Tray/img2.webp",
+    "img3": "/images/Tray/4500s-Tray/img3.webp",
+    "specSummary": [
+      "Capacity: 550 sheets",
+      "Compatible with CWC 4500s"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Capacity",
+          "desc": "550 sheets"
+        },
+        {
+          "title": "Compatibility",
+          "desc": "CWC 4500s"
+        }
+      ],
+      "consumable": []
+    }
+  },
+  {
+    "id": "4500s-Tray-Double",
+    "name": "CWC 4500s Double Tray",
+    "type": "Tray",
+    "category": "consumables",
+    "format": "A4",
+    "compatibleIds": [
+      "cwc-4500s"
+    ],
+    "image": "/images/Tray/4500s-Tray-Double/main.webp",
+    "img1": "/images/Tray/4500s-Tray-Double/img1.webp",
+    "img2": "/images/Tray/4500s-Tray-Double/img2.webp",
+    "img3": "/images/Tray/4500s-Tray-Double/img3.webp",
+    "specSummary": [
+      "Capacity: 550 sheets",
+      "Compatible with CWC 4500s"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Capacity",
+          "desc": "550 sheets"
+        },
+        {
+          "title": "Compatibility",
+          "desc": "CWC 4500s"
+        }
+      ],
+      "consumable": []
+    }
+  },
+  {
+    "id": "P4843-Tray-Single",
+    "name": "CWC P4843 Single Tray",
+    "type": "Tray",
+    "category": "consumables",
+    "format": "A4",
+    "compatibleIds": [
+      "cwc-p4843"
+    ],
+    "image": "/images/Tray/P4843-Tray/main.webp",
+    "img1": "/images/Tray/P4843-Tray/img1.webp",
+    "img2": "/images/Tray/P4843-Tray/img2.webp",
+    "img3": "/images/Tray/P4843-Tray/img3.webp",
+    "specSummary": [
+      "Capacity: 550 sheets",
+      "Compatible with CWC P4843"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Capacity",
+          "desc": "550 sheets"
+        },
+        {
+          "title": "Compatibility",
+          "desc": "CWC P4843"
+        }
+      ],
+      "consumable": []
+    }
+  },
+  {
+    "id": "P4843-Tray-Double",
+    "name": "CWC P4843 Double Tray",
+    "type": "Tray",
+    "category": "consumables",
+    "format": "A4",
+    "compatibleIds": [
+      "cwc-p4843"
+    ],
+    "image": "/images/Tray/P4843-Tray-Double/main.webp",
+    "img1": "/images/Tray/P4843-Tray-Double/img1.webp",
+    "img2": "/images/Tray/P4843-Tray-Double/img2.webp",
+    "img3": "/images/Tray/P4843-Tray-Double/img3.webp",
+    "specSummary": [
+      "High capacity paper tray",
+      "Compatible with CWC P4843"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Capacity",
+          "desc": "550 sheets"
+        },
+        {
+          "title": "Compatibility",
+          "desc": "CWC P4843"
+        }
+      ],
+      "consumable": []
+    }
+  }
+]

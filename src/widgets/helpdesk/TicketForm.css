@@ -1,0 +1,164 @@
+/* All rules are scoped under .hd-widget so they never touch the host
+   page's body/, *, or global element styles, and the CSS variables are
+   prefixed --hd- so they can't collide with the host site's own tokens. */
+
+.hd-widget {
+  --hd-ink: #2b2430;
+  --hd-muted: #6b6470;
+  --hd-border: #d9d5df;
+  --hd-accent: #6b4059;
+  --hd-accent-dark: #55324a;
+  --hd-bg: #ffffff;
+  --hd-error: #b3261e;
+
+  font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--hd-ink);
+  box-sizing: border-box;
+}
+
+.hd-widget *,
+.hd-widget *::before,
+.hd-widget *::after {
+  box-sizing: border-box;
+}
+
+.hd-form-card,
+.hd-success {
+  background: var(--hd-bg);
+}
+
+.hd-title {
+  font-size: 22px;
+  font-weight: 600;
+  margin: 0 0 24px;
+}
+
+.hd-widget label {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.hd-req { color: var(--hd-accent); }
+
+.hd-field { margin-bottom: 18px; }
+
+.hd-widget input,
+.hd-widget select,
+.hd-widget textarea {
+  width: 100%;
+  padding: 11px 13px;
+  border: 1px solid var(--hd-border);
+  border-radius: 6px;
+  font-size: 14px;
+  font-family: inherit;
+  color: var(--hd-ink);
+  background: #fff;
+}
+
+.hd-widget input:focus,
+.hd-widget select:focus,
+.hd-widget textarea:focus {
+  outline: none;
+  border-color: var(--hd-accent);
+  box-shadow: 0 0 0 3px rgba(107, 64, 89, 0.12);
+}
+
+.hd-widget textarea { min-height: 110px; resize: vertical; }
+
+.hd-field-error {
+  color: var(--hd-error);
+  font-size: 13px;
+  margin-top: 6px;
+}
+
+.hd-field.hd-invalid input,
+.hd-field.hd-invalid select,
+.hd-field.hd-invalid textarea {
+  border-color: var(--hd-error);
+}
+
+.hd-field-hint {
+  font-size: 12px;
+  color: var(--hd-muted);
+  margin-top: 6px;
+}
+
+.hd-widget button.hd-submit {
+  margin-top: 6px;
+  background: var(--hd-accent);
+  color: #fff;
+  border: none;
+  border-radius: 999px;
+  padding: 12px 30px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.hd-widget button.hd-submit:hover { background: var(--hd-accent-dark); }
+.hd-widget button.hd-submit:disabled { opacity: 0.6; cursor: not-allowed; }
+
+.hd-banner {
+  border-radius: 6px;
+  padding: 14px 16px;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.hd-banner-error {
+  background: #fdecea;
+  border: 1px solid #f3b4ac;
+  color: var(--hd-error);
+}
+
+.hd-banner strong { display: block; margin-bottom: 2px; }
+
+.hd-attachment-note {
+  font-size: 12px;
+  color: var(--hd-muted);
+  margin-top: 6px;
+}
+
+.hd-success {
+  text-align: center;
+  padding: 8px 0 4px;
+}
+
+.hd-success-title {
+  font-size: 26px;
+  font-weight: 800;
+  margin: 0 0 14px;
+}
+
+.hd-success-text {
+  font-size: 15px;
+  color: var(--hd-muted);
+  margin: 0 0 4px;
+  line-height: 1.5;
+}
+
+.hd-badge {
+  display: inline-block;
+  margin-top: 22px;
+  padding: 11px 22px;
+  border: 1px solid var(--hd-border);
+  border-radius: 8px;
+  background: #fafafa;
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: 0.02em;
+}
+
+.hd-new-ticket-link {
+  display: block;
+  margin-top: 24px;
+  font-size: 14px;
+  color: var(--hd-accent);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.hd-new-ticket-link:hover { text-decoration: underline; }

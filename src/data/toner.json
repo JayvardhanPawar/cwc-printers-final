@@ -1,0 +1,1340 @@
+[
+  {
+    "id": "cwc-te502s",
+    "name": "CWC TE502S Toner Cartridge",
+    "type": "Cartridge",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "1500 pages",
+    "compatiblePrinters": [
+      "cwc-p5020",
+      "cwc-pb5020nw",
+      "cwc-mb5020nw"
+    ],
+    "image": "/images/CARTRIDGES/502S/main.webp",
+    "img1": "/images/CARTRIDGES/502S/img1.webp",
+    "img2": "/images/CARTRIDGES/502S/img2.webp",
+    "img3": "/images/CARTRIDGES/502S/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: TE502S",
+      "Page Yield: Up to 1500 pages",
+      "Compatible with: CWC P5020, PB5020N/W, MB5020N/W"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Cartridge type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "TE502S"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 1500 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC P5020, PB5020N/W, MB5020N/W"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-te201",
+    "name": "CWC TE201L / TE201S Toner Cartridge",
+    "type": "Cartridge",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 2000 pages",
+    "variants": [
+      {
+        "model": "TE201L",
+        "description": "High yield toner cartridge"
+      },
+      {
+        "model": "TE201S",
+        "description": "Standard yield toner cartridge"
+      }
+    ],
+    "compatiblePrinters": [
+      "cwc-p5010dnw",
+      "cwc-m2010dnw"
+    ],
+    "image": "/images/CARTRIDGES/201/main.webp",
+    "img1": "/images/CARTRIDGES/201/img1.webp",
+    "img2": "/images/CARTRIDGES/201/img2.webp",
+    "img3": "/images/CARTRIDGES/201/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: TE201L / TE201S",
+      "Page Yield: Up to 2000 pages",
+      "Compatible with: CWC P5010DN/W, CWC M2010DN/W"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Cartridge type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "TE201L / TE201S"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 2000 pages (standard coverage)"
+        }
+      ],
+      "variants": [
+        {
+          "title": "TE201L",
+          "desc": "High yield variant for longer usage"
+        },
+        {
+          "title": "TE201S",
+          "desc": "Standard yield variant"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC P5010DN/W, CWC M2010DN/W"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-te503s",
+    "name": "CWC TE503S Toner Cartridge",
+    "type": "Toner",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 3000 pages",
+    "compatiblePrinters": [
+      "cwc-m5030dnw",
+      "cwc-p5030dnw"
+    ],
+    "image": "/images/CARTRIDGES/503/main.webp",
+    "img1": "/images/CARTRIDGES/503/img1.webp",
+    "img2": "/images/CARTRIDGES/503/img2.webp",
+    "img3": "/images/CARTRIDGES/503/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: TE503S",
+      "Page Yield: Up to 3000 pages",
+      "Compatible with: CWC M5030DN/W, CWC P5030DN/W"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Cartridge type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "TE503S"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 3000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC M5030DN/W, CWC P5030DN/W"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-te504s",
+    "name": "CWC TE504S Toner Cartridge",
+    "type": "Toner",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 3000 pages",
+    "compatiblePrinters": [
+      "cwc-m5040dnw",
+      "cwc-p5040dnw"
+    ],
+    "image": "/images/CARTRIDGES/504/main.webp",
+    "img1": "/images/CARTRIDGES/504/img1.webp",
+    "img2": "/images/CARTRIDGES/504/img2.webp",
+    "img3": "/images/CARTRIDGES/504/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: TE504S",
+      "Page Yield: Up to 3000 pages",
+      "Compatible with: CWC M5040DN/W, CWC P5040DN/W"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Cartridge type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "TE504S"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 3000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC M5040DN/W, CWC P5040DN/W"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-102-2k",
+    "name": "CWC 102-2K Toner Cartridge",
+    "type": "Cartridge",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 2000 pages",
+    "compatiblePrinters": [
+      "cwc-1020",
+      "cwc-1020nw",
+      "cwc-m1005",
+      "cwc-m1005nw"
+    ],
+    "image": "/images/CARTRIDGES/201/main.webp",
+    "img1": "/images/CARTRIDGES/201/img1.webp",
+    "img2": "/images/CARTRIDGES/201/img2.webp",
+    "img3": "/images/CARTRIDGES/201/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: 102-2K",
+      "Page Yield: Up to 2000 pages",
+      "Compatible with: CWC 1020, 1020NW, M1005, M1005NW"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Cartridge type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "102-2K"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 2000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 1020, 1020NW, M1005, M1005NW"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t4843",
+    "name": "CWC T4843 / T5050 Toner Cartridge",
+    "type": "Cartridge",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 3000 pages",
+    "variants": [
+      {
+        "model": "T4843",
+        "description": "Standard toner cartridge"
+      },
+      {
+        "model": "T5050",
+        "description": "Compatible alternate model"
+      }
+    ],
+    "compatiblePrinters": [
+      "cwc-m4843"
+    ],
+    "image": "/images/CARTRIDGES/T4843/main.webp",
+    "img1": "/images/CARTRIDGES/T4843/img1.webp",
+    "img2": "/images/CARTRIDGES/T4843/img2.webp",
+    "img3": "/images/CARTRIDGES/T4843/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: T4843 / T5050",
+      "Page Yield: Up to 3000 pages",
+      "Compatible with: CWC M4843"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Cartridge type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "T4843 / T5050"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 3000 pages (standard coverage)"
+        }
+      ],
+      "variants": [
+        {
+          "title": "T4843",
+          "desc": "Primary toner model"
+        },
+        {
+          "title": "T5050",
+          "desc": "Alternate compatible toner model"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC M4843"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t4846",
+    "name": "CWC T4846 Toner Cartridge",
+    "type": "Cartridge",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 6000 pages",
+    "compatiblePrinters": [
+      "cwc-m4843"
+    ],
+    "image": "/images/CARTRIDGES/T4846/main.webp",
+    "img1": "/images/CARTRIDGES/T4846/img1.webp",
+    "img2": "/images/CARTRIDGES/T4846/img2.webp",
+    "img3": "/images/CARTRIDGES/T4846/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: T4846",
+      "Page Yield: Up to 6000 pages",
+      "Compatible with: CWC M4843"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Cartridge type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "T4846"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 6000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC M4843"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t4843-p4843",
+    "name": "CWC T4843 Toner Cartridge",
+    "type": "Cartridge",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 3000 pages",
+    "compatiblePrinters": [
+      "cwc-p4843"
+    ],
+    "image": "/images/CARTRIDGES/T-4843/main.webp",
+    "img1": "/images/CARTRIDGES/T-4843/img1.webp",
+    "img2": "/images/CARTRIDGES/T-4843/img2.webp",
+    "img3": "/images/CARTRIDGES/T-4843/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: T4843",
+      "Page Yield: Up to 3000 pages",
+      "Compatible with: CWC P4843"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Cartridge type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "T4843"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 3000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC P4843"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t0235",
+    "name": "CWC T0235 Toner Cartridge",
+    "type": "Toner",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 3000 pages",
+    "compatiblePrinters": [
+      "cwc-m235"
+    ],
+    "image": "/images/CARTRIDGES/T0235/main.webp",
+    "img1": "/images/CARTRIDGES/T0235/img1.webp",
+    "img2": "/images/CARTRIDGES/T0235/img2.webp",
+    "img3": "/images/CARTRIDGES/T0235/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: T0235",
+      "Page Yield: Up to 3000 pages",
+      "Compatible with: CWC M235"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Cartridge type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "T0235"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 3000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC M235"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t310",
+    "name": "CWC T310 Toner Cartridge",
+    "type": "Toner",
+    "subType": "toner",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 1500 pages",
+    "compatiblePrinters": [
+      "cwc-3336"
+    ],
+    "image": "/images/CARTRIDGES/CWC-T310/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-T310/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-T310/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-T310/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: T310",
+      "Page Yield: Up to 1500 pages",
+      "Compatible with: CWC 3336"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "T310"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 1500 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 3336"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t4055",
+    "name": "CWC T4055 Toner Cartridge",
+    "type": "Toner",
+    "subType": "toner",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 3000 pages",
+    "compatiblePrinters": [
+      "cwc-4055"
+    ],
+    "image": "/images/CARTRIDGES/CWC-T4055/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-T4055/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-T4055/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-T4055/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner Cartridge",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-T4055",
+      "Page Yield: Up to 3000 pages",
+      "Compatible with: CWC 4055"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-T4055"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 3000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 4055"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t3300",
+    "name": "CWC T3300 Toner Cartridge",
+    "type": "Toner",
+    "subType": "toner",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 3000 pages",
+    "compatiblePrinters": [
+      "cwc-3300s"
+    ],
+    "image": "/images/CARTRIDGES/CWC-T3300/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-T3300/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-T3300/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-T3300/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner Cartridge",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-T3300",
+      "Page Yield: Up to 3000 pages",
+      "Compatible with: CWC 3300S"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-T3300"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 3000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 3300S"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t4555",
+    "name": "CWC T4555 Toner Cartridge",
+    "type": "Toner",
+    "subType": "toner",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 3000 pages",
+    "compatiblePrinters": [
+      "cwc-4555"
+    ],
+    "image": "/images/CARTRIDGES/CWC-T4555/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-T4555/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-T4555/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-T4555/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner Cartridge",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-T4555",
+      "Page Yield: Up to 3000 pages",
+      "Compatible with: CWC 4555"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-T4555"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 3000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 4555"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t4620",
+    "name": "CWC T4620 Toner Cartridge",
+    "type": "Toner",
+    "subType": "toner",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 6000 pages",
+    "compatiblePrinters": [
+      "cwc-4620fnw"
+    ],
+    "image": "/images/CARTRIDGES/CWC-T4620/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-T4620/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-T4620/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-T4620/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner Cartridge",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-T4620",
+      "Page Yield: Up to 6000 pages",
+      "Compatible with: CWC 4620FNW"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-T4620"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 6000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 4620FNW"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t4650",
+    "name": "CWC T4650 Toner Cartridge",
+    "type": "Toner",
+    "subType": "toner",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 6000 pages",
+    "compatiblePrinters": [
+      "cwc-4650"
+    ],
+    "image": "/images/CARTRIDGES/CWC-T4650/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-T4650/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-T4650/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-T4650/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner Cartridge",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-T4650",
+      "Page Yield: Up to 6000 pages",
+      "Compatible with: CWC 4650"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-T4650"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 6000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 4650"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t5100",
+    "name": "CWC T5100 Toner Cartridge",
+    "type": "Toner",
+    "subType": "toner",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 30000 pages",
+    "compatiblePrinters": [
+      "cwc-5100s"
+    ],
+    "image": "/images/CARTRIDGES/CWC-T5100/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-T5100/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-T5100/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-T5100/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner Cartridge",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-T5100",
+      "Page Yield: Up to 30000 pages",
+      "Compatible with: CWC 5100S"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-T5100"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 30000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 5100S"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t2100-cmyk",
+    "name": "CWC T2100 CMYK Toner Cartridge Set",
+    "type": "Toner",
+    "subType": "toner",
+    "category": "consumables",
+    "color": "CMYK (Black, Cyan, Magenta, Yellow)",
+    "technology": "Laser",
+    "yield": {
+      "black": "Up to 1500 pages",
+      "cyan": "Up to 1000 pages",
+      "magenta": "Up to 1000 pages",
+      "yellow": "Up to 1000 pages"
+    },
+    "compatiblePrinters": [
+      "cwc-2100s"
+    ],
+    "image": "/images/CARTRIDGES/CWC-T2100-CMYK/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-T2100-CMYK/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-T2100-CMYK/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-T2100-CMYK/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner Cartridge Set",
+      "Print Technology: Laser",
+      "Print Colors: Black, Cyan, Magenta, Yellow",
+      "Model: CWC-T2100 CMYK",
+      "Page Yield: Black - 1500 | Color - 1000",
+      "Compatible with: CWC 2100S"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Toner Cartridge Set (CMYK)"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print colors",
+          "desc": "Black, Cyan, Magenta, Yellow"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-T2100 CMYK"
+        }
+      ],
+      "yield_details": [
+        {
+          "title": "Black toner yield",
+          "desc": "Up to 1500 pages"
+        },
+        {
+          "title": "Color toner yield",
+          "desc": "Up to 1000 pages each (C/M/Y)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 2100S"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t2101-cmyk",
+    "name": "CWC T2101 CMYK Toner Cartridge Set",
+    "type": "Toner",
+    "subType": "toner",
+    "category": "consumables",
+    "color": "CMYK (Black, Cyan, Magenta, Yellow)",
+    "technology": "Laser",
+    "yield": {
+      "black": "Up to 1500 pages",
+      "cyan": "Up to 1000 pages",
+      "magenta": "Up to 1000 pages",
+      "yellow": "Up to 1000 pages"
+    },
+    "compatiblePrinters": [
+      "cwc-2101s"
+    ],
+    "image": "/images/CARTRIDGES/CWC-T2101-CMYK/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-T2101-CMYK/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-T2101-CMYK/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-T2101-CMYK/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner Cartridge Set",
+      "Print Technology: Laser",
+      "Print Colors: Black, Cyan, Magenta, Yellow",
+      "Model: CWC-T2101 CMYK",
+      "Page Yield: Black - 1500 | Color - 1000",
+      "Compatible with: CWC 2101S"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Toner Cartridge Set (CMYK)"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print colors",
+          "desc": "Black, Cyan, Magenta, Yellow"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-T2101 CMYK"
+        }
+      ],
+      "yield_details": [
+        {
+          "title": "Black toner yield",
+          "desc": "Up to 1500 pages"
+        },
+        {
+          "title": "Color toner yield",
+          "desc": "Up to 1000 pages each (C/M/Y)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 2101S"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t7100-cmyk",
+    "name": "CWC T7100 CMYK Toner Cartridge Set",
+    "type": "Toner",
+    "subType": "toner",
+    "category": "consumables",
+    "color": "CMYK (Black, Cyan, Magenta, Yellow)",
+    "technology": "Laser",
+    "yield": {
+      "black": "Up to 33000 pages",
+      "cyan": "Up to 18000 pages",
+      "magenta": "Up to 18000 pages",
+      "yellow": "Up to 18000 pages"
+    },
+    "compatiblePrinters": [
+      "cwc-7100s"
+    ],
+    "image": "/images/CARTRIDGES/CWC-T710-CMYK/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-T710-CMYK/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-T710-CMYK/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-T710-CMYK/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner Cartridge Set",
+      "Print Technology: Laser",
+      "Print Colors: Black, Cyan, Magenta, Yellow",
+      "Model: CWC-T7100 CMYK",
+      "Page Yield: Black - 33000 | Color - 18000",
+      "Compatible with: CWC 7100S"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Toner Cartridge Set (CMYK)"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print colors",
+          "desc": "Black, Cyan, Magenta, Yellow"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-T7100 CMYK"
+        }
+      ],
+      "yield_details": [
+        {
+          "title": "Black toner yield",
+          "desc": "Up to 33000 pages"
+        },
+        {
+          "title": "Color toner yield",
+          "desc": "Up to 18000 pages each (C/M/Y)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 7100S"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t7100",
+    "name": "CWC T7100 Toner Cartridge",
+    "type": "Toner",
+    "subType": "toner",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 34000 pages",
+    "compatiblePrinters": [
+      "cwc-7100s-mono",
+      "cwc-7100s-color"
+    ],
+    "image": "/images/CARTRIDGES/T7100/main.webp",
+    "img1": "/images/CARTRIDGES/T7100/img1.webp",
+    "img2": "/images/CARTRIDGES/T7100/img2.webp",
+    "img3": "/images/CARTRIDGES/T7100/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner Cartridge",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-T7100",
+      "Page Yield: Up to 34000 pages",
+      "Compatible with: CWC 7100S Series"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-T7100"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 34000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 7100S Series (Mono & Color)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t4846",
+    "name": "CWC T4846 Toner Cartridge",
+    "type": "Cartridge",
+    "subType": "toner",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 6000 pages",
+    "compatiblePrinters": [
+      "cwc-4055"
+    ],
+    "image": "/images/CARTRIDGES/T4846/main.webp",
+    "img1": "/images/CARTRIDGES/T4846/img1.webp",
+    "img2": "/images/CARTRIDGES/T4846/img2.webp",
+    "img3": "/images/CARTRIDGES/T4846/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner Cartridge",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-T4846",
+      "Page Yield: Up to 6000 pages",
+      "Compatible with: CWC 4055"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-T4846"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 6000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 4055"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t3333",
+    "name": "CWC T3333 Toner Cartridge",
+    "type": "Toner",
+    "subType": "toner",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 3000 pages",
+    "compatiblePrinters": [
+      "cwc-3336"
+    ],
+    "image": "/images/CARTRIDGES/T3333/main.webp",
+    "img1": "/images/CARTRIDGES/T3333/img1.webp",
+    "img2": "/images/CARTRIDGES/T3333/img2.webp",
+    "img3": "/images/CARTRIDGES/T3333/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner Cartridge",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-T3333",
+      "Page Yield: Up to 3000 pages",
+      "Compatible with: CWC 3336"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-T3333"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 3000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 3336"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-t3336",
+    "name": "CWC T3336 Toner Cartridge",
+    "type": "Toner",
+    "subType": "toner",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 6000 pages",
+    "compatiblePrinters": [
+      "cwc-3336"
+    ],
+    "image": "/images/CARTRIDGES/T3336/main.webp",
+    "img1": "/images/CARTRIDGES/T3336/img1.webp",
+    "img2": "/images/CARTRIDGES/T3336/img2.webp",
+    "img3": "/images/CARTRIDGES/T3336/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Toner Cartridge",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-T3336",
+      "Page Yield: Up to 6000 pages",
+      "Compatible with: CWC 3336"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Toner Cartridge"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-T3336"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 6000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 3336"
+        }
+      ]
+    }
+  }
+]

@@ -161,7 +161,7 @@ export default function NationwidePresence() {
               <div className="h-px bg-brand-secondary dark:bg-gray-800 my-7" />
 
               <Link
-                to="/quote"
+                to="/contact"
                 className="flex items-center justify-center gap-2 w-full py-3.5 rounded-full
                   bg-brand-text dark:bg-white
                   text-white dark:text-gray-900

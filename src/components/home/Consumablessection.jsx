@@ -36,7 +36,7 @@ const consumables = [
     description:
       'Safe, compliant waste toner collection and disposal. Part of our e-waste responsibility programme.',
     linkLabel: 'Learn More',
-    linkTo: '/consumables/waste-toner',
+    linkTo: '',
   },
 ];
 

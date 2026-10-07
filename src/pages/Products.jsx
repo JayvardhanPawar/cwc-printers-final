@@ -4,7 +4,9 @@ import { X, Printer, PackageOpen, LayoutGrid, Search, SlidersHorizontal, Check, 
 import ProductCard from '../components/ProductCard';
 import productsData from '../data/products.json';
 
-const CONSUMABLE_TYPES = ['Cartridge', 'Toner', 'Drum Unit'];
+// ✅ Tray added. This one list drives the category filter, the Supply Type
+// sidebar options and the singleImage prop on ProductCard.
+const CONSUMABLE_TYPES = ['Cartridge', 'Toner', 'Drum Unit', 'Tray'];
 
 export default function Products() {
   const [searchParams, setSearchParams] = useSearchParams();
@@ -14,9 +16,7 @@ export default function Products() {
   const [visibleLimit, setVisibleLimit] = useState(28);
   const [isLoadingMore, setIsLoadingMore] = useState(false);
 
-  // ✅ FIX 1: Only read category from the explicit URL param — never derive it from typeParam.
-  // Deriving category from typeParam caused a silent category switch that double-filtered results
-  // and made the wrong sidebar tab appear active.
+  // Only read category from the explicit URL param — never derive it from typeParam.
   const currentCategory = searchParams.get('category') || 'all';
 
   useEffect(() => {
@@ -38,8 +38,6 @@ export default function Products() {
     }
 
     // Step 2: apply attribute filters on top of that pool
-    // ✅ FIX 2: Only apply typeFilter when explicitly set in URL, not when derived from category.
-    // Previously, category derivation + typeFilter both ran, causing over-filtering.
     const typeFilter     = searchParams.get('type');
     const formatFilter   = searchParams.get('format');
     const functionFilter = searchParams.get('function');
@@ -74,7 +72,7 @@ export default function Products() {
   const hasMore = visibleLimit < filteredProducts.length;
 
   const handleCategorySwitch = (cat) => {
-    // Clear all attribute filters when switching category — correct behaviour
+    // Clear all attribute filters when switching category
     setSearchParams(cat === 'all' ? {} : { category: cat });
     setSearchQuery('');
   };
@@ -89,9 +87,7 @@ export default function Products() {
       newParams.set(key, value);
     }
 
-    // ✅ FIX 3: Always preserve the explicit category param so it isn't lost on filter toggles.
-    // Previously the guard `currentCategory !== 'all'` used the derived value, which could
-    // be wrong. Now currentCategory is always the URL value so this is always reliable.
+    // Always preserve the explicit category param so it isn't lost on filter toggles.
     if (currentCategory !== 'all' && !newParams.has('category')) {
       newParams.set('category', currentCategory);
     }
@@ -157,7 +153,7 @@ export default function Products() {
               onClick={() => handleCategorySwitch('scanners')}
               className={`py-2.5 text-[9px] font-black uppercase tracking-widest rounded-xl transition-all flex items-center justify-center gap-2 ${currentCategory === 'scanners' ? 'bg-brand-text text-white shadow-lg' : 'text-gray-400 hover:text-brand-text'}`}
             >
-              <ScanLine className="w-3.5 h-3.5" /> Scanners 
+              <ScanLine className="w-3.5 h-3.5" /> Scanners
             </button>
             <button
               onClick={() => handleCategorySwitch('consumables')}
@@ -184,7 +180,8 @@ export default function Products() {
             </>
           )}
           {currentCategory === 'consumables' && (
-            <FilterSection title="Supply Type" filterKey="type" options={['Cartridge', 'Toner', 'Drum Unit']} />
+            // ✅ Uses CONSUMABLE_TYPES so Tray appears here automatically
+            <FilterSection title="Supply Type" filterKey="type" options={CONSUMABLE_TYPES} />
           )}
         </div>
       </aside>

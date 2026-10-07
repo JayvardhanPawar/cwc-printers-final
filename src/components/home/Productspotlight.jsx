@@ -3,20 +3,20 @@ import { Link } from 'react-router-dom';
 import { ChevronRight, Star } from 'lucide-react';
 
 const spotlightData = {
-  badge: 'CWC 4055 · Best Seller',
-  headline: ['55 pages.', 'Every minute.'],
+  badge: 'CWC 4500S · Multifunction',
+  headline: ['45 pages.', 'Every minute.'],
   description:
-    'The CWC 4055 delivers enterprise-class print speed at 55 ppm — outperforming the competition and keeping your team moving.',
+    'The CWC 4500S Multifunction Laser Printer combines fast 45–49 ppm mono printing with flatbed + DADF scanning and automatic duplex — a complete workflow solution for busy offices.',
   stats: [
-    { value: '55',    label: 'Pages / Min'    },
-    { value: '1200',  label: 'DPI Resolution' },
-    { value: '150K',  label: 'Monthly Duty'   },
-    { value: 'Wi-Fi', label: 'Connectivity'   },
+    { value: '45',   label: 'Pages / Min'    },
+    { value: '1200', label: 'DPI Scan'       },
+    { value: '150K', label: 'Monthly Duty'   },
+    { value: 'Wi-Fi', label: 'Connectivity'  },
   ],
-  linkLabel: 'Learn more about CWC 4055',
-  linkTo: '/products/cwc-4055',
-  image: '/images/4055/img1.webp',
-  imageAlt: 'CWC 4055 laser printer',
+  linkLabel: 'Learn more about CWC 4500S',
+  linkTo: '/products/cwc-4500s',
+  image: '/images/4500s/img1.webp',
+  imageAlt: 'CWC 4500S multifunction laser printer',
 };
 
 function useInView(threshold = 0.1) {
@@ -79,7 +79,7 @@ export default function ProductSpotlight() {
             Our flagship model.
           </h2>
           <p className={`text-gray-600 dark:text-gray-400 text-sm leading-relaxed max-w-md transition-all duration-700 delay-150 ${headerInView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-6'}`}>
-            Engineered for high-volume printing with enterprise reliability and speed.
+            Engineered for high-volume printing, scanning, and copying with enterprise reliability.
           </p>
         </div>
 

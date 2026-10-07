@@ -75,12 +75,12 @@ export default function About() {
             </div>
 
             {/* 🔶 Make In India Floating Badge */}
-            <div className="absolute -bottom-6 -right-4 md:-right-8 bg-white dark:bg-brand-darkCard p-1 rounded-full shadow-3d animate-float z-20 border border-brand-secondary dark:border-gray-700">
+            {/* <div className="absolute -bottom-6 -right-4 md:-right-8 bg-white dark:bg-brand-darkCard p-1 rounded-full shadow-3d animate-float z-20 border border-brand-secondary dark:border-gray-700">
               <div className="bg-gradient-to-br from-brand-accent to-brand-highlight text-white p-5 md:p-7 rounded-full text-center min-w-[120px]">
                 <p className="text-2xl md:text-4xl font-black leading-none">100%</p>
                 <p className="text-[9px] uppercase font-bold tracking-[0.1em] mt-1">Make In India</p>
               </div>
-            </div>
+            </div> */}
           </div>
 
           {/* --- RIGHT SIDE: CONTENT --- */}

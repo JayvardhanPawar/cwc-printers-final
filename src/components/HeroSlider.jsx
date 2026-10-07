@@ -77,8 +77,14 @@ export default function HeroSlider({ isVisible }) {
   }, [current, goTo]);
 
   return (
+    // FIX 1: min-h instead of a hard h-[100svh] so content can grow instead of
+    // getting clipped on short/mobile viewports. Still h-[100svh] on lg+ where
+    // there's room for everything.
+    // FIX 2: overflow-x-hidden (not overflow-hidden) — we still need to clip the
+    // horizontal slide track, but we must NOT clip vertically or tall mobile
+    // content gets cut off.
     <div
-      className="relative overflow-hidden w-full h-[100svh] flex flex-col"
+      className="relative overflow-x-hidden w-full min-h-[100svh] lg:h-[100svh] flex flex-col"
       onTouchStart={(e) => { touchStartX.current = e.touches[0].clientX; }}
       onTouchEnd={(e) => {
         const dx = e.changedTouches[0].clientX - touchStartX.current;
@@ -93,7 +99,7 @@ export default function HeroSlider({ isVisible }) {
 
       {/* Slides track */}
       <div
-        className="flex flex-1 h-full transition-transform duration-700"
+        className="flex flex-1 transition-transform duration-700"
         style={{
           transform: `translateX(-${current * (100 / slides.length)}%)`,
           transitionTimingFunction: 'cubic-bezier(0.77,0,0.175,1)',
@@ -103,27 +109,33 @@ export default function HeroSlider({ isVisible }) {
         {slides.map((s, i) => (
           <div
             key={i}
-            className="flex flex-col lg:flex-row items-center
-              gap-10 lg:gap-16
-              px-6 py-20 lg:px-16 xl:px-24 lg:py-0
-              h-full"
+            // FIX 3: smaller gap/padding on mobile so there's less vertical
+            // weight to begin with; min-h instead of h-full lets it size
+            // to its own content.
+            className="flex flex-col lg:flex-row items-center justify-center
+              gap-6 sm:gap-8 lg:gap-16
+              px-5 sm:px-6 py-6 sm:py-10 lg:px-16 xl:px-24 lg:py-0
+              min-h-[100svh] lg:min-h-0 lg:h-full"
             style={{ width: `${100 / slides.length}%` }}
           >
             {/* Left Content */}
-            <div className="flex-1 space-y-6 lg:space-y-8 text-center lg:text-left z-10 w-full">
+            <div className="flex-1 space-y-4 sm:space-y-6 lg:space-y-8 text-center lg:text-left z-10 w-full">
               <div
-                className={`inline-flex items-center gap-2 bg-white/50 dark:bg-white/5 backdrop-blur-md border border-brand-secondary dark:border-gray-800 px-4 py-2 rounded-full transition-all duration-700 ${
+                className={`inline-flex items-center gap-2 bg-white/50 dark:bg-white/5 backdrop-blur-md border border-brand-secondary dark:border-gray-800 px-3 sm:px-4 py-1.5 sm:py-2 rounded-full transition-all duration-700 ${
                   isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
                 }`}
               >
-                <Printer className="w-4 h-4 text-brand-accent" />
-                <span className="text-xs font-bold uppercase tracking-widest text-brand-text dark:text-brand-darkText">
+                <Printer className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-brand-accent" />
+                <span className="text-[10px] sm:text-xs font-bold uppercase tracking-widest text-brand-text dark:text-brand-darkText">
                   {s.badge}
                 </span>
               </div>
 
+              {/* FIX 4: added a real mobile-first step (text-3xl) below the old
+                  smallest size (text-4xl) so the heading has room to breathe
+                  on narrow phones instead of wrapping awkwardly. */}
               <h1
-                className={`text-4xl sm:text-5xl md:text-6xl lg:text-6xl xl:text-7xl 2xl:text-8xl font-bold text-brand-text dark:text-brand-darkText leading-[1.1] transition-all duration-1000 delay-100 ${
+                className={`text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl 2xl:text-8xl font-bold text-brand-text dark:text-brand-darkText leading-[1.15] sm:leading-[1.1] transition-all duration-1000 delay-100 ${
                   isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
                 }`}
               >
@@ -131,7 +143,7 @@ export default function HeroSlider({ isVisible }) {
                 <span className="text-brand-accent relative inline-block">
                   {s.highlight}
                   <span
-                    className={`absolute bottom-2 left-0 h-[6px] bg-brand-accent/20 rounded-full transition-all duration-1000 delay-1000 ${
+                    className={`absolute bottom-1 sm:bottom-2 left-0 h-[4px] sm:h-[6px] bg-brand-accent/20 rounded-full transition-all duration-1000 delay-1000 ${
                       isVisible ? 'w-full' : 'w-0'
                     }`}
                   />
@@ -139,7 +151,7 @@ export default function HeroSlider({ isVisible }) {
               </h1>
 
               <p
-                className={`text-base md:text-lg lg:text-xl xl:text-2xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto lg:mx-0 leading-relaxed transition-all duration-1000 delay-200 ${
+                className={`text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto lg:mx-0 leading-relaxed transition-all duration-1000 delay-200 ${
                   isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
                 }`}
               >
@@ -147,33 +159,33 @@ export default function HeroSlider({ isVisible }) {
               </p>
 
               <div
-                className={`flex flex-wrap justify-center lg:justify-start gap-4 lg:gap-5 pt-2 transition-all duration-1000 delay-300 ${
+                className={`flex flex-wrap justify-center lg:justify-start gap-3 sm:gap-4 lg:gap-5 pt-1 sm:pt-2 transition-all duration-1000 delay-300 ${
                   isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
                 }`}
               >
                 <Link
                   to={s.primaryTo}
-                  className="group flex items-center gap-2 bg-brand-text dark:bg-brand-accent hover:bg-brand-highlight text-white px-8 lg:px-10 py-4 rounded-2xl font-bold transition-all shadow-3d hover:-translate-y-1 text-sm lg:text-base"
+                  className="group flex items-center gap-2 bg-brand-text dark:bg-brand-accent hover:bg-brand-highlight text-white px-6 sm:px-8 lg:px-10 py-3 sm:py-4 rounded-2xl font-bold transition-all shadow-3d hover:-translate-y-1 text-xs sm:text-sm lg:text-base"
                 >
                   {s.primaryLabel}
-                  <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+                  <ArrowRight className="w-4 h-4 sm:w-5 sm:h-5 group-hover:translate-x-1 transition-transform" />
                 </Link>
                 <Link
                   to={s.secondaryTo}
-                  className="flex items-center gap-2 border-2 border-brand-secondary dark:border-gray-800 text-brand-text dark:text-brand-darkText hover:border-brand-accent hover:text-brand-accent px-8 lg:px-10 py-4 rounded-2xl font-bold transition-all text-sm lg:text-base"
+                  className="flex items-center gap-2 border-2 border-brand-secondary dark:border-gray-800 text-brand-text dark:text-brand-darkText hover:border-brand-accent hover:text-brand-accent px-6 sm:px-8 lg:px-10 py-3 sm:py-4 rounded-2xl font-bold transition-all text-xs sm:text-sm lg:text-base"
                 >
                   {s.secondaryLabel}
                 </Link>
               </div>
 
-              <p className="text-xs font-mono text-gray-400 dark:text-gray-600 tracking-widest pt-1">
+              <p className="text-[10px] sm:text-xs font-mono text-gray-400 dark:text-gray-600 tracking-widest pt-1">
                 {s.num} / {String(slides.length).padStart(2, '0')}
               </p>
             </div>
 
-            {/* Right Image — no card, just the image */}
+            {/* Right Image */}
             <div
-              className={`flex-1 w-full max-w-lg lg:max-w-none transition-all duration-1000 delay-500 z-10 ${
+              className={`flex-1 w-full max-w-xs sm:max-w-md lg:max-w-none transition-all duration-1000 delay-500 z-10 ${
                 isVisible ? 'opacity-100 scale-100 translate-x-0' : 'opacity-0 scale-95 translate-x-12'
               }`}
             >
@@ -181,13 +193,16 @@ export default function HeroSlider({ isVisible }) {
                 <img
                   src={s.image}
                   alt={s.badge}
-                  className="w-full h-auto transition-transform duration-700 group-hover:scale-105 object-contain max-h-[40vh] lg:max-h-[60vh]"
+                  // FIX 5: shrunk mobile image cap (was 40vh, now 22vh) since
+                  // that height was the single biggest contributor to the
+                  // slide not fitting in one screen on phones.
+                  className="w-full h-auto transition-transform duration-700 group-hover:scale-105 object-contain max-h-[22vh] sm:max-h-[32vh] lg:max-h-[60vh] mx-auto"
                   onError={(e) => {
                     e.target.src = 'https://via.placeholder.com/800x600?text=Premium+Printer';
                   }}
                 />
-                <div className="absolute bottom-4 left-4 flex items-center gap-2 bg-black/50 backdrop-blur-md text-white px-4 py-2 rounded-xl text-xs font-mono border border-white/10">
-                  <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
+                <div className="absolute bottom-2 left-2 sm:bottom-4 sm:left-4 flex items-center gap-1.5 sm:gap-2 bg-black/50 backdrop-blur-md text-white px-2.5 sm:px-4 py-1.5 sm:py-2 rounded-xl text-[10px] sm:text-xs font-mono border border-white/10">
+                  <span className="w-1.5 h-1.5 sm:w-2 sm:h-2 rounded-full bg-green-500 animate-pulse" />
                   {s.label}
                 </div>
               </div>
@@ -196,24 +211,26 @@ export default function HeroSlider({ isVisible }) {
         ))}
       </div>
 
-      {/* Prev / Next arrows */}
+      {/* Prev / Next arrows — FIX 6: hidden on phones. They previously sat
+          absolutely centered over the text/image and overlapped content once
+          the slide height became fluid. Swipe + dots handle nav on mobile. */}
       <button
         onClick={() => goTo(current - 1)}
-        className="absolute left-4 top-1/2 -translate-y-1/2 z-10 w-10 h-10 lg:w-12 lg:h-12 rounded-full border border-brand-secondary dark:border-gray-700 bg-white/80 dark:bg-black/30 backdrop-blur-sm flex items-center justify-center text-brand-text dark:text-brand-darkText hover:bg-white dark:hover:bg-black/50 transition-colors shadow-md"
+        className="hidden sm:flex absolute left-4 top-1/2 -translate-y-1/2 z-10 w-10 h-10 lg:w-12 lg:h-12 rounded-full border border-brand-secondary dark:border-gray-700 bg-white/80 dark:bg-black/30 backdrop-blur-sm items-center justify-center text-brand-text dark:text-brand-darkText hover:bg-white dark:hover:bg-black/50 transition-colors shadow-md"
         aria-label="Previous slide"
       >
         <ChevronLeft className="w-4 h-4 lg:w-5 lg:h-5" />
       </button>
       <button
         onClick={() => goTo(current + 1)}
-        className="absolute right-4 top-1/2 -translate-y-1/2 z-10 w-10 h-10 lg:w-12 lg:h-12 rounded-full border border-brand-secondary dark:border-gray-700 bg-white/80 dark:bg-black/30 backdrop-blur-sm flex items-center justify-center text-brand-text dark:text-brand-darkText hover:bg-white dark:hover:bg-black/50 transition-colors shadow-md"
+        className="hidden sm:flex absolute right-4 top-1/2 -translate-y-1/2 z-10 w-10 h-10 lg:w-12 lg:h-12 rounded-full border border-brand-secondary dark:border-gray-700 bg-white/80 dark:bg-black/30 backdrop-blur-sm items-center justify-center text-brand-text dark:text-brand-darkText hover:bg-white dark:hover:bg-black/50 transition-colors shadow-md"
         aria-label="Next slide"
       >
         <ChevronRight className="w-4 h-4 lg:w-5 lg:h-5" />
       </button>
 
       {/* Dot indicators */}
-      <div className="absolute bottom-6 left-1/2 -translate-x-1/2 flex items-center gap-2 z-10">
+      <div className="absolute bottom-4 sm:bottom-6 left-1/2 -translate-x-1/2 flex items-center gap-2 z-10">
         {slides.map((_, i) => (
           <button
             key={i}

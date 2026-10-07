@@ -1,0 +1,444 @@
+[
+  {
+    "id": "cwc-3100",
+    "name": "CWC 3100 Document Scanner",
+    "type": "Document",
+    "category": "scanners",
+    "format": "A4",
+    "function": "Scan",
+    "compatibleIds": [],
+    "speed": "40 ppm / 80 ipm",
+    "image": "/images/3100/main.webp",
+    "img1": "/images/3100/img1.webp",
+    "img2": "/images/3100/img2.webp",
+    "img3": "/images/3100/img3.webp",
+    "specSummary": [
+      "Scan speed (A4): Up to 40 ppm / 80 ipm (duplex)",
+      "Connection method: USB 3.0, USB 2.0",
+      "Sheet-fed desktop document scanner",
+      "Dual CIS with LED light source",
+      "Fast and efficient bulk scanning"
+    ],
+    "details": {
+      "scan_specification": [
+        {
+          "title": "Scan speed",
+          "desc": "Up to 40 pages per minute"
+        },
+        {
+          "title": "Duplex scan speed",
+          "desc": "Up to 80 images per minute"
+        },
+        {
+          "title": "Scan resolution",
+          "desc": "Up to 1200 x 1200 dpi"
+        },
+        {
+          "title": "Form factor",
+          "desc": "Sheet-fed desktop document scanner"
+        },
+        {
+          "title": "Control panel",
+          "desc": "LED display with 4 keys"
+        },
+        {
+          "title": "Color depth",
+          "desc": "48-bit internal / 24-bit external"
+        },
+        {
+          "title": "Grayscale",
+          "desc": "256 levels (8-bit)"
+        }
+      ],
+      "paper_handling": [
+        {
+          "title": "ADF capacity",
+          "desc": "60 sheets"
+        },
+        {
+          "title": "Supported media",
+          "desc": "Plain paper, thin, thick, recycled, business cards, plastic cards"
+        },
+        {
+          "title": "Media weight",
+          "desc": "40–200 g/m²"
+        },
+        {
+          "title": "Card thickness",
+          "desc": "Up to 1.32 mm (embossed), 1.10 mm (non-embossed)"
+        }
+      ],
+      "general": [
+        {
+          "title": "Function",
+          "desc": "Scan"
+        },
+        {
+          "title": "Image processing",
+          "desc": "Auto deskew, auto rotation, blank page removal, color detection, background removal, OCR optimization, 2-in-1 and 1-to-2 scan modes"
+        },
+        {
+          "title": "File formats",
+          "desc": "PDF (single/multi, PDF/A, secured), JPEG, TIFF"
+        },
+        {
+          "title": "Direct scan",
+          "desc": "Scan directly to USB (up to 128GB)"
+        },
+        {
+          "title": "Feed control",
+          "desc": "Separation switch"
+        },
+        {
+          "title": "Output options",
+          "desc": "Scan to PC, Image"
+        },
+        {
+          "title": "Power supply",
+          "desc": "220–240V AC, 50/60Hz"
+        },
+        {
+          "title": "Dimensions (with carton)",
+          "desc": "391 x 243 x 320 mm"
+        },
+        {
+          "title": "Weight",
+          "desc": "3.32 kg"
+        },
+        {
+          "title": "Power consumption",
+          "desc": "23W (scanning), 5.4W (ready), 1.4W (sleep), 0.1W (off)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-s5302",
+    "name": "CWC S5302 Document Scanner",
+    "type": "Document",
+    "category": "scanners",
+    "format": "A4",
+    "function": "Scan",
+    "compatibleIds": [],
+    "speed": "50 ppm / 100 ipm",
+    "image": "/images/S5302/main.webp",
+    "img1": "/images/S5302/img1.webp",
+    "img2": "/images/S5302/img2.webp",
+    "img3": "/images/S5302/img3.webp",
+    "specSummary": [
+      "Scan speed (A4): Up to 50 ppm / 100 ipm (duplex)",
+      "Connection method: Network and USB",
+      "Sheet-fed desktop document scanner",
+      "Dual CIS sensors (front & back)",
+      "High-volume scanning with 10,000 pages/day capacity"
+    ],
+    "details": {
+      "scan_specification": [
+        {
+          "title": "Scan speed",
+          "desc": "Simplex: 50 ppm"
+        },
+        {
+          "title": "Duplex scan speed",
+          "desc": "Up to 100 ipm"
+        },
+        {
+          "title": "Scan resolution",
+          "desc": "600 dpi"
+        },
+        {
+          "title": "Image sensor",
+          "desc": "Dual CIS (front x1, back x1)"
+        }
+      ],
+      "paper_handling": [
+        {
+          "title": "ADF capacity",
+          "desc": "100 sheets"
+        },
+        {
+          "title": "Paper weight",
+          "desc": "20–465 g/m²"
+        },
+        {
+          "title": "Document size",
+          "desc": "48 x 50 mm to 215.9 x 355.6 mm"
+        },
+        {
+          "title": "Daily volume",
+          "desc": "Up to 10,000 sheets"
+        }
+      ],
+      "general": [
+        {
+          "title": "Function",
+          "desc": "Scan"
+        },
+        {
+          "title": "Scanner type",
+          "desc": "ADF / Manual feed, duplex"
+        },
+        {
+          "title": "Light source",
+          "desc": "RGB LED (dual)"
+        },
+        {
+          "title": "Output format",
+          "desc": "24-bit color, 8-bit grayscale, 1-bit monochrome"
+        },
+        {
+          "title": "Interface",
+          "desc": "USB 3.2 / USB 2.0 / Ethernet (10/100/1000)"
+        },
+        {
+          "title": "Background color",
+          "desc": "Selectable (White / Black)"
+        },
+        {
+          "title": "Power consumption",
+          "desc": "Operating ≤21W (Eco 17W), Sleep ≤2W (LAN), ≤1.4W (USB), Off ≤0.2W"
+        },
+        {
+          "title": "Country of origin",
+          "desc": "India"
+        },
+        {
+          "title": "Warranty",
+          "desc": "1 year standard warranty"
+        }
+      ],
+      "package_specification": [
+        {
+          "title": "Dimensions",
+          "desc": "300 x 170 x 163 mm"
+        },
+        {
+          "title": "Weight",
+          "desc": "4 kg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-s1130",
+    "name": "CWC S1130 Document Scanner",
+    "type": "Document",
+    "category": "scanners",
+    "format": "A4",
+    "function": "Scan",
+    "compatibleIds": [],
+    "speed": "30–35 ppm / 60 ipm",
+    "image": "/images/S1130/main.webp",
+    "img1": "/images/S1130/img1.webp",
+    "img2": "/images/S1130/img2.webp",
+    "img3": "/images/S1130/img3.webp",
+    "specSummary": [
+      "Scan speed (A4): 30–35 ppm / 60 ipm (duplex)",
+      "Connection method: USB 3.2, USB 2.0, Ethernet",
+      "Sheet-fed desktop document scanner",
+      "Dual CMOS CIS sensors (front & back)",
+      "Advanced image processing with multifeed detection"
+    ],
+    "details": {
+      "scan_specification": [
+        {
+          "title": "Scan speed",
+          "desc": "30–35 ppm"
+        },
+        {
+          "title": "Duplex scan speed",
+          "desc": "Up to 60 ipm"
+        },
+        {
+          "title": "Scan resolution",
+          "desc": "50–600 dpi (up to 1200 dpi)"
+        },
+        {
+          "title": "Scanner type",
+          "desc": "ADF, Duplex"
+        },
+        {
+          "title": "Image sensor",
+          "desc": "Dual CMOS CIS (front x1, back x1)"
+        },
+        {
+          "title": "Output format",
+          "desc": "24-bit color, 8-bit grayscale, 1-bit monochrome"
+        },
+        {
+          "title": "Multifeed detection",
+          "desc": "Ultrasonic overlap detection"
+        }
+      ],
+      "paper_handling": [
+        {
+          "title": "ADF capacity",
+          "desc": "50 sheets"
+        },
+        {
+          "title": "Document size",
+          "desc": "52 x 74 mm to 216 x 355.6 mm (max length up to 3048 mm)"
+        },
+        {
+          "title": "Media weight",
+          "desc": "50–209 g/m²"
+        },
+        {
+          "title": "Card thickness",
+          "desc": "Up to 0.76 mm"
+        }
+      ],
+      "general": [
+        {
+          "title": "Function",
+          "desc": "Scan"
+        },
+        {
+          "title": "Image processing",
+          "desc": "Auto color detection, blank page removal, skew correction, background removal, OCR optimization, multi-image output"
+        },
+        {
+          "title": "File formats",
+          "desc": "PDF (single/multi, PDF/A, secured), JPEG, TIFF"
+        },
+        {
+          "title": "Interface",
+          "desc": "USB 3.2 / USB 2.0 / Ethernet (10/100/1000)"
+        },
+        {
+          "title": "Output options",
+          "desc": "Scan to PC, Image"
+        },
+        {
+          "title": "Power requirement",
+          "desc": "AC 100–240V"
+        },
+        {
+          "title": "Dimensions",
+          "desc": "298 x 135 x 133 mm"
+        },
+        {
+          "title": "Weight",
+          "desc": "2.5 kg"
+        },
+        {
+          "title": "Power consumption",
+          "desc": "Operating ≤18W, Sleep ≤2W, Off ≤0.3W"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-s4300",
+    "name": "CWC S4300 Document Scanner",
+    "type": "Document",
+    "category": "scanners",
+    "format": "A4",
+    "function": "Scan",
+    "compatibleIds": [],
+    "speed": "45 ppm / 90 ipm",
+    "image": "/images/S4300/main.webp",
+    "img1": "/images/S4300/img1.webp",
+    "img2": "/images/S4300/img2.webp",
+    "img3": "/images/S4300/img3.webp",
+    "specSummary": [
+      "Scan speed (A4): 45 ppm / 90 ipm (duplex)",
+      "Connection method: USB 2.0 / USB 1.1",
+      "Sheet-fed + Flatbed document scanner",
+      "Dual CMOS CIS sensors with flatbed support",
+      "Advanced image processing with multifeed detection"
+    ],
+    "details": {
+      "scan_specification": [
+        {
+          "title": "Scan speed",
+          "desc": "45 ppm"
+        },
+        {
+          "title": "Duplex scan speed",
+          "desc": "Up to 90 ipm"
+        },
+        {
+          "title": "Flatbed scan speed",
+          "desc": "Approx. 4 sec (200/300 dpi)"
+        },
+        {
+          "title": "Scan resolution",
+          "desc": "50–600 dpi (up to 1200 dpi)"
+        },
+        {
+          "title": "Scanner type",
+          "desc": "ADF + Flatbed, Duplex"
+        },
+        {
+          "title": "Image sensor",
+          "desc": "Dual CMOS CIS (ADF + flatbed)"
+        },
+        {
+          "title": "Output format",
+          "desc": "24-bit color, 8-bit grayscale, 1-bit monochrome"
+        },
+        {
+          "title": "Multifeed detection",
+          "desc": "Ultrasonic overlap detection"
+        }
+      ],
+      "paper_handling": [
+        {
+          "title": "ADF capacity",
+          "desc": "50 sheets"
+        },
+        {
+          "title": "Document size",
+          "desc": "52 x 74 mm to 216 x 355.6 mm (max length up to 3048 mm)"
+        },
+        {
+          "title": "Media weight",
+          "desc": "50–209 g/m²"
+        },
+        {
+          "title": "Card thickness",
+          "desc": "Up to 0.76 mm"
+        }
+      ],
+      "general": [
+        {
+          "title": "Function",
+          "desc": "Scan"
+        },
+        {
+          "title": "Image processing",
+          "desc": "Auto color detect, blank page removal, skew correction, background cleanup, OCR optimization, multi-image output"
+        },
+        {
+          "title": "Daily volume",
+          "desc": "Up to 4,000 sheets"
+        },
+        {
+          "title": "Interface",
+          "desc": "USB 2.0 / USB 1.1"
+        },
+        {
+          "title": "Compliance",
+          "desc": "BEE, RoHS"
+        },
+        {
+          "title": "Power requirement",
+          "desc": "AC 100–240V"
+        },
+        {
+          "title": "Dimensions",
+          "desc": "454 x 331 x 129 mm"
+        },
+        {
+          "title": "Weight",
+          "desc": "4.3 kg"
+        },
+        {
+          "title": "Power consumption",
+          "desc": "Operating ≤16W, Sleep ≤2.9W, Off ≤0.5W"
+        }
+      ]
+    }
+  }
+]

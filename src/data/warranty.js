@@ -6293,7 +6293,2430 @@ const warrantyData = [
 //25 may
 
 
+
+
+{ serialNo: '91004055042026A001', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A002', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A003', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A004', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A005', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A006', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A007', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A008', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A009', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A010', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A011', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A012', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A013', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A014', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A015', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A016', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A017', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A018', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A019', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A020', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A021', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A022', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A023', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A024', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A025', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+
+
+
+
+{ serialNo: 'P4843012026A163', purchaseDate: '27/05/2026', warrantyDate: '27/05/2027' },
+{ serialNo: 'P4843012026A144', purchaseDate: '27/05/2026', warrantyDate: '27/05/2027' },
+{ serialNo: 'P4843012026A136', purchaseDate: '27/05/2026', warrantyDate: '27/05/2027' },
+{ serialNo: 'P4843012026A118', purchaseDate: '27/05/2026', warrantyDate: '27/05/2027' },
+
+
+
+
+{ serialNo: '3745153703', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3745262839', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3745153924', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3948182601', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3745246736', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3948196742', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3948182822', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3948197919', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3948199490', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3948198060', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3948200502', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3948200855', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3948200570', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3948200910', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3948214104', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3948200928', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3948214171', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3948218274', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+{ serialNo: '3948198036', purchaseDate: '04/06/2026', warrantyDate: '04/06/2031' },
+
+
+
+
+{ serialNo: '50283302052026A018', purchaseDate: '02/06/2026', warrantyDate: '02/06/2026' },
+{ serialNo: '50283302052026A019', purchaseDate: '02/06/2026', warrantyDate: '02/06/2026' },
+{ serialNo: '50283302052026A020', purchaseDate: '02/06/2026', warrantyDate: '02/06/2026' },
+{ serialNo: '50283302052026A021', purchaseDate: '02/06/2026', warrantyDate: '02/06/2026' },
+{ serialNo: '50283302052026A022', purchaseDate: '02/06/2026', warrantyDate: '02/06/2026' },
+{ serialNo: '50283302052026A023', purchaseDate: '02/06/2026', warrantyDate: '02/06/2026' },
+{ serialNo: '50283302052026A024', purchaseDate: '02/06/2026', warrantyDate: '02/06/2026' },
+{ serialNo: '50283302052026A025', purchaseDate: '02/06/2026', warrantyDate: '02/06/2026' },
+{ serialNo: '50283302052026A026', purchaseDate: '02/06/2026', warrantyDate: '02/06/2026' },
+{ serialNo: '50283302052026A027', purchaseDate: '02/06/2026', warrantyDate: '02/06/2026' },
+
+
+{ serialNo: '315235042026A001', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '315235042026A002', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '315235042026A003', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '315235042026A004', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '315235042026A005', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+
+{ serialNo: '33364055042026A001', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A016', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A031', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A002', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A017', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A032', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A003', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A018', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A033', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A004', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A019', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A034', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A005', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A020', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A035', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A006', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A021', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A036', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A007', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A022', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A037', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A008', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A023', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A038', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A009', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A024', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A039', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A010', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A025', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A040', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A011', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A026', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A041', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A012', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A027', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A042', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A013', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A028', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A043', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A014', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A029', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A044', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A015', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A030', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A045', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+
+
+
+{ serialNo: 'CWCMB5020NW042024A178', purchaseDate: '02/06/2026', warrantyDate: '02/06/2030' },
+
+
+//Updated Till 3 June 2026
+
+
+
+{ serialNo: 'CWCM2010022026A053', purchaseDate: '28/04/2026', warrantyDate: '28/04/2027' },
+{ serialNo: 'CWCM2010022026A055', purchaseDate: '28/04/2026', warrantyDate: '28/04/2027' },
+{ serialNo: 'CWCM2010022026A054', purchaseDate: '28/04/2026', warrantyDate: '28/04/2027' },
+{ serialNo: 'CWCM2010DNW042024A297', purchaseDate: '28/04/2026', warrantyDate: '28/04/2027'},
+
+//4 June
+
+{ serialNo: '3102010052026A001', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A002', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A003', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A004', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A005', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A006', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A007', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A008', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A009', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A010', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A011', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A012', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A013', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A014', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A015', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A016', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A017', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A018', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A019', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A020', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+//5 June 2026
+
+{ serialNo: '3104843042026A019', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A020', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A021', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A022', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A023', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A024', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A025', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A026', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A027', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A028', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A030', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A031', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A032', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A033', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A034', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A035', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A036', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A037', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A038', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A039', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+{ serialNo: '3104843042026A040', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A041', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A042', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A043', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A044', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A045', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A046', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A047', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A048', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A049', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+{ serialNo: '3104843042026A050', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A051', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A052', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A053', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A054', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A055', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A056', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A057', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A058', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A059', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+{ serialNo: '3104843042026A060', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A061', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A062', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A063', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A064', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A065', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A066', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A067', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A068', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A069', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+{ serialNo: '3104843042026A070', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A071', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A072', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A073', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A074', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A075', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A076', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A077', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A078', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A079', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+{ serialNo: '3104843042026A080', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A081', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A082', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A083', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A084', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A085', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A086', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A087', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A088', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+{ serialNo: '3104843042026A089', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A090', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A091', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A092', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A093', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A094', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A095', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A096', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A097', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A098', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+{ serialNo: '3104843042026A099', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A100', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A101', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A102', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A103', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A104', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A105', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A106', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A107', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A108', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+{ serialNo: '3104843042026A109', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A110', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A111', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A112', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A113', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A114', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A115', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A116', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A117', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A118', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+
+
+
+
+{ serialNo: 'CWCPB5020022026A177', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A206', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A171', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A228', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A243', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A169', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A166', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A179', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A164', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A227', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A205', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A222', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+
+
+{ serialNo: '3102010052026A001', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A002', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A003', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A004', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A005', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A006', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A007', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A008', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A009', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A010', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A011', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A012', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A013', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A014', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A015', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A016', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A017', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A018', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A019', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A020', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+
+
+
+
+//10 June 2026
+
+
+
+
+
+{ serialNo: '3104843042026A019', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A020', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A021', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A022', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A023', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A024', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A025', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A026', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A027', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A028', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+{ serialNo: '3104843042026A030', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A031', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A032', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A033', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A034', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A035', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A036', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A037', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A038', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A039', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+{ serialNo: '3104843042026A040', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A041', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A042', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A043', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A044', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A045', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A046', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A047', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A048', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A049', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+{ serialNo: '3104843042026A050', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A051', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A052', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A053', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A054', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A055', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A056', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A057', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A058', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+
+
+
+
+
+{ serialNo: '3104843042026A059', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A060', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A061', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A062', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A063', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A064', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A065', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A066', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A067', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A068', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A069', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A070', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A071', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A072', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A073', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A074', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A075', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A076', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A077', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A078', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A079', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A080', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A081', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A082', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A083', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A084', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A085', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A086', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A087', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A088', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A089', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A090', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A091', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A092', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A093', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A094', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A095', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A096', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A097', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A098', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A099', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A100', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A101', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A102', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A103', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A104', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A105', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A106', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A107', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A108', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A109', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A110', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A111', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A112', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A113', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A114', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A115', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A116', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A117', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A118', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+
+
+
+
+
+{ serialNo: '3102010052026A001', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A002', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A003', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A004', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A005', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A006', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A007', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A008', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A009', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A010', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A011', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A012', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A013', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A014', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A015', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A016', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A017', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A018', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A019', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+{ serialNo: '3102010052026A020', purchaseDate: '05/06/2026', warrantyDate: '05/12/2027' },
+
+
+
+
+{ serialNo: 'P310012026A125', purchaseDate: '12/06/2027', warrantyDate: '12/06/2026' },
+{ serialNo: 'P310012026A119', purchaseDate: '12/06/2027', warrantyDate: '12/06/2026' },
+{ serialNo: 'P310012026A132', purchaseDate: '12/06/2027', warrantyDate: '12/06/2026' },
+{ serialNo: 'P310012026A124', purchaseDate: '12/06/2027', warrantyDate: '12/06/2026' },
+{ serialNo: 'P310012026A139', purchaseDate: '12/06/2027', warrantyDate: '12/06/2026' },
+{ serialNo: 'P310012026A138', purchaseDate: '12/06/2027', warrantyDate: '12/06/2026' },
+{ serialNo: 'P310012026A131', purchaseDate: '12/06/2027', warrantyDate: '12/06/2026' },
+{ serialNo: 'P310012026A143', purchaseDate: '12/06/2027', warrantyDate: '12/06/2026' },
+
+
+
+{ serialNo: '33364055042026A046', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A047', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A048', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A049', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A050', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A051', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A052', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A053', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A054', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A055', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A056', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A057', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A058', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A059', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A060', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A061', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A062', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A063', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A064', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A065', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A066', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A067', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A068', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A069', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A070', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A071', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A072', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A073', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A074', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+
+
+
+
+
+
+{ serialNo: '235225052026A053', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '235225052026A054', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '235225052026A055', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '235225052026A056', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '235225052026A057', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '235225052026A058', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '235225052026A059', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+
+
+
+
+
+{ serialNo: 'CWCPB5020022026A177', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A206', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A171', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A228', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A243', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A169', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A166', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A179', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A164', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A227', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A205', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A222', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+
+
+
+
+{ serialNo: '50283308052026A052', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+
+
+
+
+
+{ serialNo: '3948200421', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+
+
+{ serialNo: 'P4843012026A477', purchaseDate: '30/06/2026', warrantyDate: '30/06/2027' },
+{ serialNo: 'P4843012026A476', purchaseDate: '30/06/2026', warrantyDate: '30/06/2027' },
+{ serialNo: 'P4843012026A484', purchaseDate: '30/06/2026', warrantyDate: '30/06/2027' },
+{ serialNo: 'P4843012026A473', purchaseDate: '30/06/2026', warrantyDate: '30/06/2027' },
+{ serialNo: 'P4843012026A483', purchaseDate: '30/06/2026', warrantyDate: '30/06/2027' },
+
+
+
+
+{ serialNo: 'CWCPB5020022026A203', purchaseDate: '15/07/2026', warrantyDate: '15/07/2027' },
+{ serialNo: 'CWCPB5020022026A200', purchaseDate: '15/07/2026', warrantyDate: '15/07/2027' },
+{ serialNo: 'CWCPB5020022026A202', purchaseDate: '15/07/2026', warrantyDate: '15/07/2027' },
+{ serialNo: 'CWCPB5020022026A196', purchaseDate: '15/07/2026', warrantyDate: '15/07/2027' },
+{ serialNo: 'CWCPB5020022026A204', purchaseDate: '15/07/2026', warrantyDate: '15/07/2027' },
+
+{ serialNo: '235225062026A108', purchaseDate: '23/06/2026', warrantyDate: '23/06/2027' },
+
+
+
+
+{ serialNo: '3104843042026A019', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A020', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A021', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A022', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A023', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A024', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A025', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A026', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A027', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A028', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A030', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A031', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A032', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A033', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A034', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A035', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A036', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A037', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A038', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A039', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A040', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A041', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A042', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A043', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A044', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A045', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A046', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A047', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A048', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A049', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A050', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A051', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A052', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A053', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A054', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A055', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A056', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A057', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A058', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A059', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A060', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A061', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A062', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A063', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A064', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A065', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A066', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A067', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A068', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A069', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A070', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A071', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A072', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A073', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A074', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A075', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A076', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A077', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A078', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A079', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A080', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+
+
+
+{ serialNo: '3104843042026A081', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A082', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A083', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A084', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A085', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A086', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A087', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A088', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A089', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A090', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A091', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A092', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A093', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A094', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A095', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A096', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A097', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A098', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A099', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A100', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A101', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A102', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A103', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A104', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A105', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A106', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A107', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A108', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A109', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A110', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A111', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A112', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A113', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A114', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A115', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A116', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A117', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3104843042026A118', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+
+
+
+
+
+
+
+
+{ serialNo: '33364055062026A106', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A107', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A108', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A109', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A110', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A111', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A112', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A113', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A114', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A115', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A116', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A117', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A118', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A119', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A120', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A121', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A122', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A123', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A124', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A125', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A126', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A127', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A128', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A129', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A130', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A131', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A132', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A133', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A134', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A135', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A136', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A137', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A138', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A139', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A140', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A141', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A142', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A143', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A144', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+
+
+
+
+
+{ serialNo: '50283308062026A285', purchaseDate: '18/07/2026', warrantyDate: '18/07/2027' },
+{ serialNo: '50283308062026A286', purchaseDate: '18/07/2026', warrantyDate: '18/07/2027' },
+{ serialNo: '50283308062026A287', purchaseDate: '18/07/2026', warrantyDate: '18/07/2027' },
+{ serialNo: '50283308062026A288', purchaseDate: '18/07/2026', warrantyDate: '18/07/2027' },
+{ serialNo: '50283308062026A289', purchaseDate: '18/07/2026', warrantyDate: '18/07/2027' },
+{ serialNo: '50283308062026A290', purchaseDate: '18/07/2026', warrantyDate: '18/07/2027' },
+{ serialNo: '50283308062026A291', purchaseDate: '18/07/2026', warrantyDate: '18/07/2027' },
+{ serialNo: '50283308062026A292', purchaseDate: '18/07/2026', warrantyDate: '18/07/2027' },
+{ serialNo: '50283308062026A293', purchaseDate: '18/07/2026', warrantyDate: '18/07/2027' },
+{ serialNo: '50283308062026A294', purchaseDate: '18/07/2026', warrantyDate: '18/07/2027' },
+{ serialNo: '50283308062026A295', purchaseDate: '18/07/2026', warrantyDate: '18/07/2027' },
+
+
+
+{ serialNo: '225225052026A066', purchaseDate: '17/06/2026', warrantyDate: '17/06/2031' },
+{ serialNo: '225225052026A067', purchaseDate: '17/06/2026', warrantyDate: '17/06/2031' },
+{ serialNo: '225225052026A068', purchaseDate: '17/06/2026', warrantyDate: '17/06/2031' },
+{ serialNo: '225225052026A069', purchaseDate: '17/06/2026', warrantyDate: '17/06/2031' },
+{ serialNo: '225225052026A070', purchaseDate: '17/06/2026', warrantyDate: '17/06/2031' },
+{ serialNo: '225225052026A071', purchaseDate: '17/06/2026', warrantyDate: '17/06/2031' },
+{ serialNo: '225225052026A072', purchaseDate: '17/06/2026', warrantyDate: '17/06/2031' },
+{ serialNo: '225225052026A073', purchaseDate: '17/06/2026', warrantyDate: '17/06/2031' },
+{ serialNo: '225225052026A074', purchaseDate: '17/06/2026', warrantyDate: '17/06/2031' },
+{ serialNo: '225225052026A075', purchaseDate: '17/06/2026', warrantyDate: '17/06/2031' },
+{ serialNo: '225225052026A076', purchaseDate: '17/06/2026', warrantyDate: '17/06/2031' },
+{ serialNo: '225225052026A077', purchaseDate: '17/06/2026', warrantyDate: '17/06/2031' },
+{ serialNo: '225225052026A078', purchaseDate: '17/06/2026', warrantyDate: '17/06/2031' },
+{ serialNo: '225225052026A079', purchaseDate: '17/06/2026', warrantyDate: '17/06/2031' },
+{ serialNo: '225225052026A080', purchaseDate: '17/06/2026', warrantyDate: '17/06/2031' },
+
+
+
+
+
+
+
+{ serialNo: 'P310052026A009', purchaseDate: '27/07/2026', warrantyDate: '27/07/2027' },
+{ serialNo: 'P310052026A103', purchaseDate: '27/07/2026', warrantyDate: '27/07/2027' },
+
+
+
+
+
+
+{ serialNo: '235225062026A108', purchaseDate: '23/06/2026', warrantyDate: '23/06/2027' },
+
+
+
+{ serialNo: 'P310012026A125', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: 'P310012026A119', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: 'P310012026A132', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: 'P310012026A124', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: 'P310012026A139', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: 'P310012026A138', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: 'P310012026A131', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: 'P310012026A143', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+
+
+{ serialNo: 'P4843012026A019', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A038', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A151', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A097', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A142', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A133', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A101', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A170', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A167', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A195', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A132', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A115', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A085', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A074', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A090', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A206', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A020', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A169', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A208', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A036', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A186', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A138', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A082', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A201', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A128', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A149', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A189', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A062', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A203', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A035', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+
+
+
+
+{ serialNo: '3948200421', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+
+
+
+{ serialNo: '225X225062026A060', purchaseDate: '17/06/2026', warrantyDate: '17/06/2027' },
+
+
+
+
+{ serialNo: 'FYC6--000712', purchaseDate: '25/07/2026', warrantyDate: '25/07/2031' },
+{ serialNo: 'FYC6--000711', purchaseDate: '25/07/2026', warrantyDate: '25/07/2031' },
+{ serialNo: 'FYC6--000723', purchaseDate: '25/07/2026', warrantyDate: '25/07/2031' },
+
+
+
+{ serialNo: '235225052026A116', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '235225052026A117', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+
+
+
+
+{ serialNo: '235225052026A053', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '235225052026A054', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '235225052026A055', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '235225052026A056', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '235225052026A057', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '235225052026A058', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '235225052026A059', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+
+
+
+{ serialNo: '3745153703', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3745153924', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3745246736', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3745262839', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3948182601', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3948182822', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3948196742', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3948197919', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3948198060', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3948199490', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3948200502', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3948200570', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3948200855', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3948200910', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3948200928', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3948214104', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3948214171', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3948218037', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+{ serialNo: '3948218274', purchaseDate: '28/05/2026', warrantyDate: '28/05/2031' },
+
+
+{ serialNo: 'CWCM2010022026A053', purchaseDate: '28/04/2026', warrantyDate: '28/04/2027' },
+{ serialNo: 'CWCM2010022026A054', purchaseDate: '28/04/2026', warrantyDate: '28/04/2027' },
+{ serialNo: 'CWCM2010022026A055', purchaseDate: '28/04/2026', warrantyDate: '28/04/2027' },
+{ serialNo: 'CWCM2010DNW042024A297', purchaseDate: '28/04/2026', warrantyDate: '28/04/2027' },
+
+
+{ serialNo: 'CWCPB5020022026A177', purchaseDate: '11/07/2026', warrantyDate: '11/07/2027' },
+{ serialNo: 'CWCPB5020022026A206', purchaseDate: '11/07/2026', warrantyDate: '11/07/2027' },
+{ serialNo: 'CWCPB5020022026A171', purchaseDate: '11/07/2026', warrantyDate: '11/07/2027' },
+{ serialNo: 'CWCPB5020022026A228', purchaseDate: '11/07/2026', warrantyDate: '11/07/2027' },
+{ serialNo: 'CWCPB5020022026A243', purchaseDate: '11/07/2026', warrantyDate: '11/07/2027' },
+{ serialNo: 'CWCPB5020022026A169', purchaseDate: '11/07/2026', warrantyDate: '11/07/2027' },
+{ serialNo: 'CWCPB5020022026A166', purchaseDate: '11/07/2026', warrantyDate: '11/07/2027' },
+{ serialNo: 'CWCPB5020022026A179', purchaseDate: '11/07/2026', warrantyDate: '11/07/2027' },
+{ serialNo: 'CWCPB5020022026A164', purchaseDate: '11/07/2026', warrantyDate: '11/07/2027' },
+{ serialNo: 'CWCPB5020022026A227', purchaseDate: '11/07/2026', warrantyDate: '11/07/2027' },
+{ serialNo: 'CWCPB5020022026A205', purchaseDate: '11/07/2026', warrantyDate: '11/07/2027' },
+{ serialNo: 'CWCPB5020022026A222', purchaseDate: '11/07/2026', warrantyDate: '11/07/2027' },
+
+
+
+
+{ serialNo: '50283308052026A052', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+
+
+
+{ serialNo: 'FYC6--000710', purchaseDate: '15/07/2026', warrantyDate: '15/07/2031' },
+{ serialNo: 'FYC6--000690', purchaseDate: '15/07/2026', warrantyDate: '15/07/2031' },
+
+
+
+
+
+{ serialNo: '45008950062026A309', purchaseDate: '28/07/2026', warrantyDate: '28/07/2027' },
+{ serialNo: '45008950062026A307', purchaseDate: '28/07/2026', warrantyDate: '28/07/2027' },
+{ serialNo: '45008950062026A308', purchaseDate: '28/07/2026', warrantyDate: '28/07/2027' },
+{ serialNo: '45008950062026A306', purchaseDate: '28/07/2026', warrantyDate: '28/07/2027' },
+{ serialNo: '45008950062026A310', purchaseDate: '28/07/2026', warrantyDate: '28/07/2027' },
+
+
+
+
+
+{ serialNo: '315325062026A111', purchaseDate: '20/07/2026', warrantyDate: '20/07/2031' },
+{ serialNo: '315325062026A112', purchaseDate: '20/07/2026', warrantyDate: '20/07/2031' },
+{ serialNo: '315325062026A113', purchaseDate: '20/07/2026', warrantyDate: '20/07/2031' },
+{ serialNo: '315325062026A114', purchaseDate: '20/07/2026', warrantyDate: '20/07/2031' },
+{ serialNo: '315325062026A115', purchaseDate: '20/07/2026', warrantyDate: '20/07/2031' },
+
+{ serialNo: '33364055042026A001', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A002', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A003', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A004', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A005', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A006', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A007', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A008', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A009', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A010', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A011', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A012', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A013', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A014', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A015', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A016', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A017', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A018', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A019', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A020', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A021', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A022', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A023', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A024', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A025', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A026', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A027', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A028', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A029', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A030', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A031', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A032', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A033', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A034', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A035', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A036', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A037', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A038', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A039', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A040', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A041', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A042', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A043', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A044', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+{ serialNo: '33364055042026A045', purchaseDate: '02/06/2026', warrantyDate: '02/06/2031' },
+
+
+
+{ serialNo: '50283302052026A018', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A019', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A020', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A021', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A022', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A023', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A024', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A025', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A026', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A027', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+
+
+
+
+
+
+
+{ serialNo: '50283302052026A018', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A019', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A020', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A021', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A022', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A023', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A024', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A025', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A026', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+{ serialNo: '50283302052026A027', purchaseDate: '02/06/2026', warrantyDate: '02/06/2027' },
+
+
+
+
+
+
+{ serialNo: '50283308052026A061', purchaseDate: '17/06/2026', warrantyDate: '17/06/2027' },
+{ serialNo: '50283308052026A062', purchaseDate: '17/06/2026', warrantyDate: '17/06/2027' },
+{ serialNo: '50283308052026A063', purchaseDate: '17/06/2026', warrantyDate: '17/06/2027' },
+{ serialNo: '50283308052026A064', purchaseDate: '17/06/2026', warrantyDate: '17/06/2027' },
+{ serialNo: '50283308052026A065', purchaseDate: '17/06/2026', warrantyDate: '17/06/2027' },
+
+
+
+
+
+{ serialNo: 'CWCM5030032025A075', purchaseDate: '03/07/2026', warrantyDate: '03/07/2029' },
+{ serialNo: 'CWCM5030032025A119', purchaseDate: '03/07/2026', warrantyDate: '03/07/2029' },
+{ serialNo: 'CWCM5030032025A077', purchaseDate: '03/07/2026', warrantyDate: '03/07/2029' },
+
+
+
+
+
+{ serialNo: '3948221976', purchaseDate: '20/07/2026', warrantyDate: '20/07/2027' },
+{ serialNo: '3948221186', purchaseDate: '20/07/2026', warrantyDate: '20/07/2027' },
+{ serialNo: '3948221283', purchaseDate: '20/07/2026', warrantyDate: '20/07/2027' },
+{ serialNo: '3948219262', purchaseDate: '20/07/2026', warrantyDate: '20/07/2027' },
+
+
+
+
+
+{ serialNo: 'CWCMB5020NW042024A178', purchaseDate: '02/06/2026', warrantyDate: '02/06/2030' },
+
+
+{ serialNo: '20106702062026A305', purchaseDate: '30/07/2026', warrantyDate: '30/07/2027' },
+
+{ serialNo: '4055012026A353', purchaseDate: '29/06/2026', warrantyDate: '29/06/2027' },
+{ serialNo: '4055012026A628', purchaseDate: '29/06/2026', warrantyDate: '29/06/2027' },
+{ serialNo: '4055012026A349', purchaseDate: '29/06/2026', warrantyDate: '29/06/2027' },
+
+
+{ serialNo: 'CWCP5010032025A008', purchaseDate: '10/07/2026', warrantyDate: '10/07/2029' },
+{ serialNo: 'CWCP5010032025A096', purchaseDate: '10/07/2026', warrantyDate: '10/07/2029' },
+{ serialNo: 'CWCP5010032025A022', purchaseDate: '10/07/2026', warrantyDate: '10/07/2029' },
+{ serialNo: 'CWCP5010032025A197', purchaseDate: '10/07/2026', warrantyDate: '10/07/2029' },
+
+
+
+{ serialNo: '315235062026A284', purchaseDate: '16/07/2026', warrantyDate: '16/07/2027' },
+
+
+{ serialNo: 'CWCM2010022026A148', purchaseDate: '16/07/2026', warrantyDate: '16/07/2027' },
+
+
+{ serialNo: '235225002026A299', purchaseDate: '24/07/2026', warrantyDate: '24/07/2027' },
+{ serialNo: '235225002026A300', purchaseDate: '24/07/2026', warrantyDate: '24/07/2027' },
+
+
+
+{ serialNo: '33364055042026A046', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A047', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A048', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A049', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A050', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A051', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A052', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A053', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A054', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A055', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A056', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A057', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A058', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A059', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A060', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A061', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A062', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A063', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A064', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A065', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A066', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A067', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A068', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A069', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A070', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A071', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A072', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A073', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+{ serialNo: '33364055042026A074', purchaseDate: '12/06/2026', warrantyDate: '12/06/2027' },
+
+
+
+
+
+
+{ serialNo: '4055012026A616', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+
+
+
+
+
+{ serialNo: '91004055042026A001', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A002', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A003', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A004', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A005', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A006', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A007', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A008', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A009', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A010', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A011', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A012', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A013', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A014', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A015', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A016', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A017', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A018', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A019', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A020', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A021', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A022', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A023', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A024', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+{ serialNo: '91004055042026A025', purchaseDate: '01/06/2026', warrantyDate: '01/06/2027' },
+
+
+
+
+
+{ serialNo: '4055012026A417', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A418', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A419', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A420', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A421', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A422', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A423', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A424', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A425', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A426', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A427', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A428', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A429', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A430', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A431', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A432', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A433', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A434', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A435', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A436', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+{ serialNo: '4055012026A437', purchaseDate: '26/06/2026', warrantyDate: '26/06/2027' },
+
+
+
+
+{ serialNo: '3102010052026A001', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A002', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A003', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A004', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A005', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A006', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A007', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A008', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A009', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A010', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A011', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A012', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A013', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A014', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A015', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A016', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A017', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A018', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A019', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+{ serialNo: '3102010052026A020', purchaseDate: '05/06/2026', warrantyDate: '05/06/2027' },
+
+
+
+
+
+{ serialNo: 'CWCPB5020022026A177', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A206', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A171', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A228', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A243', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A169', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A166', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A179', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A164', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A227', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A205', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+{ serialNo: 'CWCPB5020022026A222', purchaseDate: '10/06/2026', warrantyDate: '10/06/2027' },
+
+
+
+
+{ serialNo: '9525XC60393', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60579', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60533', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60381', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60384', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60205', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60595', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60475', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XB60099', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60223', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60395', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60212', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60386', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60520', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60350', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60216', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60039', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60589', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60594', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60400', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60022', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60360', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60572', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60218', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60387', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60362', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60181', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60215', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60217', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60478', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60015', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60020', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60453', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60385', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60018', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60417', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60394', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60526', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XB60104', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60494', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60023', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60213', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60002', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60186', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60578', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525X660113', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60576', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60576', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525X760059', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60185', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525X660345', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60377', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525X760064', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60219', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525X660268', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+{ serialNo: '9525XC60220', purchaseDate: '13/06/2026', warrantyDate: '13/06/2027' },
+
+
+
+
+
+{ serialNo: '33364055062026A086', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A087', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A088', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A089', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A090', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A091', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A092', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A093', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A094', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A095', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A096', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A097', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A098', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A099', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A100', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A101', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A102', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A103', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A104', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+{ serialNo: '33364055062026A105', purchaseDate: '18/06/2026', warrantyDate: '18/06/2029' },
+
+
+
+
+
+{ serialNo: 'M48433336122025A154', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A155', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A156', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A157', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A158', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A159', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A160', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A161', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A162', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A163', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A164', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A165', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A166', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A167', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A168', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A169', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A170', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A171', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A172', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A173', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+
+{ serialNo: 'CWCM315122025XEXA116', purchaseDate: '20/07/2026', warrantyDate: '20/07/2031' },
+
+
+
+{ serialNo: 'M48433336122025A154', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A155', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A156', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A157', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A158', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A159', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A160', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A161', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A162', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A163', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A164', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A165', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A166', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A167', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A168', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A169', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A170', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A171', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A172', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+{ serialNo: 'M48433336122025A173', purchaseDate: '28/01/2026', warrantyDate: '28/01/2031' },
+
+{ serialNo: 'CWCM315122025XEXA116', purchaseDate: '20/07/2026', warrantyDate: '20/07/2031' },
+
+
+
+{ serialNo: '33364055062026A106', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A107', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A108', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A109', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A110', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A111', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A112', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A113', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A114', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A115', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A116', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A117', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A118', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A119', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A120', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A121', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A122', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A123', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A124', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A125', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A126', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A127', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A128', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A129', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A130', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A131', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A132', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A133', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A134', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A135', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A136', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A137', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A138', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A139', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A140', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A141', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A142', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A143', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A144', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A051', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+
+
+
+
+{ serialNo: '3948448830', purchaseDate: '10/07/2026', warrantyDate: '10/07/2027' },
+{ serialNo: '3948402776', purchaseDate: '10/07/2026', warrantyDate: '10/07/2027' },
+{ serialNo: '3948462280', purchaseDate: '10/07/2026', warrantyDate: '10/07/2027' },
+
+
+
+{ serialNo: 'P310012026A098', purchaseDate: '04/07/2026', warrantyDate: '04/07/2029' },
+{ serialNo: 'P310012026A100', purchaseDate: '04/07/2026', warrantyDate: '04/07/2029' },
+{ serialNo: 'P310012026A041', purchaseDate: '04/07/2026', warrantyDate: '04/07/2029' },
+
+
+
+{ serialNo: '315235042026A001', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '315235042026A002', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '315235042026A003', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '315235042026A004', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '315235042026A005', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+
+{ serialNo: '33364055042026A001', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A002', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A003', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A004', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A005', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A006', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A007', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A008', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A009', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A010', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A011', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A012', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A013', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A014', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A015', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A016', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A017', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A018', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A019', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A020', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A021', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A022', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A023', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A024', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A025', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A026', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A027', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A028', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A029', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A030', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A031', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A032', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A033', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A034', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A035', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A036', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A037', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A038', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A039', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A040', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A041', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A042', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A043', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A044', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+{ serialNo: '33364055042026A045', purchaseDate: '22/05/2026', warrantyDate: '22/05/2031' },
+
+
+
+
+{ serialNo: '3948505575', purchaseDate: '18/07/2026', warrantyDate: '18/07/2027' },
+{ serialNo: '3948506741', purchaseDate: '18/07/2026', warrantyDate: '18/07/2027' },
+
+
+
+{ serialNo: 'P310012026A001', purchaseDate: '14/07/2026', warrantyDate: '14/07/2027' },
+{ serialNo: 'P3100012026A136', purchaseDate: '14/07/2026', warrantyDate: '14/07/2027' },
+{ serialNo: 'P3100012026A121', purchaseDate: '14/07/2026', warrantyDate: '14/07/2027' },
+{ serialNo: 'P3100012026A135', purchaseDate: '14/07/2026', warrantyDate: '14/07/2027' },
+
+
+
+{ serialNo: '50283308062026A272', purchaseDate: '16/07/2026', warrantyDate: '16/07/2027' },
+{ serialNo: '50283308062026A273', purchaseDate: '16/07/2026', warrantyDate: '16/07/2027' },
+
+
+
+{ serialNo: 'CWCM5030032025A075', purchaseDate: '03/07/2026', warrantyDate: '03/07/2029' },
+{ serialNo: 'CWCM5030032025A119', purchaseDate: '03/07/2026', warrantyDate: '03/07/2029' },
+{ serialNo: 'CWCM5030032025A077', purchaseDate: '03/07/2026', warrantyDate: '03/07/2029' },
+
+
+
+{ serialNo: 'CWCM2010022026A155', purchaseDate: '13/07/2026', warrantyDate: '13/07/2027' },
+{ serialNo: 'CWCM2010022026A059', purchaseDate: '13/07/2026', warrantyDate: '13/07/2027' },
+{ serialNo: 'CWCM2010022026A167', purchaseDate: '13/07/2026', warrantyDate: '13/07/2027' },
+{ serialNo: 'CWCM2010022026A160', purchaseDate: '13/07/2026', warrantyDate: '13/07/2027' },
+{ serialNo: 'CWCM2010022026A173', purchaseDate: '13/07/2026', warrantyDate: '13/07/2027' },
+{ serialNo: 'CWCM2010022026A174', purchaseDate: '13/07/2026', warrantyDate: '13/07/2027' },
+{ serialNo: 'CWCM2010022026A171', purchaseDate: '13/07/2026', warrantyDate: '13/07/2027' },
+{ serialNo: 'CWCM2010022026A172', purchaseDate: '13/07/2026', warrantyDate: '13/07/2027' },
+{ serialNo: 'CWCM2010022026A175', purchaseDate: '13/07/2026', warrantyDate: '13/07/2027' },
+{ serialNo: 'CWCM2010022026A161', purchaseDate: '13/07/2026', warrantyDate: '13/07/2027' },
+{ serialNo: 'CWCM2010022026A157', purchaseDate: '13/07/2026', warrantyDate: '13/07/2027' },
+
+
+
+{ serialNo: 'P310052026A009', purchaseDate: '27/07/2026', warrantyDate: '27/07/2027' },
+{ serialNo: 'P310052026A103', purchaseDate: '27/07/2026', warrantyDate: '27/07/2027' },
+
+
+
+{ serialNo: '211230062026A314', purchaseDate: '30/07/2026', warrantyDate: '30/07/2029' },
+{ serialNo: '211230062026A315', purchaseDate: '30/07/2026', warrantyDate: '30/07/2029' },
+{ serialNo: '211230062026A316', purchaseDate: '30/07/2026', warrantyDate: '30/07/2029' },
+{ serialNo: '211230062026A317', purchaseDate: '30/07/2026', warrantyDate: '30/07/2029' },
+{ serialNo: '211230062026A318', purchaseDate: '30/07/2026', warrantyDate: '30/07/2029' },
+{ serialNo: '211230062026A319', purchaseDate: '30/07/2026', warrantyDate: '30/07/2029' },
+{ serialNo: '211230062026A320', purchaseDate: '30/07/2026', warrantyDate: '30/07/2029' },
+{ serialNo: '211230062026A321', purchaseDate: '30/07/2026', warrantyDate: '30/07/2029' },
+{ serialNo: '211230062026A322', purchaseDate: '30/07/2026', warrantyDate: '30/07/2029' },
+{ serialNo: '211230062026A323', purchaseDate: '30/07/2026', warrantyDate: '30/07/2029' },
+{ serialNo: '211230062026A324', purchaseDate: '30/07/2026', warrantyDate: '30/07/2029' },
+{ serialNo: '211230062026A325', purchaseDate: '30/07/2026', warrantyDate: '30/07/2029' },
+{ serialNo: '211230062026A326', purchaseDate: '30/07/2026', warrantyDate: '30/07/2029' },
+{ serialNo: '211230062026A327', purchaseDate: '30/07/2026', warrantyDate: '30/07/2029' },
+
+
+
+{ serialNo: '20106702062026A305', purchaseDate: '30/07/2026', warrantyDate: '30/07/2027' },
+
+
+ 
+{ serialNo: 'P4843012026A019', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A038', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A151', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A097', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A142', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A133', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A101', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A170', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A167', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A195', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A132', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A115', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A085', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A074', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A090', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A206', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A020', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A169', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A208', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A036', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A186', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A138', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A082', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A201', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A128', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A149', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A189', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A062', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A203', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+{ serialNo: 'P4843012026A035', purchaseDate: '29/07/2026', warrantyDate: '29/07/2031' },
+
+
+
+
+
+
+{ serialNo: '45008950062026A309', purchaseDate: '28/07/2026', warrantyDate: '28/07/2027' },
+{ serialNo: '45008950062026A307', purchaseDate: '28/07/2026', warrantyDate: '28/07/2027' },
+{ serialNo: '45008950062026A308', purchaseDate: '28/07/2026', warrantyDate: '28/07/2027' },
+{ serialNo: '45008950062026A306', purchaseDate: '28/07/2026', warrantyDate: '28/07/2027' },
+{ serialNo: '45008950062026A310', purchaseDate: '28/07/2026', warrantyDate: '28/07/2027' },
+
+
+
+{ serialNo: '33364055062026A106', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A107', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A108', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A109', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A110', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A111', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A112', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A113', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A114', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A115', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A116', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A117', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A118', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A119', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A120', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A121', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A122', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A123', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A124', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A125', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A126', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A127', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A128', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A129', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A130', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A131', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A132', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A133', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A134', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A135', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A136', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A137', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A138', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A139', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A140', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A141', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A142', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A143', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A144', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+{ serialNo: '33364055062026A051', purchaseDate: '07/07/2026', warrantyDate: '07/07/2027' },
+
+
+
+
+
+{ serialNo: '9100320062026A328', purchaseDate: '31/07/2026', warrantyDate: '31/07/2027' },
+{ serialNo: '9100320062026A329', purchaseDate: '31/07/2026', warrantyDate: '31/07/2027' },
+
+//31 July 2026
+
+
+
+
+{ serialNo: '89202100072026A785', purchaseDate: '24/08/2026', warrantyDate: '24/08/2027' },
+
+
+{ serialNo: '50283308072026A792', purchaseDate: '24/08/2026', warrantyDate: '24/08/2027' },
+{ serialNo: '50283308072026A793', purchaseDate: '24/08/2026', warrantyDate: '24/08/2027' },
+{ serialNo: '50283308072026A794', purchaseDate: '24/08/2026', warrantyDate: '24/08/2027' },
+{ serialNo: '50283308072026A795', purchaseDate: '24/08/2026', warrantyDate: '24/08/2027' },
+
+
+
+
+
+
+{ serialNo: 'CW7WV001BW', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001B4', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001AF', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001C1', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001BF', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001AJ', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001BV', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001BT', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001BR', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001C5', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001BA', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001B7', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001AW', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001AQ', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001BK', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001AV', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001BJ', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001B8', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001BG', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001B5', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001C0', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001BS', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001BD', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001BP', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001AP', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001A7', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV0019X', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV0015U', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV00164', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV00161', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV0015T', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV0015R', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001B0', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+{ serialNo: 'CW7WV001AK', purchaseDate: '12/08/2026', warrantyDate: '12/08/2027' },
+
+
+{ serialNo: '3948221828', purchaseDate: '17/08/2026', warrantyDate: '17/08/2027' },
+
+
+
+{ serialNo: '3103308072026A609', purchaseDate: '13/08/2026', warrantyDate: '13/08/2027' },
+
+
+
+{ serialNo: '4055012026A354', purchaseDate: '11/08/2026', warrantyDate: '11/08/2027' },
+
+
+
+{ serialNo: '50203020072026A768', purchaseDate: '20/08/2026', warrantyDate: '20/08/2027' },
+
+
+{ serialNo: '50283308072026A768', purchaseDate: '18/08/2026', warrantyDate: '18/08/2027' },
+
+
+{ serialNo: '50283308072026A769', purchaseDate: '18/08/2026', warrantyDate: '18/08/2027' },
+{ serialNo: '50283308072026A770', purchaseDate: '18/08/2026', warrantyDate: '18/08/2027' },
+{ serialNo: '50283308072026A771', purchaseDate: '18/08/2026', warrantyDate: '18/08/2027' },
+{ serialNo: '50283308072026A772', purchaseDate: '18/08/2026', warrantyDate: '18/08/2027' },
+
+
+
+{ serialNo: 'CWCM2010022026A491', purchaseDate: '24/08/2026', warrantyDate: '24/08/2027' },
+
+
+
+{ serialNo: 'CW7XV001FG', purchaseDate: '25/08/2026', warrantyDate: '25/08/2027' },
+{ serialNo: 'CW7XV001PC', purchaseDate: '25/08/2026', warrantyDate: '25/08/2027' },
+{ serialNo: 'CW7XV001PS', purchaseDate: '25/08/2026', warrantyDate: '25/08/2027' },
+{ serialNo: 'CW7XV001GH', purchaseDate: '25/08/2026', warrantyDate: '25/08/2027' },
+{ serialNo: 'CW7XV001H8', purchaseDate: '25/08/2026', warrantyDate: '25/08/2027' },
+{ serialNo: 'CW7XV001FF', purchaseDate: '25/08/2026', warrantyDate: '25/08/2027' },
+
+
+
+
+{ serialNo: '2357108072026A766', purchaseDate: '14/08/2026', warrantyDate: '14/08/2027' },
+
+
+
+
+{ serialNo: 'CWCPB5020022026A172', purchaseDate: '11/08/2026', warrantyDate: '11/08/2027' },
+{ serialNo: 'CWCPB5020022026A173', purchaseDate: '11/08/2026', warrantyDate: '11/08/2027' },
+{ serialNo: 'CWCPB5020022026A174', purchaseDate: '11/08/2026', warrantyDate: '11/08/2027' },
+{ serialNo: 'CWCPB5020022026A175', purchaseDate: '11/08/2026', warrantyDate: '11/08/2027' },
+{ serialNo: 'CWCPB5020022026A167', purchaseDate: '11/08/2026', warrantyDate: '11/08/2027' },
+{ serialNo: 'CWCPB5020022026A170', purchaseDate: '11/08/2026', warrantyDate: '11/08/2027' },
+{ serialNo: 'CWCPB5020022026A180', purchaseDate: '11/08/2026', warrantyDate: '11/08/2027' },
+{ serialNo: 'CWCPB5020022026A168', purchaseDate: '11/08/2026', warrantyDate: '11/08/2027' },
+
+
+
+
+{ serialNo: '4055012026A598', purchaseDate: '13/08/2026', warrantyDate: '13/08/2027' },
+{ serialNo: '4055012026A632', purchaseDate: '13/08/2026', warrantyDate: '13/08/2027' },
+{ serialNo: '4055012026A627', purchaseDate: '13/08/2026', warrantyDate: '13/08/2027' },
+{ serialNo: '4055012026A674', purchaseDate: '13/08/2026', warrantyDate: '13/08/2027' },
+{ serialNo: '4055012026A663', purchaseDate: '13/08/2026', warrantyDate: '13/08/2027' },
+
+
+
+{ serialNo: '50203020072026A768', purchaseDate: '20/08/2026', warrantyDate: '20/08/2027' },
+
+
+
+{ serialNo: 'P4843012026A135', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A120', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A165', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A052', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A037', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A168', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A049', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A068', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A098', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A141', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A042', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A105', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A150', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A143', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A071', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A053', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A109', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A113', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A140', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A043', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A172', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+{ serialNo: 'P4843012026A174', purchaseDate: '20/08/2026', warrantyDate: '20/08/2029' },
+
+
+
+{ serialNo: '2512100072026A788', purchaseDate: '22/08/2026', warrantyDate: '22/08/2031' },
+
+
+
+{ serialNo: '2512100072026A787', purchaseDate: '22/08/2026', warrantyDate: '22/08/2031' },
+
+
+
+{ serialNo: '2512100072026A789', purchaseDate: '22/08/2026', warrantyDate: '22/08/2031' },
+
+
+{ serialNo: '2512100072026A790', purchaseDate: '22/08/2026', warrantyDate: '22/08/2031' },
+
+
+{ serialNo: '50203020072026A791', purchaseDate: '22/08/2026', warrantyDate: '22/08/2027' },
+
+
+{ serialNo: 'CWCM2010022026A490', purchaseDate: '22/08/2026', warrantyDate: '22/08/2027' },
+{ serialNo: 'CWCM2010022026A481', purchaseDate: '22/08/2026', warrantyDate: '22/08/2027' },
+{ serialNo: 'CWCM2010022026A477', purchaseDate: '22/08/2026', warrantyDate: '22/08/2027' },
+
+
+
+
+{ serialNo: '2357102072026A772', purchaseDate: '20/08/2026', warrantyDate: '20/08/2027' },
+{ serialNo: '2357102072026A773', purchaseDate: '20/08/2026', warrantyDate: '20/08/2027' },
+{ serialNo: '2357102072026A774', purchaseDate: '20/08/2026', warrantyDate: '20/08/2027' },
+{ serialNo: '2357102072026A775', purchaseDate: '20/08/2026', warrantyDate: '20/08/2027' },
+{ serialNo: '2357102072026A776', purchaseDate: '20/08/2026', warrantyDate: '20/08/2027' },
+{ serialNo: '2357102072026A777', purchaseDate: '20/08/2026', warrantyDate: '20/08/2027' },
+{ serialNo: '2357102072026A778', purchaseDate: '20/08/2026', warrantyDate: '20/08/2027' },
+
+{ serialNo: 'CWCPB5020022026A245', purchaseDate: '07/08/2026', warrantyDate: '07/08/2027' },
+{ serialNo: 'CWCPB5020022026A239', purchaseDate: '07/08/2026', warrantyDate: '07/08/2027' },
+{ serialNo: 'CWCPB5020022026A238', purchaseDate: '07/08/2026', warrantyDate: '07/08/2027' },
+
+
+
+
+
+{ serialNo: 'CWCM2010022026A163', purchaseDate: '07/08/2026', warrantyDate: '07/08/2027' },
+{ serialNo: 'CWCM2010022026A073', purchaseDate: '07/08/2026', warrantyDate: '07/08/2027' },
+{ serialNo: 'CWCM2010022026A072', purchaseDate: '07/08/2026', warrantyDate: '07/08/2027' },
+{ serialNo: 'CWCM2010022026A058', purchaseDate: '07/08/2026', warrantyDate: '07/08/2027' },
+
+{ serialNo: '40551020206682', purchaseDate: '04/08/2026', warrantyDate: '04/08/2027' },
+
+{ serialNo: '2257108062026A481', purchaseDate: '07/08/2026', warrantyDate: '07/08/2027' },
+
+{ serialNo: 'CWCM2010022026A092', purchaseDate: '07/08/2026', warrantyDate: '07/08/2027' },
+{ serialNo: 'CWCM2010022026A071', purchaseDate: '07/08/2026', warrantyDate: '07/08/2027' },
+
+{ serialNo: '9100320062026A328', purchaseDate: '31/07/2026', warrantyDate: '31/07/2027' },
+{ serialNo: '9100320062026A329', purchaseDate: '31/07/2026', warrantyDate: '31/07/2027' },
+
+{ serialNo: '3948198436', purchaseDate: '05/08/2026', warrantyDate: '05/08/2027' },
+{ serialNo: '3948217529', purchaseDate: '05/08/2026', warrantyDate: '05/08/2027' },
+{ serialNo: '3948505940', purchaseDate: '05/08/2026', warrantyDate: '05/08/2027' },
+{ serialNo: '3948506830', purchaseDate: '05/08/2026', warrantyDate: '05/08/2027' },
+{ serialNo: '3948506547', purchaseDate: '05/08/2026', warrantyDate: '05/08/2027' },
+
+{ serialNo: '3103305062026A330', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A331', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A332', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A333', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A334', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A335', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A336', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A337', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A338', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A339', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A340', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A341', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A342', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A343', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A344', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A345', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A346', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A347', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A348', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A349', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A350', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A351', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A352', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A353', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A354', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A355', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A356', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A357', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A358', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A359', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A360', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A361', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A362', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A363', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A364', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A365', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A366', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A367', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A368', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A369', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A370', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A371', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A372', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A373', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A374', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A375', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A376', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A377', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A378', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A379', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A380', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A381', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A382', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A383', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A384', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A385', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A386', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A387', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A388', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A389', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A390', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A391', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A392', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A393', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A394', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A395', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A396', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A397', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A398', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A399', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A400', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A401', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A402', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A403', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A404', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A405', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A406', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A407', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A408', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A409', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A410', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A411', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A412', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A413', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A414', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A415', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A416', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A417', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A418', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A419', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A420', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A421', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A422', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A423', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A424', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A425', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A426', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A427', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A428', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A429', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A430', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A431', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A432', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A433', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A434', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A435', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A436', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A437', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A438', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A439', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A440', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A441', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A442', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A443', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A444', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A445', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A446', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A447', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A448', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A449', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A450', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A451', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A452', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A453', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A454', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A455', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A456', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A457', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A458', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A459', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A460', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A461', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A462', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A463', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A464', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A465', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A466', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A467', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A468', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A469', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A470', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A471', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A472', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A473', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A474', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A475', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A476', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A477', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A478', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A479', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+{ serialNo: '3103305062026A480', purchaseDate: '07/08/2026', warrantyDate: '07/08/2029' },
+
+{ serialNo: '20106702072026A798', purchaseDate: '24/08/2026', warrantyDate: '24/08/2027' },
+{ serialNo: '20106702072026A799', purchaseDate: '24/08/2026', warrantyDate: '24/08/2027' },
+
+{ serialNo: 'CWCM2010022026A478', purchaseDate: '25/08/2026', warrantyDate: '25/08/2027' },
+
+
+
+
+
+
+// Till 25 Aug Updated
+
+
+{ serialNo: 'CWCP5010DNW042024A043', purchaseDate: '02/09/2026', warrantyDate: '02/09/2027' },
+
+{ serialNo: 'CWCPB5020022026A217', purchaseDate: '02/09/2026', warrantyDate: '02/09/2027' },
+{ serialNo: '4055012026A584', purchaseDate: '21/03/2026', warrantyDate: '21/03/2027' },
+{ serialNo: '4055012026A465', purchaseDate: '26/08/2026', warrantyDate: '26/08/2029' },
+{ serialNo: '2257108082026A875', purchaseDate: '02/09/2026', warrantyDate: '02/09/2027' },
+{ serialNo: 'CWCM2010022026A500', purchaseDate: '31/08/2026', warrantyDate: '31/08/2027' },
+{ serialNo: 'CWCM2010022026A489', purchaseDate: '31/08/2026', warrantyDate: '31/08/2027' },
+{ serialNo: '2357108082026A876', purchaseDate: '01/09/2026', warrantyDate: '01/09/2027' },
+{ serialNo: 'CW7WV001A2', purchaseDate: '27/08/2026', warrantyDate: '27/08/2029' },
+{ serialNo: '4820235072026A800', purchaseDate: '28/08/2026', warrantyDate: '28/08/2031' },
+{ serialNo: '4820235072026A801', purchaseDate: '28/08/2026', warrantyDate: '28/08/2031' },
+{ serialNo: '4820235072026A802', purchaseDate: '28/08/2026', warrantyDate: '28/08/2031' },
+{ serialNo: '4820235072026A803', purchaseDate: '28/08/2026', warrantyDate: '28/08/2031' },
+{ serialNo: '4820235072026A804', purchaseDate: '28/08/2026', warrantyDate: '28/08/2031' },
+{ serialNo: '4820235072026A805', purchaseDate: '28/08/2026', warrantyDate: '28/08/2031' },
+{ serialNo: '4820235062026A299', purchaseDate: '28/08/2026', warrantyDate: '28/08/2031' },
+
+{ serialNo: '4055012026A584', purchaseDate: '21/03/2026', warrantyDate: '21/03/2029' },
+
+{ serialNo: 'CW7WV0010M', purchaseDate: '03/09/2026', warrantyDate: '03/09/2029' },
+{ serialNo: 'CW7WV0010X', purchaseDate: '03/09/2026', warrantyDate: '03/09/2029' },
+{ serialNo: 'CW7WV0010N', purchaseDate: '03/09/2026', warrantyDate: '03/09/2029' },
+
+{ serialNo: 'CW7WV0014G', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0014P', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00144', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0014F', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0014F', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0014E', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00141', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0014J', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0013Q', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0013V', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0015D', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0012X', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00142', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00155', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0014U', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00153', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0015A', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0014S', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0015L', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0014H', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0013C', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0013D', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00139', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00158', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00154', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00156', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00128', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0012N', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00132', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0014N', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0013B', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0012E', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00149', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0012P', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0012R', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0012S', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00135', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0012V', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0011N', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0012Y', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0012W', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00131', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0012J', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00136', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00121', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0014T', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00134', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV0013T', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00130', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CW7WV00130', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+
+{ serialNo: '45004843082026A878', purchaseDate: '04/09/2026', warrantyDate: '04/09/2031' },
+{ serialNo: '45004843082026A877', purchaseDate: '04/09/2026', warrantyDate: '04/09/2031' },
+{ serialNo: '45004055082026A879', purchaseDate: '04/09/2026', warrantyDate: '04/09/2031' },
+
+{ serialNo: '4055012026A695', purchaseDate: '05/09/2026', warrantyDate: '05/09/2031' },
+{ serialNo: '4055012026A647', purchaseDate: '05/09/2026', warrantyDate: '05/09/2031' },
+{ serialNo: '4055012026A597', purchaseDate: '05/09/2026', warrantyDate: '05/09/2031' },
+{ serialNo: '4055012026A621', purchaseDate: '05/09/2026', warrantyDate: '05/09/2031' },
+{ serialNo: '4055012026A642', purchaseDate: '05/09/2026', warrantyDate: '05/09/2031' },
+
+{ serialNo: 'CW7XV001QC', purchaseDate: '01/09/2026', warrantyDate: '01/09/2027' },
+{ serialNo: 'CW7XV001S3', purchaseDate: '01/09/2026', warrantyDate: '01/09/2027' },
+
+{ serialNo: 'CW7XV001R6', purchaseDate: '08/09/2026', warrantyDate: '08/09/2027' },
+
+{ serialNo: 'CW7WV00103', purchaseDate: '08/09/2026', warrantyDate: '08/09/2031' },
+{ serialNo: 'CW7WV000Y6', purchaseDate: '08/09/2026', warrantyDate: '08/09/2031' },
+{ serialNo: 'CW7WV000YW', purchaseDate: '08/09/2026', warrantyDate: '08/09/2031' },
+{ serialNo: 'CW7WV00116', purchaseDate: '08/09/2026', warrantyDate: '08/09/2031' },
+{ serialNo: 'CW7WV00195', purchaseDate: '08/09/2026', warrantyDate: '08/09/2031' },
+{ serialNo: 'CW7WV0018C', purchaseDate: '08/09/2026', warrantyDate: '08/09/2031' },
+{ serialNo: 'CW7WV000YN', purchaseDate: '08/09/2026', warrantyDate: '08/09/2031' },
+{ serialNo: 'CW7WV000YR', purchaseDate: '08/09/2026', warrantyDate: '08/09/2031' },
+
+{ serialNo: '50203020072026A992', purchaseDate: '08/09/2026', warrantyDate: '08/09/2027' },
+
+{ serialNo: 'CWCM2010022026A498', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CWCM2010022026A497', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CWCM2010022026A492', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CWCM2010022026A486', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CWCM2010022026A495', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CWCM2010022026A493', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CWCM2010022026A499', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+{ serialNo: 'CWCM2010022026A494', purchaseDate: '05/09/2026', warrantyDate: '05/09/2027' },
+
+// Till 09/09/2026 Updated 
+
+
+{ serialNo: 'P4843012026A078', purchaseDate: '19/09/2026', warrantyDate: '19/09/2027' },
+{ serialNo: 'CWCPB5020022026A217', purchaseDate: '19/09/2026', warrantyDate: '19/09/2027' },
+
+{ serialNo: 'CY9XV001AN', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: 'CY9XV0019P', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: 'CY9XV001A2', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: 'CY9XV001BE', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: 'CY9XV001A0', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+
+{ serialNo: '9100320072026A994', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+
+{ serialNo: '50283308072026A995', purchaseDate: '19/09/2026', warrantyDate: '19/09/2027' },
+
+{ serialNo: '50283308082026A950', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A951', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A952', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A953', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A954', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A955', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A956', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A957', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A958', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A959', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A960', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A961', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A962', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A963', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A964', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A965', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A966', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A967', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A968', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A969', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A970', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A971', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A972', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A973', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A974', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A975', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A976', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A977', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A978', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A979', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A980', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A981', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A982', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A983', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A984', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A985', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A986', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A987', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A988', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A989', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A990', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+{ serialNo: '50283308082026A991', purchaseDate: '10/09/2026', warrantyDate: '10/09/2027' },
+
+{ serialNo: '4055012026A464', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A466', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A467', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A468', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A469', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A476', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A477', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A478', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A479', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A480', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A481', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A482', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A483', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A484', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A485', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A486', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A487', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A494', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A495', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A496', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A497', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A498', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A499', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055012026A500', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055082026A993', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055082026A994', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055082026A995', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+{ serialNo: '4055082026A996', purchaseDate: '09/09/2026', warrantyDate: '09/09/2031' },
+
+
+{ serialNo: 'CW7XV001RD', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001RQ', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001QU', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001RF', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001QM', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001RC', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001R3', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001RU', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001QY', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001SH', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001Q0', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001QN', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001S1', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001RB', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001QJ', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001R2', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001QP', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001T9', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001Q2', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001GJ', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001MJ', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001G8', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001P8', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001TA', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+{ serialNo: 'CW7XV001QD', purchaseDate: '16/09/2026', warrantyDate: '16/09/2027' },
+
+
+{ serialNo: 'P4843012026A170', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A147', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A031', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A171', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A041', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A083', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A061', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A197', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A059', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A027', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A153', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A046', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A063', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A191', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A099', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A076', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A134', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A184', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A050', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A177', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A124', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A025', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A175', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A088', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A070', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A077', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A121', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A126', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A069', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A202', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A182', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A157', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A058', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A067', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A196', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A045', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A449', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A207', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A034', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A205', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A094', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A179', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+{ serialNo: 'P4843012026A156', purchaseDate: '10/09/2026', warrantyDate: '10/09/2029' },
+
+
+//20/09/2026
+
+{ serialNo: 'CWCPB5020022026A214', purchaseDate: '21/09/2026', warrantyDate: '21/09/2027' },
+
+{ serialNo: '4055082026A671', purchaseDate: '24/09/2026', warrantyDate: '24/09/2027' },
+{ serialNo: '4055082026A656', purchaseDate: '24/09/2026', warrantyDate: '24/09/2027' },
+
+{ serialNo: '2512100082026A1014', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '2512100082026A1015', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+
+{ serialNo: '3948221828', purchaseDate: '17/08/2026', warrantyDate: '17/08/2029' },
+
+{ serialNo: 'CWCPB5020022026A234', purchaseDate: '28/09/2026', warrantyDate: '28/09/2027' },
+
+{ serialNo: 'CWCM2010022026A485', purchaseDate: '22/09/2026', warrantyDate: '22/09/2027' },
+{ serialNo: 'CWCM2010022026A093', purchaseDate: '22/09/2026', warrantyDate: '22/09/2027' },
+
+{ serialNo: '4055012026A353', purchaseDate: '29/06/2026', warrantyDate: '29/06/2029' },
+{ serialNo: '4055012026A628', purchaseDate: '29/06/2026', warrantyDate: '29/06/2029' },
+{ serialNo: '4055012026A349', purchaseDate: '29/06/2026', warrantyDate: '29/06/2029' },
+
+{ serialNo: '225225082026A1048', purchaseDate: '28/09/2026', warrantyDate: '28/09/2027' },
+
+{ serialNo: '50283308072026A995', purchaseDate: '28/09/2026', warrantyDate: '28/09/2027' },
+
+{ serialNo: 'CWCPB5020022026A241', purchaseDate: '28/07/2026', warrantyDate: '28/07/2027' },
+
+
+{ serialNo: 'CWCM2100022026A184', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: 'CWCM2100022026A164', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: 'CWCM2100022026A087', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: 'CWCM2100022026A075', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: 'CWCM2100022026A178', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: 'CWCM2100022026A147', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: 'CWCM2100022026A066', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+
+{ serialNo: 'CW7WV000YQ', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: 'CW7WV000YH', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: 'CW7WV0014Q', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: 'CW7WV00113', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: 'CW7WV000YM', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+
+
+{ serialNo: '33367108072026A1017', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1018', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1019', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1020', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1021', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1022', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1023', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1024', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1025', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1026', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1027', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1028', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1029', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1030', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1031', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1032', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1033', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1034', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1035', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1036', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1037', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1038', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1039', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+{ serialNo: '33367108072026A1040', purchaseDate: '26/09/2026', warrantyDate: '26/09/2027' },
+
+
+{ serialNo: 'CWCPB5020022026A201', purchaseDate: '30/09/2026', warrantyDate: '30/09/2027' },
+{ serialNo: 'CWCPB5020022026A208', purchaseDate: '30/09/2026', warrantyDate: '30/09/2027' },
+
+{ serialNo: '48202100072026A784', purchaseDate: '31/08/2026', warrantyDate: '31/08/2031' },
+{ serialNo: '45Q11850', purchaseDate: '31/08/2026', warrantyDate: '31/08/2031' },
+{ serialNo: '45Q11852', purchaseDate: '31/08/2026', warrantyDate: '31/08/2031' },
+{ serialNo: '45Q11964', purchaseDate: '31/08/2026', warrantyDate: '31/08/2031' },
+
+{ serialNo: 'CWCM2010022026A056', purchaseDate: '07/08/2026', warrantyDate: '07/08/2027' },
+{ serialNo: 'CWCM2010022026A071', purchaseDate: '07/08/2026', warrantyDate: '07/08/2027' },
+
+
+//30/09/2026
+
+
+
+{ serialNo: 'CW7XV00170', purchaseDate: '01/10/2026', warrantyDate: '01/10/2029' },
+{ serialNo: 'CW7XV0017W', purchaseDate: '01/10/2026', warrantyDate: '01/10/2029' },
+{ serialNo: 'CW7XV0016P', purchaseDate: '01/10/2026', warrantyDate: '01/10/2029' },
+{ serialNo: 'CW7XV0017X', purchaseDate: '01/10/2026', warrantyDate: '01/10/2029' },
+{ serialNo: 'CW7XV0016M', purchaseDate: '01/10/2026', warrantyDate: '01/10/2029' },
+{ serialNo: 'CW7XV0016W', purchaseDate: '01/10/2026', warrantyDate: '01/10/2029' },
+
+
+
+
+{ serialNo: '2357108082026A1069', purchaseDate: '01/10/2026', warrantyDate: '01/10/2031' },
+{ serialNo: '2357108082026A1070', purchaseDate: '01/10/2026', warrantyDate: '01/10/2031' },
+{ serialNo: '2357108082026A1071', purchaseDate: '01/10/2026', warrantyDate: '01/10/2031' },
+{ serialNo: '2357108082026A1072', purchaseDate: '01/10/2026', warrantyDate: '01/10/2031' },
+
+
+{ serialNo: '2112100082026A1050', purchaseDate: '01/10/2026', warrantyDate: '01/10/2028' },
+{ serialNo: '2112100082026A1051', purchaseDate: '01/10/2026', warrantyDate: '01/10/2028' },
+{ serialNo: '2112100082026A1053', purchaseDate: '01/10/2026', warrantyDate: '01/10/2028' },
+{ serialNo: '2112100082026A1052', purchaseDate: '01/10/2026', warrantyDate: '01/10/2028' },
+{ serialNo: '2512100082026A1054', purchaseDate: '01/10/2026', warrantyDate: '01/10/2028' },
+
+// 01/10/2026
+
+
+  // 0438 Revised Warranty Certificate
+  { serialNo: '4055012026A656', purchaseDate: '24/09/2026', warrantyDate: '24/09/2027' },
+  { serialNo: '4055012026A671', purchaseDate: '24/09/2026', warrantyDate: '24/09/2027' },
+
+  // 3610 Warranty Certificate - final acceptance/installation date not specified
+  { serialNo: 'CW7XV001MB', purchaseDate: '02/10/2026', warrantyDate: '02/10/2027' },
+  { serialNo: 'CW7XV001LA', purchaseDate: '02/10/2026', warrantyDate: '02/10/2027' },
+  { serialNo: 'CW7XV001RJ', purchaseDate: '02/10/2026', warrantyDate: '02/10/2027' },
+  { serialNo: 'CW7XV001GY', purchaseDate: '02/10/2026', warrantyDate: '02/10/2027' },
+  { serialNo: 'CW7XV001GP', purchaseDate: '02/10/2026', warrantyDate: '02/10/2027' },
+  { serialNo: 'CW7XV001MN', purchaseDate: '02/10/2026', warrantyDate: '02/10/2027' },
+  { serialNo: 'CW7XV001RK', purchaseDate: '02/10/2026', warrantyDate: '02/10/2027' },
+
+  // 3676
+  { serialNo: '98202100092026A1077', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+
+  // 6588
+  { serialNo: 'P4843012026A048', purchaseDate: '30/09/2026', warrantyDate: '30/09/2027' },
+
+  // 8042
+  { serialNo: 'CWCPB5020022026A221', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+
+  // 8327
+  { serialNo: '2357108092026A1076', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+
+  // 9938
+  { serialNo: 'CP5ZV000KD', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+  { serialNo: 'CP5ZV00085', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+  { serialNo: 'CP5ZV0007V', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+  { serialNo: 'CP5ZV0007K', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+  { serialNo: 'CP5ZV000DT', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+  { serialNo: 'CP5ZV000HU', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+  { serialNo: 'CP5ZV0007F', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+  { serialNo: 'CP5ZV000BD', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+  { serialNo: 'CP5ZV000EU', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+  { serialNo: 'CP5ZV000BY', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+  { serialNo: 'CP5ZV000BE', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+  { serialNo: 'CP5ZV000E6', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+  { serialNo: 'CP5ZV000EG', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+  { serialNo: 'CP5ZV000KE', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+  { serialNo: 'CP5ZV000C1', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+  { serialNo: 'CP5ZV000FO', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+
+  // Asian Sales - 511687717379113
+  { serialNo: 'CW7WV000YB', purchaseDate: '02/10/2026', warrantyDate: '02/10/2027' },
+  { serialNo: 'CW7WV000Y3', purchaseDate: '02/10/2026', warrantyDate: '02/10/2027' },
+
+  // Asian Sales - 511687721095959
+  { serialNo: 'CW7YV000WD', purchaseDate: '03/10/2026', warrantyDate: '03/10/2029' },
+  { serialNo: 'CW7YV0017K', purchaseDate: '03/10/2026', warrantyDate: '03/10/2029' },
+  { serialNo: 'CW7YV001AC', purchaseDate: '03/10/2026', warrantyDate: '03/10/2029' },
+  { serialNo: 'CW7YV00183', purchaseDate: '03/10/2026', warrantyDate: '03/10/2029' },
+  { serialNo: 'CW7YV001BC', purchaseDate: '03/10/2026', warrantyDate: '03/10/2029' },
+  { serialNo: 'CW7YV0019M', purchaseDate: '03/10/2026', warrantyDate: '03/10/2029' },
+  { serialNo: 'CW7YV0017V', purchaseDate: '03/10/2026', warrantyDate: '03/10/2029' },
+  { serialNo: 'CW7YV0017Y', purchaseDate: '03/10/2026', warrantyDate: '03/10/2029' },
+  { serialNo: 'CW7YV0014R', purchaseDate: '03/10/2026', warrantyDate: '03/10/2029' },
+  { serialNo: 'CW7YV0019L', purchaseDate: '03/10/2026', warrantyDate: '03/10/2029' },
+  { serialNo: 'CW7YV00163', purchaseDate: '03/10/2026', warrantyDate: '03/10/2029' },
+  { serialNo: 'CW7YV001AE', purchaseDate: '03/10/2026', warrantyDate: '03/10/2029' },
+  { serialNo: 'CW7YV000YV', purchaseDate: '03/10/2026', warrantyDate: '03/10/2029' },
+  { serialNo: 'CW7YV0017S', purchaseDate: '03/10/2026', warrantyDate: '03/10/2029' },
+
+  // Niva Enterprises
+  { serialNo: 'CW7WV0015H', purchaseDate: '03/10/2026', warrantyDate: '03/10/2027' },
+
+
+
+
+
+
+
+
+
+
+
+
+
 ];
 
 
 export default warrantyData;
+
+
+
+
+
+

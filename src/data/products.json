@@ -1,103 +1,931 @@
 [
+ 
   {
-    "id": "cwc-p5028",
-    "name": "CWC P5028 Single Function",
+  "id": "cwc-4500s",
+  "name": "CWC 4500S Multifunction Laser Printer",
+  "type": "Laser",
+  "color": "Mono",
+  "category": "printers",
+  "format": "A4",
+  "function": "Multifunction",
+  "compatibleIds": [],
+  "speed": "45–49 ppm",
+  "image": "/images/4500s/main.webp",
+  "img1": "/images/4500s/img1.webp",
+  "img2": "/images/4500s/img2.webp",
+  "img3": "/images/4500s/img3.webp",
+
+  "specSummary": [
+    "Print speed: 45–49 ppm",
+    "First print out time: ≤ 5.9 seconds",
+    "Print, Copy & Scan",
+    "Legal-size Flatbed + SPDF scanner",
+    "60-sheet ADF capacity",
+    "Automatic duplex printing, copying and scanning",
+    "1GB DDR3 memory",
+    "1.2 GHz processor",
+    "3.5-inch touch screen",
+    "Dual-band Wi-Fi 2.4 GHz / 5 GHz",
+    "Maximum paper input capacity: 1,450 sheets",
+    "Print languages: PCL6, PS",
+    "USB 2.0, Ethernet and Wi-Fi connectivity",
+    "Made in India"
+  ],
+
+  "details": {
+    "print_specification": [
+      {
+        "title": "Print Speed",
+        "desc": "45 ppm to 49 ppm"
+      },
+      {
+        "title": "First Print Out Time",
+        "desc": "≤ 5.9 seconds"
+      },
+      {
+        "title": "Monthly Volume",
+        "desc": "1,000 to 10,000 sheets"
+      },
+      {
+        "title": "Monthly Duty Cycle",
+        "desc": "150,000 sheets"
+      },
+      {
+        "title": "Printer Language",
+        "desc": "PCL6, PS"
+      },
+      {
+        "title": "Processor Speed",
+        "desc": "1.2 GHz"
+      },
+      {
+        "title": "Memory",
+        "desc": "1 GB DDR3"
+      },
+      {
+        "title": "Auto Duplex Print",
+        "desc": "Yes"
+      },
+      {
+        "title": "Duplex Print Speed",
+        "desc": "20 spm (A4) / 21 spm (Letter)"
+      },
+      {
+        "title": "Duplex Print Supported Paper Size",
+        "desc": "A4, Letter, Legal, Folio, Oficio"
+      },
+      {
+        "title": "Other Printing Functions",
+        "desc": "Booklet printing, Secure printing, USB disk printing"
+      },
+      {
+        "title": "Control Panel",
+        "desc": "3.5-inch touch screen"
+      },
+      {
+        "title": "U-Disk Print",
+        "desc": "Yes"
+      }
+    ],
+
+    "copy_specification": [
+      {
+        "title": "Copy Speed",
+        "desc": "FB single-sided A4: 42 cpm; FB single-sided Letter: 44 cpm; ADF single-sided A4: 42 cpm; ADF double-sided A4: 20 pages/min"
+      },
+      {
+        "title": "First Copy Out Time",
+        "desc": "FB: less than 10 seconds; ADF: less than 11 seconds; ADF duplex: ≤20 seconds"
+      },
+      {
+        "title": "Copy Resolution",
+        "desc": "FB: Maximum 600 × 600 dpi; ADF: Maximum 600 × 600 dpi"
+      },
+      {
+        "title": "Duplex Copy Speed",
+        "desc": "ADF duplex A4: 20 pages/min"
+      },
+      {
+        "title": "Copy Special Features",
+        "desc": "Copy settings, original size, copy type, duplex copy, brightness, zoom, collate, multiple pages in one, clone, poster, flip mode"
+      },
+      {
+        "title": "Copy Reduce / Enlarge Settings",
+        "desc": "25%–400%"
+      },
+      {
+        "title": "Maximum Copy Pages",
+        "desc": "99 sheets"
+      }
+    ],
+
+    "scan_specification": [
+      {
+        "title": "Scanner Type",
+        "desc": "Flatbed + DADF (SPDF)"
+      },
+      {
+        "title": "Scanner Mode",
+        "desc": "Color, Gray, Black & White"
+      },
+      {
+        "title": "ADF Capacity",
+        "desc": "60 sheets"
+      },
+      {
+        "title": "Scan Speed",
+        "desc": "24 ppm (A4) / 48 ipm (A4); 25 ppm (Letter) / 50 ipm (Letter)"
+      },
+      {
+        "title": "Maximum Scan Size",
+        "desc": "FB: 216 × 297 mm (Legal); ADF: 216 × 356 mm"
+      },
+      {
+        "title": "Maximum Scan DPI",
+        "desc": "FB pull scan: 2400 × 2400 dpi; FB push scan: 600 × 600 dpi; ADF pull scan: 600 × 600 dpi"
+      },
+      {
+        "title": "Scan Destinations",
+        "desc": "PC, E-mail, FTP, SMB, U-Disk"
+      },
+      {
+        "title": "Auto Duplex Scan",
+        "desc": "Yes"
+      }
+    ],
+
+    "paper_handling": [
+      {
+        "title": "Paper Input Tray",
+        "desc": "250 sheets"
+      },
+      {
+        "title": "Optional Input Paper Tray",
+        "desc": "550 sheets each, maximum 2 optional trays"
+      },
+      {
+        "title": "Multipurpose Tray",
+        "desc": "100 sheets"
+      },
+      {
+        "title": "Maximum Paper Input Capacity",
+        "desc": "1,450 sheets"
+      },
+      {
+        "title": "Paper Output Tray",
+        "desc": "150 sheets"
+      },
+      {
+        "title": "Media Types",
+        "desc": "A4, A5, B5, ISO B5, A6, Letter, Legal, Executive, Folio, Oficio, Statement, Japanese Postcard, Monarch Envelope, DL Envelope, C5 Envelope, C6 Envelope, No.10 Envelope, ZL Envelope, Big 16K, Big 32K, 16K, 32K, B6, Yougata4, Postcard, Yougata3, Nagagata3, Yougata2"
+      },
+      {
+        "title": "Minimum Supported Size",
+        "desc": "80 × 148 mm"
+      },
+      {
+        "title": "Maximum Supported Size",
+        "desc": "216 × 356 mm"
+      },
+      {
+        "title": "Media Weight",
+        "desc": "Input tray: 60–120 g/m²; Multipurpose tray: 60–200 g/m²; Optional tray: 60–120 g/m²"
+      }
+    ],
+
+    "general": [
+      {
+        "title": "Function",
+        "desc": "Print, Copy, Scan"
+      },
+      {
+        "title": "Fax",
+        "desc": "Not Available"
+      },
+      {
+        "title": "Display",
+        "desc": "3.5-inch Touch Screen"
+      },
+      {
+        "title": "Processor",
+        "desc": "1.2 GHz"
+      },
+      {
+        "title": "RAM",
+        "desc": "1 GB DDR3"
+      },
+      {
+        "title": "Connectivity",
+        "desc": "USB 2.0, Ethernet and Wi-Fi"
+      },
+      {
+        "title": "Interface",
+        "desc": "High-speed USB 2.0; IEEE 802.3 10/100/1000Base-Tx; Wi-Fi 2.4G/5G; USB Host and rear USB Device"
+      },
+      {
+        "title": "Wi-Fi",
+        "desc": "2.4 GHz / 5 GHz"
+      },
+      {
+        "title": "Power Consumption",
+        "desc": "Print average: ≤650W; Ready: ≤8W; Sleep: ≤1.4W"
+      },
+      {
+        "title": "Noise",
+        "desc": "Ready: ≤30 dB(A); Print: ≤56 dB(A); Scan: ≤56 dB(A); Copy: ≤57 dB(A); Mute printing: ≤50 dB(A)"
+      },
+      {
+        "title": "Dimensions (W×D×H)",
+        "desc": "476 × 368 × 378 mm"
+      },
+      {
+        "title": "Product Weight",
+        "desc": "12 kg"
+      },
+      {
+        "title": "Package Size (W×D×H)",
+        "desc": "559 × 444 × 488 mm"
+      },
+      {
+        "title": "Package Gross Weight",
+        "desc": "16 kg"
+      },
+      {
+        "title": "Operating Temperature Range",
+        "desc": "Recommended temperature: 10–32°C; Humidity range: 20%–80%"
+      },
+      {
+        "title": "Input Voltage",
+        "desc": "AC 220–240V, 50/60Hz, 6.5A"
+      },
+      {
+        "title": "Country of Origin",
+        "desc": "India"
+      },
+      {
+        "title": "Warranty",
+        "desc": "5-Year Warranty Support, subject to applicable terms and conditions"
+      }
+    ],
+
+    "operating_system": [
+      {
+        "title": "Windows",
+        "desc": "Windows Server 2016 / Server 2019 / Server 2022 / Windows 10 (32/64-bit) / Windows 11 (64-bit)"
+      },
+      {
+        "title": "Mac OS",
+        "desc": "Mac OS 10.13, 10.14, 10.15, 11, 12, 13, 14, 15"
+      },
+      {
+        "title": "Linux",
+        "desc": "Linux 18.04 / 22.04 / 24.04; Ubuntu 16.04 (x86/64); Maya; BOSS"
+      }
+    ],
+
+    "security": [
+      {
+        "title": "Secure Print",
+        "desc": "4-digit release code for confidential print jobs"
+      },
+      {
+        "title": "Access Control",
+        "desc": "Restrict access to printer settings and control panel functions"
+      },
+      {
+        "title": "Network Security",
+        "desc": "IPSec, SSL/TLS and 802.1X support"
+      }
+    ],
+
+    "features": [
+      {
+        "title": "High-Speed Printing",
+        "desc": "Print speed of 45–49 ppm"
+      },
+      {
+        "title": "Legal Size Flatbed",
+        "desc": "Legal-size flatbed scanner for document-heavy workflows"
+      },
+      {
+        "title": "High-Volume Paper Capacity",
+        "desc": "Expandable paper capacity up to 1,450 sheets"
+      },
+      {
+        "title": "Automatic Duplex",
+        "desc": "Automatic two-sided printing, copying and scanning"
+      },
+      {
+        "title": "Secure Printing",
+        "desc": "4-digit secure release code"
+      },
+      {
+        "title": "Toner Saving Mode",
+        "desc": "Toner-saving mode to reduce consumption and extend cartridge life"
+      }
+    ],
+
+    "consumable": [
+      {
+        "title": "Cartridge Style",
+        "desc": "Separate Drum and Toner"
+      },
+      {
+        "title": "Toner Cartridge",
+        "desc": "CWC-T4503 / CWC-T4506"
+      },
+      {
+        "title": "Toner Cartridge Yield - CWC-T4503",
+        "desc": "3,000 sheets"
+      },
+      {
+        "title": "Toner Cartridge Yield - CWC-T4506",
+        "desc": "6,000 sheets"
+      },
+      {
+        "title": "Drum",
+        "desc": "CWC-D4500"
+      },
+      {
+        "title": "Drum Yield",
+        "desc": "15,000 sheets"
+      }
+    ]
+  },
+
+  "drivers": {
+    "Windows": "/drivers/CWC_4500s_Windows.zip",
+    "Linux": "/drivers/CWC_4500s_Linux.zip",
+    "Mac": "/drivers/CWC_4500s_Mac.zip"
+  }
+}
+,
+ {
+  "id": "cwc-4055",
+  "name": "CWC 4055 Multifunction Laser Printer",
+  "type": "Laser",
+  "color": "Mono",
+  "category": "printers",
+  "format": "A4",
+  "function": "Multifunction",
+  "compatibleIds": [],
+  "speed": "41–45 ppm",
+  "image": "/images/4055/main.webp",
+  "img1": "/images/4055/img1.webp",
+  "img2": "/images/4055/img2.webp",
+  "img3": "/images/4055/img3.webp",
+
+  "specSummary": [
+    "Print speed: 41–45 ppm",
+    "First print out time: ≤ 6.9 seconds",
+    "Print, Copy, Scan & Fax",
+    "Automatic duplex printing",
+    "Flatbed + DADF (SPDF) scanning",
+    "60-sheet ADF capacity",
+    "512 MB memory",
+    "1.2 GHz processor",
+    "3.5-inch touch screen display",
+    "Dual-band Wi-Fi 2.4 GHz / 5 GHz",
+    "Maximum paper input capacity: 1,450 sheets",
+    "1200 × 1200 dpi print resolution",
+    "Made in India"
+  ],
+
+  "details": {
+    "print_specification": [
+      {
+        "title": "Print Speed",
+        "desc": "41 ppm to 45 ppm"
+      },
+      {
+        "title": "First Print Out Time",
+        "desc": "≤ 6.9 seconds"
+      },
+      {
+        "title": "Monthly Volume",
+        "desc": "1,000 to 10,000 sheets"
+      },
+      {
+        "title": "Monthly Duty Cycle",
+        "desc": "150,000 sheets"
+      },
+      {
+        "title": "Printer Language",
+        "desc": "PCL5e, PCL6, PS3, PDF"
+      },
+      {
+        "title": "Processor Speed",
+        "desc": "1.2 GHz"
+      },
+      {
+        "title": "Memory",
+        "desc": "512 MB"
+      },
+      {
+        "title": "Auto Duplex Print",
+        "desc": "Yes"
+      },
+      {
+        "title": "Duplex Print Speed",
+        "desc": "20 spm (A4) / 21 spm (Letter)"
+      },
+      {
+        "title": "Duplex Print Supported Paper Size",
+        "desc": "A4, Letter, Legal, Folio, Oficio"
+      },
+      {
+        "title": "Print Resolution",
+        "desc": "1200 × 1200 dpi"
+      },
+      {
+        "title": "Other Printing Functions",
+        "desc": "Booklet printing, Secure printing, USB disk printing"
+      }
+    ],
+
+    "copy_specification": [
+      {
+        "title": "Copy Speed",
+        "desc": "41 ppm to 45 ppm"
+      },
+      {
+        "title": "First Copy Out Time",
+        "desc": "Flatbed: less than 10 seconds; ADF: less than 11 seconds"
+      },
+      {
+        "title": "Maximum Copy Pages",
+        "desc": "99"
+      },
+      {
+        "title": "Copy Reduce / Enlarge Settings",
+        "desc": "25%–400%"
+      },
+      {
+        "title": "Copy Special Features",
+        "desc": "ID copy, Receipt copy, N-up copy, Clone copy, Poster copy, Collated copy, Watermark copy"
+      }
+    ],
+
+    "scan_specification": [
+      {
+        "title": "Scanner Type",
+        "desc": "Flatbed + DADF (SPDF)"
+      },
+      {
+        "title": "Auto Duplex Scan",
+        "desc": "Yes"
+      },
+      {
+        "title": "ADF Capacity",
+        "desc": "60 sheets"
+      },
+      {
+        "title": "Scan Speed",
+        "desc": "24 ppm (A4) / 48 ipm (A4); 25 ppm (Letter) / 50 ipm (Letter)"
+      },
+      {
+        "title": "Maximum Scan Size",
+        "desc": "Flatbed: 216 × 297 mm; ADF: 216 × 356 mm"
+      },
+      {
+        "title": "Color Scanning",
+        "desc": "Yes"
+      },
+      {
+        "title": "Scan Destinations",
+        "desc": "PC, E-mail, FTP, SMB, Thumb drive"
+      }
+    ],
+
+    "fax_specification": [
+      {
+        "title": "Fax Type",
+        "desc": "Mono"
+      },
+      {
+        "title": "Modem Speed",
+        "desc": "33.6 Kbps"
+      },
+      {
+        "title": "Fax Memory",
+        "desc": "650 pages"
+      },
+      {
+        "title": "Fax Resolution",
+        "desc": "Standard: 200 × 100 dpi; Fine: 200 × 200 dpi; Super fine: 200 × 400 dpi; Picture: 300 × 300 dpi"
+      },
+      {
+        "title": "Coded System",
+        "desc": "MH / MR / MMR / JBIG"
+      },
+      {
+        "title": "Compatibility",
+        "desc": "ITU-T SG3 / ECM"
+      }
+    ],
+
+    "paper_handling": [
+      {
+        "title": "Paper Input Tray",
+        "desc": "250 sheets"
+      },
+      {
+        "title": "Optional Input Paper Tray",
+        "desc": "550 sheets each, maximum 2 optional trays"
+      },
+      {
+        "title": "Multipurpose Tray",
+        "desc": "100 sheets"
+      },
+      {
+        "title": "Maximum Paper Input Capacity",
+        "desc": "1,450 sheets"
+      },
+      {
+        "title": "Paper Output Tray",
+        "desc": "150 sheets"
+      },
+      {
+        "title": "Media Types",
+        "desc": "A4, A5, B5, ISO B5, A6, Letter, Legal, Executive, Folio, Oficio, Statement, Japanese Postcard, Monarch Env, DL Env, C5 Env, C6 Env, No.10 Env, ZL Env, Big 16K, Big 32K, 16K, 32K, B6, Yougata4, Postcard, Yougan3, Nagagata3, Yougata2"
+      },
+      {
+        "title": "Media Weight",
+        "desc": "Input tray: 60–120 g/m²; Multipurpose tray: 60–200 g/m²; Optional tray: 60–120 g/m²"
+      }
+    ],
+
+    "general": [
+      {
+        "title": "Display",
+        "desc": "3.5-inch Touch Screen"
+      },
+      {
+        "title": "Processor",
+        "desc": "1.2 GHz"
+      },
+      {
+        "title": "RAM",
+        "desc": "512 MB"
+      },
+      {
+        "title": "Print Resolution",
+        "desc": "1200 × 1200 dpi"
+      },
+      {
+        "title": "First Print Out Time",
+        "desc": "≤ 6.9 seconds"
+      },
+      {
+        "title": "Interface",
+        "desc": "High-speed USB 2.0; IEEE 802.3 10/100/1000Base-Tx; WiFi (2.4G/5G)"
+      },
+      {
+        "title": "Interface Type",
+        "desc": "USB 2.0, Ethernet, WiFi 2.4 GHz / 5 GHz"
+      },
+      {
+        "title": "Wi-Fi",
+        "desc": "Dual-band 2.4 GHz / 5 GHz"
+      },
+      {
+        "title": "Dimensions (W×D×H)",
+        "desc": "415 × 365 × 370 mm"
+      },
+      {
+        "title": "Product Weight (Without Cartridge)",
+        "desc": "12.5 kg"
+      },
+      {
+        "title": "Package Size (W×D×H)",
+        "desc": "559 × 444 × 489 mm"
+      },
+      {
+        "title": "Package Weight (With Cartridge)",
+        "desc": "14.7 kg"
+      },
+      {
+        "title": "Operating Temperature",
+        "desc": "Recommended temperature: 10–32°C; Humidity range: 20%–80%"
+      },
+      {
+        "title": "Input Voltage",
+        "desc": "220V; AC220V–240V, 50/60Hz, 7A"
+      },
+      {
+        "title": "Noise",
+        "desc": "Ready: ≤30 dB(A); Print: ≤54 dB(A); Scan: ≤54 dB(A); Copy: ≤57 dB(A)"
+      },
+      {
+        "title": "Power Consumption",
+        "desc": "Print average: ≤650W; Ready: ≤60W; Sleep: ≤1W"
+      },
+      {
+        "title": "Country of Origin",
+        "desc": "India"
+      },
+      {
+        "title": "Warranty",
+        "desc": "5-Year Warranty Support, subject to applicable terms and conditions"
+      }
+    ],
+
+    "operating_system": [
+      {
+        "title": "Windows",
+        "desc": "Windows Server 2016 / Server 2019 / Server 2022 / Windows 10 (32/64-bit) / Windows 11 (64-bit)"
+      },
+      {
+        "title": "Mac OS",
+        "desc": "Mac OS 10.13, 10.14, 10.15, 11, 12, 13, 14, 15"
+      },
+      {
+        "title": "Linux",
+        "desc": "Ubuntu 16.04(x64) / 22.04 / 22.04 / 24.04, Maya, BOSS"
+      }
+    ],
+
+    "security": [
+      {
+        "title": "Secure Print",
+        "desc": "4-digit release code for confidential print jobs"
+      },
+      {
+        "title": "Access Control",
+        "desc": "Restrict access to printer settings and control panel functions"
+      },
+      {
+        "title": "Network Security",
+        "desc": "IPSec, SSL/TLS and 802.1X support"
+      }
+    ],
+
+    "features": [
+      {
+        "title": "High-Speed Printing",
+        "desc": "Printing up to 43 ppm (A4)"
+      },
+      {
+        "title": "Dual-Band Wi-Fi",
+        "desc": "Supports both 2.4 GHz and 5 GHz Wi-Fi"
+      },
+      {
+        "title": "High-Volume Paper Capacity",
+        "desc": "Expandable paper capacity up to 1,450 sheets"
+      },
+      {
+        "title": "Automatic Duplex",
+        "desc": "Automatic two-sided printing, copying and scanning"
+      },
+      {
+        "title": "Secure Printing",
+        "desc": "4-digit secure release code"
+      },
+      {
+        "title": "Toner Saving Mode",
+        "desc": "Toner-saving mode to reduce consumption and extend cartridge life"
+      }
+    ],
+
+    "consumable": [
+      {
+        "title": "Cartridge Style",
+        "desc": "Composite Cartridge"
+      },
+      {
+        "title": "Cartridge Yield - CWC T4843",
+        "desc": "3,000 sheets"
+      },
+      {
+        "title": "Cartridge Yield - CWC T4846",
+        "desc": "6,000 sheets"
+      },
+      {
+        "title": "Toner Cartridge",
+        "desc": "CWC T4843 / CWC T4846"
+      }
+    ]
+  },
+
+  "drivers": {
+    "Windows": "/drivers/CWC_4055_Windows.zip",
+    "Linux": "/drivers/CWC_4055_Linux.zip",
+    "Mac": "/drivers/CWC_4055_Mac.zip"
+  }
+},
+{
+    "id": "cwc-p4843",
+    "name": "CWC P4843 Laser Printer",
     "type": "Laser",
     "color": "Mono",
     "category": "printers",
     "format": "A4",
     "function": "Print Only",
-    "compatibleIds": [
-      "c1"
-    ],
-    "speed": "26–30 ppm",
-    "image": "/images/cwc-p5028/main.webp",
-    "img1": "/images/cwc-p5028/img1.webp",
-    "img2": "/images/cwc-p5028/img2.webp",
-    "img3": "/images/cwc-p5028/img3.webp",
+    "compatibleIds": [],
+    "speed": "41–45 ppm",
+    "image": "/images/P4843/main.webp",
+    "img1": "/images/P4843/img1.webp",
+    "img2": "/images/P4843/img2.webp",
+    "img3": "/images/P4843/img3.webp",
     "specSummary": [
-      "Printing speed (A4): 26–30 ppm",
-      "Connection method: Network, WiFi and USB"
+      "Printing speed (A4): 41–45 ppm",
+      "Connection method: Network, WiFi and USB",
+      "Print Technology: Laser",
+      "Automatic duplex printing",
+      "One-step driver installation",
+      "Silent printing with reduced noise"
     ],
     "details": {
       "print_specification": [
         {
           "title": "Print speed",
-          "desc": "26–30 ppm"
+          "desc": "41–45 ppm"
         },
         {
-          "title": "Print Technology",
-          "desc": "Laser"
+          "title": "Monthly duty cycle",
+          "desc": "150,000 pages"
         },
         {
-          "title": "First Print Out Time",
-          "desc": "Less than 8 seconds"
+          "title": "Duplex printing",
+          "desc": "Automatic double-sided"
+        },
+        {
+          "title": "Operating system compatibility",
+          "desc": "Windows Server 2003/2008/2012, Windows XP/7/8/8.1/10/11, macOS 10.7–12, Linux (RHEL, CentOS, Fedora, Ubuntu)"
+        }
+      ],
+      "paper_handling": [
+        {
+          "title": "Paper input tray",
+          "desc": "250 sheets + 100-sheet bypass tray (optional 550-sheet tray)"
+        },
+        {
+          "title": "Paper output tray",
+          "desc": "150 sheets"
+        },
+        {
+          "title": "Media sizes",
+          "desc": "A4, A5, A6, B5 (ISO/JIS), Letter, Legal, Executive, Folio, Oficio, Statement, Postcard formats"
+        }
+      ],
+      "general": [
+        {
+          "title": "Function",
+          "desc": "Print"
+        },
+        {
+          "title": "Processor",
+          "desc": "1.2 GHz"
+        },
+        {
+          "title": "RAM",
+          "desc": "512 MB"
+        },
+        {
+          "title": "Print resolution",
+          "desc": "1200 x 1200 dpi"
+        },
+        {
+          "title": "First print out time",
+          "desc": "≤ 6.9 seconds"
+        },
+        {
+          "title": "Interface",
+          "desc": "Network, WiFi and USB"
+        },
+        {
+          "title": "Interface type",
+          "desc": "USB 2.0, Ethernet (10/100/1000), WiFi (2.4/5GHz)"
+        },
+        {
+          "title": "Power consumption",
+          "desc": "650W"
+        },
+        {
+          "title": "Country of origin",
+          "desc": "India"
+        },
+        {
+          "title": "Warranty",
+          "desc": "1 Year Standard Warranty"
+        }
+      ],
+      "package_specification": [
+        {
+          "title": "Dimensions (D×W×H)",
+          "desc": "364 x 344 x 257 mm"
+        },
+        {
+          "title": "Product weight",
+          "desc": "9.3 kg"
+        }
+      ],
+      "consumable": [
+        {
+          "title": "Consumable type",
+          "desc": "Composite"
+        },
+        {
+          "title": "Minimum cartridge yield (starter)",
+          "desc": "3000 pages"
+        },
+        {
+          "title": "Toner cartridge",
+          "desc": "CWC T4843"
+        }
+      ]
+    },
+    "drivers": {
+      
+    }
+  },
+  {
+    "id": "cwc-p310",
+    "name": "CWC P310 Laser Printer",
+    "type": "Laser",
+    "color": "Mono",
+    "category": "printers",
+    "format": "A4",
+    "function": "Print Only",
+    "compatibleIds": [],
+    "speed": "31–35 ppm",
+    "image": "/images/P310/main.webp",
+    "img1": "/images/P310/img1.webp",
+    "img2": "/images/P310/img2.webp",
+    "img3": "/images/P310/img3.webp",
+    "specSummary": [
+      "Printing speed (A4): 31–35 ppm",
+      "Connection method: Network, WiFi and USB",
+      "Print Technology: Laser",
+      "Automatic duplex printing",
+      "One-step driver installation",
+      "Made in India"
+    ],
+    "details": {
+      "print_specification": [
+        {
+          "title": "Print speed",
+          "desc": "31–35 ppm"
+        },
+        {
+          "title": "Monthly Duty Cycle",
+          "desc": "80000 pages"
+        },
+        {
+          "title": "Duplex printing",
+          "desc": "Automatic double-sided"
+        },
+        {
+          "title": "Operating system compatibility",
+          "desc": "Windows Server 2003/2008/2012; Windows XP/Vista/7/8/8.1/10/11; macOS 10.7–12; Linux (Ubuntu)"
+        }
+      ],
+      "paper_handling": [
+        {
+          "title": "Paper input tray",
+          "desc": "250 sheets + Bypass: 1 sheet"
+        },
+        {
+          "title": "Paper output tray",
+          "desc": "150 sheets"
+        },
+        {
+          "title": "Media sizes",
+          "desc": "A4, A5, B5, A6, Letter, Legal, Executive, Folio, Envelopes, Postcards"
+        }
+      ],
+      "general": [
+        {
+          "title": "Function",
+          "desc": "Print"
+        },
+        {
+          "title": "Processor",
+          "desc": "800 MHz"
+        },
+        {
+          "title": "RAM",
+          "desc": "256 MB"
         },
         {
           "title": "Print Resolution",
           "desc": "1200 x 1200 dpi"
         },
         {
-          "title": "Monthly Duty Cycle",
-          "desc": "80000*"
-        },
-        {
-          "title": "Duplex printing",
-          "desc": "Automatic"
-        }
-      ],
-      "scan_specification": [
-        {
-          "title": "Function Type",
-          "desc": "Single Function (Print Only)"
-        }
-      ],
-      "paper_handling": [
-        {
-          "title": "Paper input tray",
-          "desc": "250 sheets"
-        },
-        {
-          "title": "Media sizes",
-          "desc": "A4, Letter, Legal, B5 (ISO), B5 (JIS), Executive, A5, Envelope (Monarch), 60~120 g/m²"
-        }
-      ],
-      "general": [
-        {
-          "title": "RAM",
-          "desc": "256MB"
+          "title": "First output speed",
+          "desc": "≤ 8.2 seconds"
         },
         {
           "title": "Interface",
           "desc": "Network, WiFi and USB port"
         },
         {
-          "title": "Noise Level",
-          "desc": "About 56 dB"
+          "title": "Interface Type",
+          "desc": "USB 2.0, Ethernet (10/100), WiFi (802.11 b/g/n)"
         },
         {
-          "title": "Dimension",
-          "desc": "37 x 34 x 20.5 cm (WxDxH)"
-        },
-        {
-          "title": "Package size (D×W×H)",
-          "desc": "45.5 x 44.6 x 30.5 cm"
-        },
-        {
-          "title": "Weight",
-          "desc": "7.42 kg"
-        },
-        {
-          "title": "Gross Weight",
-          "desc": "9.04 kg"
-        },
-        {
-          "title": "Operating system compatibility",
-          "desc": "Windows 7, Windows Server 2008 R2, Windows 8.1, Windows 10, Windows 11, Linux (BOSS)"
-        },
-        {
-          "title": "Power Supply",
-          "desc": "220–240V AC, ~50/60Hz (110V optional)"
+          "title": "Power consumption",
+          "desc": "525W"
         },
         {
           "title": "Country of Origin",
@@ -111,7 +939,7 @@
       "consumable": [
         {
           "title": "Consumable type",
-          "desc": "Composite"
+          "desc": "Separate drum and toner / composite"
         },
         {
           "title": "Minimum Cartridge Yield (Starter)",
@@ -119,21 +947,974 @@
         },
         {
           "title": "Toner Cartridge",
-          "desc": "CWC-CT5020"
+          "desc": "CWC-T310"
         },
         {
-          "title": "Re-order Cartridge Yield",
-          "desc": "3000 pages"
+          "title": "Drum Unit",
+          "desc": "CWC-D310"
         }
       ]
     },
-    "manual": "/manuals/cwc-p5028.pdf",
     "drivers": {
-      "Windows": "/drivers/CWCP.zip",
-      "Linux": "/drivers/CWCP.zip"
+      "Windows": "/drivers/X3105.zip",
+      "Linux": "/drivers/X3105.zip"
     }
   },
   {
+  "id": "cwc-p9850",
+  "name": "CWC P9850 Single Function Laser Printer",
+  "type": "Laser",
+  "color": "Mono",
+  "category": "printers",
+  "format": "A4",
+  "function": "Print Only",
+  "compatibleIds": [],
+  "speed": "46–50 ppm",
+  "image": "/images/cwc-p9850/main.webp",
+  "img1": "/images/cwc-p9850/img1.webp",
+  "img2": "/images/cwc-p9850/img2.webp",
+  "img3": "/images/cwc-p9850/img3.webp",
+  "specSummary": [
+    "Printing speed (A4): 46–50 ppm",
+    "Connection method: Network, WiFi and USB"
+  ],
+  "details": {
+    "print_specification": [
+      {
+        "title": "Print speed",
+        "desc": "46–50 ppm"
+      },
+      {
+        "title": "Print Technology",
+        "desc": "Laser"
+      },
+      {
+        "title": "First Print Out Time",
+        "desc": "≤ 6.9 seconds"
+      },
+      {
+        "title": "Print Resolution",
+        "desc": "1200 x 1200 dpi"
+      },
+      {
+        "title": "Monthly Duty Cycle",
+        "desc": "200000 pages"
+      },
+      {
+        "title": "Duplex printing",
+        "desc": "Automatic Double-Sided"
+      },
+      {
+        "title": "Processor",
+        "desc": "1.2 GHz"
+      }
+    ],
+    "scan_specification": [
+      {
+        "title": "Function Type",
+        "desc": "Single Function (Print Only)"
+      }
+    ],
+    "paper_handling": [
+      {
+        "title": "Paper input tray",
+        "desc": "Standard Tray: 310 sheets + Bypass Tray: 100 sheets"
+      },
+      {
+        "title": "Paper output tray",
+        "desc": "150 sheets"
+      },
+      {
+        "title": "Media sizes",
+        "desc": "A4, Letter, Legal, Folio, Oficio, JIS B5, ISO B5, Executive, Statement, A5, Big 16K, 16K, Big 32K, 32K, A6, No.10 Envelope, Monarch Envelope, DL Envelope, C5 Envelope, C6 Envelope, Yougata4, Younaga3, Nagagata3, ZL, Postcard, B6, Japanese Postcard, Custom Size"
+      }
+    ],
+    "general": [
+      {
+        "title": "Processor",
+        "desc": "1.2 GHz"
+      },
+      {
+        "title": "RAM",
+        "desc": "2 GB"
+      },
+      {
+        "title": "Interface",
+        "desc": "Network, WiFi and USB port"
+      },
+      {
+        "title": "Power Consumption",
+        "desc": "650 W"
+      },
+      {
+        "title": "Dimension",
+        "desc": "364 × 344 × 257 mm (D×W×H)"
+      },
+      {
+        "title": "Weight",
+        "desc": "9.3 kg"
+      },
+      {
+        "title": "Operating system compatibility",
+        "desc": "Windows Server 2003/2008/2012, Windows XP, Vista, Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11 (32/64-bit), Mac OS 10.7–12, Ubuntu 12.04/14.04/16.04/18.04/20.04"
+      },
+      {
+        "title": "Warranty",
+        "desc": "1 Year Standard Warranty (Up to 5 Years Extended Warranty)"
+      }
+    ],
+    "consumable": [
+      {
+        "title": "Consumable type",
+        "desc": "Separate Drum and Toner"
+      },
+      {
+        "title": "Cartridge Yield",
+        "desc": "3000 / 6000 pages"
+      },
+      {
+        "title": "Toner Cartridge",
+        "desc": "CWC-TN9850"
+      },
+      {
+        "title": "Drum Unit",
+        "desc": "CWC-DR9850"
+      }
+    ]
+  },
+  
+  "drivers": {
+    
+  }
+},
+
+ {
+  "id": "cwc-m8950",
+  "name": "CWC M8950 Multifunction Laser Printer",
+  "type": "Laser",
+  "color": "Mono",
+  "category": "printers",
+  "format": "A4",
+  "function": "Print, Scan, Copy, Fax (Optional)",
+  "compatibleIds": [],
+  "speed": "46–50 ppm",
+  "image": "/images/cwc-m8950/main.webp",
+  "img1": "/images/cwc-m8950/img1.webp",
+  "img2": "/images/cwc-m8950/img2.webp",
+  "img3": "/images/cwc-m8950/img3.webp",
+  "specSummary": [
+    "Printing speed (A4): 46–50 ppm",
+    "Connection method: Network, WiFi and USB, Fax (Optional)"
+  ],
+  "details": {
+    "print_specification": [
+      {
+        "title": "Print speed",
+        "desc": "46–50 ppm"
+      },
+      {
+        "title": "Print Technology",
+        "desc": "Laser"
+      },
+      {
+        "title": "First Print Out Time",
+        "desc": "≤ 6.9 seconds"
+      },
+      {
+        "title": "Print Resolution",
+        "desc": "1200 x 1200 dpi"
+      },
+      {
+        "title": "Monthly Duty Cycle",
+        "desc": "200000 pages"
+      },
+      {
+        "title": "Duplex printing",
+        "desc": "Automatic Double-Sided"
+      },
+      {
+        "title": "Processor",
+        "desc": "1.2 GHz"
+      }
+    ],
+    "scan_specification": [
+      {
+        "title": "Function Type",
+        "desc": "Multifunction (Print, Scan, Copy , Fax (Optional))"
+      },
+      {
+        "title": "Scanning Type",
+        "desc": "Flatbed Glass & DADF (SPDF) - 60 Pages"
+      },
+      {
+        "title": "Scanning Speed",
+        "desc": "24 ppm (A4) / 48 ipm (A4), 25 ppm (Letter) / 50 ipm (Letter)"
+      },
+      {
+        "title": "Scanning Destination",
+        "desc": "Scan to PC, E-mail, FTP, SMB, USB Disk"
+      },
+      {
+        "title": "Scanning Resolution",
+        "desc": "1200 x 1200 dpi (Flatbed), 600 x 600 dpi (ADF)"
+      },
+      {
+        "title": "Max Scan Size",
+        "desc": "A4 / Legal"
+      }
+    ],
+    "paper_handling": [
+      {
+        "title": "Paper input tray",
+        "desc": "Standard Tray: 310 sheets + Bypass Tray: 100 sheets"
+      },
+      {
+        "title": "Paper output tray",
+        "desc": "150 sheets"
+      },
+      {
+        "title": "Media sizes",
+        "desc": "A4, Letter, Legal, Folio, Oficio, JIS B5, ISO B5, Executive, Statement, A5, Big 16K, 16K, Big 32K, 32K, A6, No.10 Envelope, Monarch Envelope, DL Envelope, C5 Envelope, C6 Envelope, Yougata4, Younaga3, Nagagata3, ZL, Postcard, B6, Japanese Postcard, Custom Size"
+      }
+    ],
+    "general": [
+      {
+        "title": "Processor",
+        "desc": "1.2 GHz"
+      },
+      {
+        "title": "RAM",
+        "desc": "2 GB"
+      },
+      {
+        "title": "Interface",
+        "desc": "Network, WiFi, USB Port & Fax(Optional)"
+      },
+      {
+        "title": "Power Consumption",
+        "desc": "650 W"
+      },
+      {
+        "title": "Dimension",
+        "desc": "415 × 365 × 370 mm (D×W×H)"
+      },
+      {
+        "title": "Weight",
+        "desc": "12.5 kg"
+      },
+      {
+        "title": "Operating system compatibility",
+        "desc": "Windows Server 2003/2008/2012, Windows XP, Vista, Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11 (32/64-bit), Mac OS 10.7–12, Ubuntu 12.04/14.04/16.04/18.04/20.04"
+      },
+      {
+        "title": "Warranty",
+        "desc": "1 Year Standard Warranty (Up to 5 Years Extended Warranty)"
+      }
+    ],
+    "consumable": [
+      {
+        "title": "Consumable type",
+        "desc": "Separate Drum and Toner"
+      },
+      {
+        "title": "Cartridge Yield",
+        "desc": "3000 / 6000 pages"
+      },
+      {
+        "title": "Toner Cartridge",
+        "desc": "CWC-TN9850"
+      },
+      {
+        "title": "Drum Unit",
+        "desc": "CWC-DR9850"
+      }
+    ]
+  },
+  
+  "drivers": {
+    
+  }
+},
+{
+    "id": "cwc-3336",
+    "name": "CWC 3336 Multifunction Laser Printer",
+    "type": "Laser",
+    "color": "Mono",
+    "category": "printers",
+    "format": "A4",
+    "function": "Multifunction",
+    "compatibleIds": [],
+    "speed": "31–35 ppm",
+    "image": "/images/3336/main.webp",
+    "img1": "/images/3336/img1.webp",
+    "img2": "/images/3336/img2.webp",
+    "img3": "/images/3336/img3.webp",
+    "specSummary": [
+      "Printing speed (A4): 31–35 ppm",
+      "Connection method: Network, WiFi and USB",
+      "Print Technology: Laser",
+      "Automatic duplex printing",
+      "One-step driver installation",
+      "Made in India"
+    ],
+    "details": {
+      "print_specification": [
+        {
+          "title": "Print speed",
+          "desc": "31–35 ppm"
+        },
+        {
+          "title": "Monthly Duty Cycle",
+          "desc": "-"
+        },
+        {
+          "title": "Duplex printing",
+          "desc": "Automatic double-sided"
+        },
+        {
+          "title": "Operating system compatibility",
+          "desc": "Windows Server 2003/2008/2012; Windows XP/Vista/7/8/8.1/10/11 (32/64-bit); macOS 10.7–12; Linux (Ubuntu, RHEL, CentOS, Fedora)"
+        }
+      ],
+      "scan_specification": [
+        {
+          "title": "Scanner type",
+          "desc": "RADF / DADF / SPDF (50 pages)"
+        },
+        {
+          "title": "Scan speed",
+          "desc": "24 ppm (A4), 25 ppm (Letter)"
+        },
+        {
+          "title": "Scan destination",
+          "desc": "Email, PC, FTP, USB, Mobile"
+        },
+        {
+          "title": "Scan resolution",
+          "desc": "Flatbed: 1200 x 1200 dpi; ADF: 600 x 600 dpi"
+        },
+        {
+          "title": "Max. scan size",
+          "desc": "A4/Legal"
+        }
+      ],
+      "paper_handling": [
+        {
+          "title": "Paper input tray",
+          "desc": "250 sheets + Bypass: 1 sheet"
+        },
+        {
+          "title": "Paper output tray",
+          "desc": "150 sheets"
+        },
+        {
+          "title": "Media sizes",
+          "desc": "A4, A5, B5, A6, Letter, Legal, Executive, Folio, Oficio, Statement, Postcards, Envelopes"
+        }
+      ],
+      "general": [
+        {
+          "title": "Processor",
+          "desc": "800 MHz"
+        },
+        {
+          "title": "RAM",
+          "desc": "512 MB"
+        },
+        {
+          "title": "Print Resolution",
+          "desc": "1200 x 1200 dpi"
+        },
+        {
+          "title": "First output speed",
+          "desc": "≤ 8.2 seconds"
+        },
+        {
+          "title": "Interface",
+          "desc": "Network, WiFi and USB port"
+        },
+        {
+          "title": "Interface Type",
+          "desc": "USB 2.0, Ethernet (10/100), WiFi (802.11 b/g/n)"
+        },
+        {
+          "title": "Power consumption",
+          "desc": "550W"
+        },
+        {
+          "title": "Country of Origin",
+          "desc": "India"
+        },
+        {
+          "title": "Warranty",
+          "desc": "1 Year Standard Warranty"
+        }
+      ],
+      "consumable": [
+        {
+          "title": "Consumable type",
+          "desc": "Separate drum and toner / Composite"
+        },
+        {
+          "title": "Minimum Cartridge Yield (Starter)",
+          "desc": "1500 pages"
+        },
+        {
+          "title": "Toner Cartridge",
+          "desc": "CWC-T310, CWC-T3333, CWC-T3336"
+        },
+        {
+          "title": "Drum Unit",
+          "desc": "CWC-D310"
+        }
+      ]
+    },
+    "drivers": {
+      
+    }
+  },
+
+
+
+  {
+  "id": "cwc-m251-new",
+  "name": "CWC M251 Multifunction Color Laser Printer - New",
+  "type": "Laser",
+  "color": "Color",
+  "category": "printers",
+  "format": "A4",
+  "function": "Print, Scan & Copy",
+  "compatibleIds": [],
+  "speed": "26–30 ppm",
+  "image": "/images/cwc-m251-new/main.webp",
+  "img1": "/images/cwc-m251-new/img1.webp",
+  "img2": "/images/cwc-m251-new/img2.webp",
+  "img3": "/images/cwc-m251-new/img3.webp",
+  "specSummary": [
+    "Printing speed: 26–30 ppm",
+    "Connection method: Network, WiFi and USB port"
+  ],
+  "details": {
+    "print_specification": [
+      {
+        "title": "Print speed",
+        "desc": "26ppm to 30ppm"
+      },
+      {
+        "title": "Print Technology",
+        "desc": "Laser"
+      },
+      {
+        "title": "First Print Out Time",
+        "desc": "Mono: 10s, Color: 12s"
+      },
+      {
+        "title": "Print Resolution",
+        "desc": "1200 x 1200 dpi"
+      },
+      {
+        "title": "Monthly Duty Cycle",
+        "desc": "80000 pages"
+      },
+      {
+        "title": "Duplex printing",
+        "desc": "Automatic Double-Sided"
+      },
+      {
+        "title": "Processor",
+        "desc": "1GHz"
+      }
+    ],
+    "scan_specification": [
+      {
+        "title": "Function Type",
+        "desc": "Multifunction (Print, Scan & Copy)"
+      },
+      {
+        "title": "Scanning Type",
+        "desc": "Color Flatbed Scanner with Duplex Automatic Document Feeder"
+      },
+      {
+        "title": "Scanning Speed",
+        "desc": "27ppm/54ipm (Letter) and 26ppm/52ipm (A4)"
+      },
+      {
+        "title": "Scanning Resolution",
+        "desc": "600 x 600 dpi (from ADF)"
+      }
+    ],
+    "paper_handling": [
+      {
+        "title": "Paper input tray",
+        "desc": "Standard tray: 250 pages; Multipurpose tray: 1 page"
+      },
+      {
+        "title": "Paper output tray",
+        "desc": "100 sheets"
+      },
+      {
+        "title": "Media sizes",
+        "desc": "A4, Letter, Legal, Folio, Oficio, JIS B5, ISO B5, Executive, Statement, A5, Big 16K, 16K, Big 32K, 32K, A6, No.10 Envelope, Monarch Envelope, DL Envelope, C5 Envelope, C6 Envelope, Yougata4, Younaga3, Nagagata3, ZL, Postcard, B6, Japanese Postcard, Customize"
+      }
+    ],
+    "general": [
+      {
+        "title": "Processor",
+        "desc": "1GHz"
+      },
+      {
+        "title": "RAM",
+        "desc": "2GB"
+      },
+      {
+        "title": "Interface",
+        "desc": "Network, WiFi and USB port"
+      },
+      {
+        "title": "Power Consumption",
+        "desc": "Print Average: ≤380W; Standby: ≤25W"
+      },
+      {
+        "title": "Dimension",
+        "desc": "415 × 403 × 346 mm (D×W×H)"
+      },
+      {
+        "title": "Weight",
+        "desc": "19.5 kgs"
+      },
+      {
+        "title": "Operating system compatibility",
+        "desc": "Microsoft Windows Server 2003 / Server 2008 / Server 2012 / XP / Vista / Win7 / Win8 / Win8.1 / Win10 / Win11 (32/64 Bit); Mac OS 10.7-12; Linux: Ubuntu 12.04/14.04/16.04/18.04/20.04"
+      }
+    ],
+    "consumable": [
+      {
+        "title": "Consumable type",
+        "desc": "Composite"
+      },
+      {
+        "title": "Cartridge Yield",
+        "desc": "C / M / Y - 1000 & K - 1500"
+      },
+      {
+        "title": "Toner Cartridge",
+        "desc": "T3250"
+      }
+    ]
+  },
+  "drivers": {}
+},
+
+
+{
+    "id": "cwc-m251",
+    "name": "CWC M251 Color Multifunction Laser Printer",
+    "type": "Laser",
+    "color": "Color",
+    "category": "printers",
+    "format": "A4",
+    "function": "Multifunction",
+    "compatibleIds": [],
+    "speed": "25–26 ppm",
+    "image": "/images/M251/main.webp",
+    "img1": "/images/M251/img1.webp",
+    "img2": "/images/M251/img2.webp",
+    "img3": "/images/M251/img3.webp",
+    "specSummary": [
+      "Printing speed (A4): 25–26 ppm",
+      "Connection method: Network, WiFi and USB",
+      "Print Technology: Laser",
+      "Automatic duplex printing",
+      "One-step driver installation",
+      "Made in India"
+    ],
+    "details": {
+      "print_specification": [
+        {
+          "title": "Print speed",
+          "desc": "25–26 ppm"
+        },
+        {
+          "title": "Monthly Duty Cycle",
+          "desc": "40000 pages"
+        },
+        {
+          "title": "Duplex printing",
+          "desc": "Automatic double-sided"
+        },
+        {
+          "title": "Operating system compatibility",
+          "desc": "Windows Server 2008 R2; Windows; Linux (RHEL, CentOS, Fedora, Ubuntu, BOSS)"
+        }
+      ],
+      "scan_specification": [
+        {
+          "title": "Scan speed",
+          "desc": "B/W: 21 ppm, Color: 20 ppm"
+        },
+        {
+          "title": "Copy speed",
+          "desc": "B/W: 21 ppm, Color: 20 ppm"
+        },
+        {
+          "title": "Scan resolution",
+          "desc": "600 x 600 dpi (Flatbed up to 1200 dpi)"
+        },
+        {
+          "title": "Feeder Type",
+          "desc": "ADF"
+        },
+        {
+          "title": "Feeder Capacity",
+          "desc": "50 pages"
+        },
+        {
+          "title": "Max. scan size",
+          "desc": "A4/Legal"
+        },
+        {
+          "title": "Output function",
+          "desc": "Scan to PC, Email, USB"
+        }
+      ],
+      "paper_handling": [
+        {
+          "title": "Paper input tray",
+          "desc": "250 sheets"
+        },
+        {
+          "title": "Paper output tray",
+          "desc": "100 sheets"
+        },
+        {
+          "title": "Bypass Tray Capacity",
+          "desc": "1 sheet"
+        },
+        {
+          "title": "Media sizes",
+          "desc": "A4, Letter, A5, A6, Custom sizes (100 x 148 mm to 216 x 340 mm)"
+        }
+      ],
+      "general": [
+        {
+          "title": "Processor",
+          "desc": "1.2 GHz"
+        },
+        {
+          "title": "RAM",
+          "desc": "512 MB"
+        },
+        {
+          "title": "Print Resolution",
+          "desc": "600 x 600 dpi (up to 4800 color quality)"
+        },
+        {
+          "title": "Bypass Tray / ADF",
+          "desc": "Yes"
+        },
+        {
+          "title": "Interface",
+          "desc": "Network, WiFi and USB port"
+        },
+        {
+          "title": "Interface Type",
+          "desc": "USB 2.0, Ethernet (10/100/1000), WiFi, USB (Type A)"
+        },
+        {
+          "title": "Power consumption",
+          "desc": "≤ 750W"
+        },
+        {
+          "title": "Power Supply",
+          "desc": "AC 220–240V, 50/60Hz"
+        },
+        {
+          "title": "Country of Origin",
+          "desc": "India"
+        },
+        {
+          "title": "Warranty",
+          "desc": "3 Years Standard Warranty"
+        }
+      ],
+      "consumable": [
+        {
+          "title": "Consumable type",
+          "desc": "Composite"
+        },
+        {
+          "title": "Minimum Cartridge Yield (Starter)",
+          "desc": "Black: 700 pages, CMY: 700 pages"
+        },
+        {
+          "title": "Toner Cartridge",
+          "desc": "Black/Cyan/Magenta/Yellow: CWC-T0251-1.5K"
+        }
+      ]
+    },
+    "drivers": {
+      "Windows": "/drivers/RC311.zip",
+      "Linux": "/drivers/RC311.zip"
+    }
+  },
+
+
+  {
+  "id": "cwc-p211-upgraded",
+  "name": "CWC P211 Color Laser Printer (Upgraded)",
+  "type": "Laser",
+  "color": "Color",
+  "category": "printers",
+  "format": "A4",
+  "function": "Print Only",
+  "compatibleIds": [],
+  "speed": "26–30 ppm",
+  "image": "/images/cwc-p211-upgraded/main.webp",
+  "img1": "/images/cwc-p211-upgraded/img1.webp",
+  "img2": "/images/cwc-p211-upgraded/img2.webp",
+  "img3": "/images/cwc-p211-upgraded/img3.webp",
+  "specSummary": [
+    "Printing speed (A4): 26–30 ppm",
+    "Connection method: Network, WiFi and USB"
+  ],
+  "details": {
+    "print_specification": [
+      {
+        "title": "Print Speed",
+        "desc": "26–30 ppm"
+      },
+      {
+        "title": "Print Technology",
+        "desc": "Color Laser"
+      },
+      {
+        "title": "Monthly Duty Cycle",
+        "desc": "80000 pages"
+      },
+      {
+        "title": "Duplex Printing",
+        "desc": "Automatic Double-Sided"
+      },
+      {
+        "title": "Processor",
+        "desc": "1 GHz"
+      },
+      {
+        "title": "RAM",
+        "desc": "1 GB"
+      },
+      {
+        "title": "Print Resolution",
+        "desc": "1200 x 1200 dpi"
+      },
+      {
+        "title": "First Print Out Time",
+        "desc": "Mono: 10 sec, Color: 12 sec"
+      },
+      {
+        "title": "Power Consumption",
+        "desc": "Print Average ≤380W, Standby ≤25W"
+      }
+    ],
+    "scan_specification": [
+      {
+        "title": "Function Type",
+        "desc": "Single Function (Print Only)"
+      }
+    ],
+    "paper_handling": [
+      {
+        "title": "Paper Input Tray",
+        "desc": "Standard Tray: 250 sheets, Multipurpose Tray: 1 sheet"
+      },
+      {
+        "title": "Paper Output Tray",
+        "desc": "100 sheets"
+      },
+      {
+        "title": "Media Sizes",
+        "desc": "A4, Letter, Legal, Folio, Oficio, JIS B5, ISO B5, Executive, Statement, A5, Big 16K, 16K, Big 32K, 32K, A6, No.10 Envelope, Monarch Envelope, DL Envelope, C5 Envelope, C6 Envelope, Yougata4, Younaga3, Nagagata3, ZL, Postcard, B6, Japanese Postcard, Custom Size"
+      }
+    ],
+    "general": [
+      {
+        "title": "Interface",
+        "desc": "Network, WiFi and USB Port"
+      },
+      {
+        "title": "Dimensions (D×W×H)",
+        "desc": "401 x 400 x 245 mm"
+      },
+      {
+        "title": "Weight",
+        "desc": "16 kg"
+      },
+      {
+        "title": "Operating System Compatibility",
+        "desc": "Windows Server 2003/2008/2012, XP, Vista, Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11"
+      },
+      {
+        "title": "Linux Support",
+        "desc": "Ubuntu 12.04, 14.04, 16.04, 18.04, 20.04"
+      },
+      {
+        "title": "Mac Support",
+        "desc": "macOS"
+      },
+      {
+        "title": "Supported Platforms",
+        "desc": "Windows, Ubuntu, macOS, BOSS V10"
+      }
+    ],
+    "consumable": [
+      {
+        "title": "Consumable Type",
+        "desc": "Composite"
+      },
+      {
+        "title": "Cartridge Yield",
+        "desc": "C/M/Y - 1000 pages, K - 1500 pages"
+      },
+      {
+        "title": "Toner Cartridge",
+        "desc": "T3250"
+      }
+    ]
+  },
+
+  "drivers": {
+    
+  }
+},
+
+{
+    "id": "cwc-p211",
+    "name": "CWC P211 Laser Printer",
+    "type": "Laser",
+    "color": "Color",
+    "category": "printers",
+    "format": "A4",
+    "function": "Print Only",
+    "compatibleIds": [],
+    "speed": "25–26 ppm",
+    "image": "/images/P211/main.webp",
+    "img1": "/images/P211/img1.webp",
+    "img2": "/images/P211/img2.webp",
+    "img3": "/images/P211/img3.webp",
+    "specSummary": [
+      "Printing speed (A4): 25–26 ppm",
+      "Connection method: Network, WiFi and USB",
+      "Print Technology: Laser",
+      "Automatic duplex printing",
+      "One-step driver installation",
+      "Made in India"
+    ],
+    "details": {
+      "print_specification": [
+        {
+          "title": "Print speed",
+          "desc": "25–26 ppm"
+        },
+        {
+          "title": "Monthly Duty Cycle",
+          "desc": "50000 pages"
+        },
+        {
+          "title": "Duplex printing",
+          "desc": "Automatic double-sided"
+        },
+        {
+          "title": "Operating system compatibility",
+          "desc": "Windows Server 2008; Windows; Linux (RHEL, CentOS, Fedora, Ubuntu)"
+        }
+      ],
+      "paper_handling": [
+        {
+          "title": "Paper input tray",
+          "desc": "250 sheets"
+        },
+        {
+          "title": "Paper output tray",
+          "desc": "100 sheets"
+        },
+        {
+          "title": "Bypass tray",
+          "desc": "1 sheet"
+        },
+        {
+          "title": "Media sizes",
+          "desc": "A4, Letter, A5, A6, Custom sizes (100 x 148 mm to 216 x 340 mm)"
+        }
+      ],
+      "general": [
+        {
+          "title": "Function",
+          "desc": "Print"
+        },
+        {
+          "title": "Processor",
+          "desc": "1 GHz"
+        },
+        {
+          "title": "RAM",
+          "desc": "256 MB / 512 MB"
+        },
+        {
+          "title": "Print Resolution",
+          "desc": "600 x 600 dpi (up to 4800 quality)"
+        },
+        {
+          "title": "Bypass tray",
+          "desc": "Yes"
+        },
+        {
+          "title": "Interface",
+          "desc": "Network, WiFi and USB port"
+        },
+        {
+          "title": "Interface Type",
+          "desc": "USB 2.0, Ethernet (10/100/1000), WiFi, USB Host"
+        },
+        {
+          "title": "Power consumption",
+          "desc": "≤417W"
+        },
+        {
+          "title": "Power Supply",
+          "desc": "220–240V AC, 50/60Hz"
+        },
+        {
+          "title": "Country of Origin",
+          "desc": "India"
+        },
+        {
+          "title": "Warranty",
+          "desc": "3 Years Standard Warranty"
+        }
+      ],
+      "consumable": [
+        {
+          "title": "Consumable type",
+          "desc": "Composite"
+        },
+        {
+          "title": "Minimum Cartridge Yield (Starter)",
+          "desc": "Black: 700 pages, CMY: 700 pages"
+        },
+        {
+          "title": "Toner Cartridge",
+          "desc": "CWC-T0251 Black, Cyan, Magenta, Yellow"
+        }
+      ]
+    },
+    "drivers": {
+      "Windows": "/drivers/RC311.zip",
+      "Linux": "/drivers/RC311.zip"
+    }
+  },
+
+
+   {
     "id": "cwc-p4820nw",
     "name": "CWC P4820NW Color Laser Printer",
     "type": "Laser",
@@ -238,627 +2019,12 @@
         }
       ]
     },
-    "manual": "/manuals/cwc-p4820nw.pdf",
-    "drivers": {
-      "Windows": "/drivers/CWCP4820NW.zip",
-      "Linux": "/drivers/CWCP4820NW.zip",
-      "Mac": "/drivers/CWCP4820NW.zip"
-    }
-  },
 
-  {
-    "id": "cwc-p211",
-    "name": "CWC P211 Color Laser Printer",
-    "type": "Laser",
-    "color": "Color",
-    "category": "printers",
-    "format": "A4",
-    "function": "Print Only",
-    "compatibleIds": [
-      "t3250"
-    ],
-    "speed": "26–30 ppm",
-    "image": "/images/cwc-p211/main.webp",
-    "img1": "/images/cwc-p211/img1.webp",
-    "img2": "/images/cwc-p211/img2.webp",
-    "img3": "/images/cwc-p211/img3.webp",
-    "specSummary": [
-      "Printing speed (A4): 26–30 ppm",
-      "Network, WiFi and USB connectivity",
-      "Automatic duplex printing"
-    ],
-    "details": {
-      "print_specification": [
-        {
-          "title": "Print Speed",
-          "desc": "26–30 ppm"
-        },
-        {
-          "title": "Print Technology",
-          "desc": "Color Laser"
-        },
-        {
-          "title": "First Print Out Time",
-          "desc": "Mono: 10 sec, Color: 12 sec"
-        },
-        {
-          "title": "Print Resolution",
-          "desc": "600 x 600 dpi"
-        },
-        {
-          "title": "Monthly Duty Cycle",
-          "desc": "80000 pages"
-        },
-        {
-          "title": "Duplex Printing",
-          "desc": "Automatic Double-Sided"
-        }
-      ],
-      "scan_specification": [
-        {
-          "title": "Function Type",
-          "desc": "Single Function (Print Only)"
-        }
-      ],
-      "paper_handling": [
-        {
-          "title": "Paper Input Tray",
-          "desc": "Standard Tray: 250 sheets, Multipurpose Tray: 1 sheet"
-        },
-        {
-          "title": "Paper Output Tray",
-          "desc": "100 sheets"
-        }
-      ],
-      "general": [
-        {
-          "title": "Processor",
-          "desc": "1 GHz"
-        },
-        {
-          "title": "RAM",
-          "desc": "1 GB"
-        },
-        {
-          "title": "Interface",
-          "desc": "Network, WiFi and USB Port"
-        },
-        {
-          "title": "Dimensions",
-          "desc": "401 x 400 x 245 mm"
-        },
-        {
-          "title": "Weight",
-          "desc": "16 kg"
-        }
-      ],
-      "consumable": [
-        {
-          "title": "Consumable Type",
-          "desc": "Composite"
-        },
-        {
-          "title": "Cartridge Yield",
-          "desc": "C/M/Y - 1000 pages, K - 1500 pages"
-        },
-        {
-          "title": "Toner Cartridge",
-          "desc": "T3250"
-        }
-      ]
-    },
-    "manual": "/manuals/cwc-p211.pdf",
     "drivers": {
-      "Windows": "/drivers/CWCP211.zip",
-      "Linux": "/drivers/CWCP211.zip",
-      "Mac": "/drivers/CWCP211.zip"
+     
     }
   },
-
-  {
-  "id": "cwc-cp3250",
-  "name": "CWC CP3250 Color Laser Printer",
-  "type": "Laser",
-  "color": "Color",
-  "category": "printers",
-  "format": "A4",
-  "function": "Print Only",
-  "compatibleIds": [
-    "t3250"
-  ],
-  "speed": "26–30 ppm",
-  "image": "/images/cwc-cp3250/main.webp",
-  "img1": "/images/cwc-cp3250/img1.webp",
-  "img2": "/images/cwc-cp3250/img2.webp",
-  "img3": "/images/cwc-cp3250/img3.webp",
-  "specSummary": [
-    "Printing speed (A4): 26–30 ppm",
-    "Color Laser Printer",
-    "Automatic Duplex Printing",
-    "Network and USB Connectivity"
-  ],
-  "details": {
-    "print_specification": [
-      {
-        "title": "Print Speed",
-        "desc": "26–30 ppm"
-      },
-      {
-        "title": "Print Technology",
-        "desc": "Color Laser"
-      },
-      {
-        "title": "Monthly Duty Cycle",
-        "desc": "80000 pages"
-      },
-      {
-        "title": "Duplex Printing",
-        "desc": "Automatic Double-Sided"
-      },
-      {
-        "title": "Processor",
-        "desc": "1 GHz"
-      },
-      {
-        "title": "RAM",
-        "desc": "1 GB"
-      },
-      {
-        "title": "Print Resolution",
-        "desc": "600 x 600 dpi"
-      },
-      {
-        "title": "First Print Out Time",
-        "desc": "Mono: 10 sec, Color: 12 sec"
-      },
-      {
-        "title": "Power Consumption",
-        "desc": "Print Average ≤380W, Standby ≤25W"
-      }
-    ],
-    "scan_specification": [
-      {
-        "title": "Function Type",
-        "desc": "Single Function (Print Only)"
-      }
-    ],
-    "paper_handling": [
-      {
-        "title": "Paper Input Tray",
-        "desc": "Standard Tray: 250 sheets, Multipurpose Tray: 1 sheet"
-      },
-      {
-        "title": "Paper Output Tray",
-        "desc": "100 sheets"
-      },
-      {
-        "title": "Media Sizes",
-        "desc": "A4, Letter, Legal, Folio, Oficio, JIS B5, ISO B5, Executive, Statement, A5, Big 16K, 16K, Big 32K, 32K, A6, No.10 Envelope, Monarch Envelope, DL Envelope, C5 Envelope, C6 Envelope, Yougata4, Younaga3, Nagagata3, ZL, Postcard, B6, Japanese Postcard, Custom Size"
-      }
-    ],
-    "general": [
-      {
-        "title": "Interface",
-        "desc": "Network and USB Port"
-      },
-      {
-        "title": "Dimensions",
-        "desc": "401 x 400 x 245 mm"
-      },
-      {
-        "title": "Weight",
-        "desc": "16 kg"
-      },
-      {
-        "title": "Operating System Compatibility",
-        "desc": "Windows Server 2003/2008/2012, XP, Vista, Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11, macOS 10.7–12, Ubuntu 12.04/14.04/16.04/18.04/20.04"
-      },
-      {
-        "title": "Supported Platforms",
-        "desc": "Windows, Ubuntu, macOS, BOSS V10"
-      }
-    ],
-    "consumable": [
-      {
-        "title": "Consumable Type",
-        "desc": "Composite"
-      },
-      {
-        "title": "Cartridge Yield",
-        "desc": "C/M/Y: 1000 pages, K: 1500 pages"
-      },
-      {
-        "title": "Toner Cartridge",
-        "desc": "T3250"
-      }
-    ]
-  },
-  "manual": "/manuals/cwc-cp3250.pdf",
-  "drivers": {
-    
-  }
-},
-  {
-    "id": "cwc-2500s",
-    "name": "CWC 2500S A3 Multifunction Laser Printer",
-    "type": "Laser",
-    "color": "Mono",
-    "category": "printers",
-    "format": "A3",
-    "function": "Multifunction",
-    "compatibleIds": [],
-    "speed": "21–25 ppm",
-    "image": "/images/cwc-2500s/main.webp",
-    "img1": "/images/cwc-2500s/img1.webp",
-    "img2": "/images/cwc-2500s/img2.webp",
-    "img3": "/images/cwc-2500s/img3.webp",
-    "specSummary": [
-      "Print speed: 21–25 ppm",
-      "A3 Multifunction Laser Printer",
-      "USB, Ethernet and Dual-Band WiFi connectivity",
-      "Flatbed + RADF scanner",
-      "4-line LCD control panel",
-      "Up to 100000 pages monthly duty cycle"
-    ],
-    "details": {
-      "print_specification": [
-        {
-          "title": "Device Type",
-          "desc": "A3 Multifunction Laser Printer"
-        },
-        {
-          "title": "Print Technology",
-          "desc": "Laser Printer"
-        },
-        {
-          "title": "Maximum Print Speed",
-          "desc": "21–25 ppm"
-        },
-        {
-          "title": "Monthly Duty Cycle",
-          "desc": "Up to 100000 pages/month"
-        }
-      ],
-      "copy_specification": [
-        {
-          "title": "Copy Speed",
-          "desc": "21–25 ppm"
-        },
-        {
-          "title": "Copy Reduce/Enlarge Settings",
-          "desc": "25% – 400%"
-        }
-      ],
-      "scan_specification": [
-        {
-          "title": "Scanner Type",
-          "desc": "Flatbed + RADF"
-        },
-        {
-          "title": "ADF Capacity",
-          "desc": "100 sheets"
-        },
-        {
-          "title": "Scan Speed",
-          "desc": "30 ppm"
-        }
-      ],
-      "paper_handling": [
-        {
-          "title": "Paper Input Capacity",
-          "desc": "Standard: 250 pages, Max: 1450 pages"
-        },
-        {
-          "title": "Multipurpose Tray Capacity",
-          "desc": "100 sheets"
-        },
-        {
-          "title": "Optional Input Paper Tray",
-          "desc": "550 x 2 pages"
-        }
-      ],
-      "general": [
-        {
-          "title": "Memory",
-          "desc": "DDR4 / 1GB"
-        },
-        {
-          "title": "Processor",
-          "desc": "833 MHz"
-        },
-        {
-          "title": "Interface",
-          "desc": "USB 2.0, IEEE 802.3 10/100/1000Base-Tx, Wi-Fi (2.4GHz/5GHz)"
-        },
-        {
-          "title": "Control Panel",
-          "desc": "4-line LCD"
-        },
-        {
-          "title": "Product Dimensions (W×D×H)",
-          "desc": "565 × 593 × 526 mm"
-        },
-        {
-          "title": "Power Consumption",
-          "desc": "Print average: <550W; Ready: <80W; Sleep: <1W"
-        },
-        {
-          "title": "Operating System Compatibility",
-          "desc": "Windows 7 SP1, Windows 8.1, Windows 10, Windows 11, Windows Server 2008/2008 R2/2012/2012 R2/2016/2019, macOS v10.13.6/10.14.x/10.15.x, Citrix, Fedora Core 24, Linux, Mac OS"
-        },
-        {
-          "title": "Country of Origin",
-          "desc": "India"
-        },
-        {
-          "title": "Warranty",
-          "desc": "1 Year Standard Warranty"
-        }
-      ]
-    },
-    "manual": "/manuals/cwc-2500s.pdf",
-    "drivers": {
-      "Windows": "/drivers/CWC2500S.zip",
-      "Linux": "/drivers/CWC2500S.zip"
-    }
-  },
-  {
-    "id": "cwc-2700s",
-    "name": "CWC 2700S A3 Multifunction Laser Printer",
-    "type": "Laser",
-    "color": "Mono",
-    "category": "printers",
-    "format": "A3",
-     "function": "Multifunction",
-    "compatibleIds": [],
-    "speed": "26–30 ppm",
-    "image": "/images/cwc-2700s/main.webp",
-    "img1": "/images/cwc-2700s/img1.webp",
-    "img2": "/images/cwc-2700s/img2.webp",
-    "img3": "/images/cwc-2700s/img3.webp",
-    "specSummary": [
-      "Print speed: 26–30 ppm",
-      "A3 Multifunction Laser Printer",
-      "USB, Ethernet and Dual-Band WiFi connectivity",
-      "Flatbed + RADF scanner",
-      "4-line LCD control panel",
-      "Up to 100000 pages monthly duty cycle"
-    ],
-    "details": {
-      "print_specification": [
-        {
-          "title": "Device Type",
-          "desc": "A3 Multifunction Laser Printer"
-        },
-        {
-          "title": "Print Technology",
-          "desc": "Laser Printer"
-        },
-        {
-          "title": "Maximum Print Speed",
-          "desc": "26–30 ppm"
-        },
-        {
-          "title": "Monthly Duty Cycle",
-          "desc": "Up to 100000 pages/month"
-        }
-      ],
-      "copy_specification": [
-        {
-          "title": "Copy Speed",
-          "desc": "26–30 ppm"
-        },
-        {
-          "title": "Copy Reduce/Enlarge Settings",
-          "desc": "25% – 400%"
-        }
-      ],
-      "scan_specification": [
-        {
-          "title": "Scanner Type",
-          "desc": "Flatbed + RADF"
-        },
-        {
-          "title": "ADF Capacity",
-          "desc": "100 sheets"
-        },
-        {
-          "title": "Scan Speed",
-          "desc": "30 ppm"
-        }
-      ],
-      "paper_handling": [
-        {
-          "title": "Paper Input Capacity",
-          "desc": "Standard: 250 pages, Max: 1450 pages"
-        },
-        {
-          "title": "Multipurpose Tray Capacity",
-          "desc": "100 sheets"
-        },
-        {
-          "title": "Optional Input Paper Tray",
-          "desc": "550 x 2 pages"
-        }
-      ],
-      "general": [
-        {
-          "title": "Memory",
-          "desc": "DDR4 / 1GB"
-        },
-        {
-          "title": "Processor",
-          "desc": "833 MHz"
-        },
-        {
-          "title": "Interface",
-          "desc": "USB 2.0, IEEE 802.3 10/100/1000Base-Tx, Wi-Fi (2.4GHz/5GHz)"
-        },
-        {
-          "title": "Control Panel",
-          "desc": "4-line LCD"
-        },
-        {
-          "title": "Product Dimensions (W×D×H)",
-          "desc": "565 × 593 × 526 mm"
-        },
-        {
-          "title": "Product Weight",
-          "desc": "31.5 KG"
-        },
-        {
-          "title": "Power Consumption",
-          "desc": "Print average: <550W; Ready: <80W; Sleep: <1W"
-        },
-        {
-          "title": "Operating System Compatibility",
-          "desc": "Windows 7 SP1, Windows 8.1, Windows 10, Windows 11, Windows Server 2008/2008 R2/2012/2012 R2/2016/2019, macOS v10.13.6/10.14.x/10.15.x, Citrix, Fedora Core 24, Linux, Mac OS"
-        },
-        {
-          "title": "Country of Origin",
-          "desc": "India"
-        },
-        {
-          "title": "Warranty",
-          "desc": "1 Year Standard Warranty"
-        }
-      ]
-    },
-    "manual": "/manuals/cwc-2700s.pdf",
-    "drivers": {
-      "Windows": "/drivers/CWC2700S.zip",
-      "Linux": "/drivers/CWC2700S.zip"
-    }
-  },
-  {
-    "id": "cwc-2500s-colour",
-    "name": "CWC 2500S Colour A3 Multifunction Laser Printer",
-    "type": "Laser",
-    "color": "Color",
-    "category": "printers",
-    "format": "A3",
-    "function": "Multifunction",
-    "compatibleIds": [],
-    "speed": "21–25 ppm",
-    "image": "/images/cwc-2500s-colour/main.webp",
-    "img1": "/images/cwc-2500s-colour/img1.webp",
-    "img2": "/images/cwc-2500s-colour/img2.webp",
-    "img3": "/images/cwc-2500s-colour/img3.webp",
-    "specSummary": [
-      "Colour A3 Multifunction Laser Printer",
-      "Print speed: 21–25 ppm",
-      "USB, Ethernet and Dual-Band WiFi connectivity",
-      "Flatbed + RADF scanner",
-      "4-line LCD control panel",
-      "Up to 100000 pages monthly duty cycle"
-    ],
-    "details": {
-      "print_specification": [
-        {
-          "title": "Device Type",
-          "desc": "A3 Multifunction Laser Printer"
-        },
-        {
-          "title": "Print Technology",
-          "desc": "Laser Printer"
-        },
-        {
-          "title": "Maximum Print Speed",
-          "desc": "21–25 ppm"
-        },
-        {
-          "title": "Monthly Duty Cycle",
-          "desc": "Up to 100000 pages/month"
-        }
-      ],
-      "copy_specification": [
-        {
-          "title": "Copy Speed",
-          "desc": "21–25 ppm"
-        },
-        {
-          "title": "Copy Reduce/Enlarge Settings",
-          "desc": "25% – 400%"
-        }
-      ],
-      "scan_specification": [
-        {
-          "title": "Scanner Type",
-          "desc": "Flatbed + RADF"
-        },
-        {
-          "title": "ADF Capacity",
-          "desc": "100 sheets"
-        },
-        {
-          "title": "Scan Speed",
-          "desc": "30 ppm"
-        }
-      ],
-      "paper_handling": [
-        {
-          "title": "Paper Input Capacity",
-          "desc": "Standard: 250 pages, Max: 1450 pages"
-        },
-        {
-          "title": "Multipurpose Tray Capacity",
-          "desc": "100 sheets"
-        },
-        {
-          "title": "Optional Input Paper Tray",
-          "desc": "550 x 2 pages"
-        }
-      ],
-      "general": [
-        {
-          "title": "Memory",
-          "desc": "DDR4 / 1GB"
-        },
-        {
-          "title": "Processor",
-          "desc": "833 MHz"
-        },
-        {
-          "title": "Interface",
-          "desc": "USB 2.0, IEEE 802.3 10/100/1000Base-Tx, Wi-Fi (2.4GHz/5GHz)"
-        },
-        {
-          "title": "Control Panel",
-          "desc": "4-line LCD"
-        },
-        {
-          "title": "Product Dimensions (W×D×H)",
-          "desc": "565 × 593 × 526 mm"
-        },
-        {
-          "title": "Product Weight",
-          "desc": "31.5 KG"
-        },
-        {
-          "title": "Power Consumption",
-          "desc": "Print average: <550W; Ready: <80W; Sleep: <1W"
-        },
-        {
-          "title": "Operating System Compatibility",
-          "desc": "Windows 7 SP1, Windows 8.1, Windows 10, Windows 11, Windows Server 2008/2008 R2/2012/2012 R2/2016/2019, macOS v10.13.6/10.14.x/10.15.x, Citrix, Fedora Core 24, Linux, Mac OS"
-        },
-        {
-          "title": "Country of Origin",
-          "desc": "India"
-        },
-        {
-          "title": "Warranty",
-          "desc": "1 Year Standard Warranty"
-        }
-      ]
-    },
-    "manual": "/manuals/cwc-2500s-colour.pdf",
-    "drivers": {
-      "Windows": "/drivers/CWC2500SCOLOUR.zip",
-      "Linux": "/drivers/CWC2500SCOLOUR.zip"
-    }
-  },
-  {
+{
     "id": "cwc-m4820nw",
     "name": "CWC M4820NW Multifunction Printer (Color)",
     "type": "Laser",
@@ -980,81 +2146,1035 @@
         }
       ]
     },
-    "manual": "/manuals/cwc-m4820nw.pdf",
+    
     "drivers": {
-      "Windows": "/drivers/CWCM4820NW.zip",
-      "Linux": "/drivers/CWCM4820NW.zip"
+
+    }
+  },
+
+   {
+    "id": "cwc-2500s",
+    "name": "CWC 2500S A3 Multifunction Laser Printer",
+    "type": "Laser",
+    "color": "Mono",
+    "category": "printers",
+    "format": "A3",
+    "function": "Multifunction",
+    "compatibleIds": [],
+    "speed": "21–25 ppm",
+    "image": "/images/cwc-2500s/main.webp",
+    "img1": "/images/cwc-2500s/img1.webp",
+    "img2": "/images/cwc-2500s/img2.webp",
+    "img3": "/images/cwc-2500s/img3.webp",
+    "specSummary": [
+      "Print speed: 21–25 ppm",
+      "A3 Multifunction Laser Printer",
+      "USB, Ethernet and Dual-Band WiFi connectivity",
+      "Flatbed + RADF scanner",
+      "4-line LCD control panel",
+      "Up to 100000 pages monthly duty cycle"
+    ],
+    "details": {
+      "print_specification": [
+        {
+          "title": "Device Type",
+          "desc": "A3 Multifunction Laser Printer"
+        },
+        {
+          "title": "Print Technology",
+          "desc": "Laser Printer"
+        },
+        {
+          "title": "Maximum Print Speed",
+          "desc": "21–25 ppm"
+        },
+        {
+          "title": "Monthly Duty Cycle",
+          "desc": "Up to 100000 pages/month"
+        }
+      ],
+      "copy_specification": [
+        {
+          "title": "Copy Speed",
+          "desc": "21–25 ppm"
+        },
+        {
+          "title": "Copy Reduce/Enlarge Settings",
+          "desc": "25% – 400%"
+        }
+      ],
+      "scan_specification": [
+        {
+          "title": "Scanner Type",
+          "desc": "Flatbed + RADF"
+        },
+        {
+          "title": "ADF Capacity",
+          "desc": "100 sheets"
+        },
+        {
+          "title": "Scan Speed",
+          "desc": "31 to 40 ppm"
+        }
+      ],
+      "paper_handling": [
+        {
+          "title": "Paper Input Capacity",
+          "desc": "Standard: 250 pages, Max: 1450 pages"
+        },
+        {
+          "title": "Multipurpose Tray Capacity",
+          "desc": "100 sheets"
+        },
+        {
+          "title": "Optional Input Paper Tray",
+          "desc": "550 x 2 pages"
+        }
+      ],
+      "general": [
+        {
+          "title": "Memory",
+          "desc": "DDR4 / 1GB"
+        },
+        {
+          "title": "Processor",
+          "desc": "833 MHz"
+        },
+        {
+          "title": "Interface",
+          "desc": "USB 2.0, IEEE 802.3 10/100/1000Base-Tx, Wi-Fi (2.4GHz/5GHz)"
+        },
+        {
+          "title": "Control Panel",
+          "desc": "4-line LCD"
+        },
+        {
+          "title": "Product Dimensions (W×D×H)",
+          "desc": "565 × 593 × 526 mm"
+        },
+        {
+          "title": "Power Consumption",
+          "desc": "Print average: <550W; Ready: <80W; Sleep: <1W"
+        },
+        {
+          "title": "Operating System Compatibility",
+          "desc": "Windows 7 SP1, Windows 8.1, Windows 10, Windows 11, Windows Server 2008/2008 R2/2012/2012 R2/2016/2019, macOS v10.13.6/10.14.x/10.15.x, Citrix, Fedora Core 24, Linux, Mac OS"
+        },
+        {
+          "title": "Country of Origin",
+          "desc": "India"
+        },
+        {
+          "title": "Warranty",
+          "desc": "1 Year Standard Warranty"
+        }
+      ]
+    },
+
+    "drivers": {
+  
+    }
+  },
+
+
+
+   {
+    "id": "cwc-2500s-colour",
+    "name": "CWC 2500S Colour A3 Multifunction Laser Printer",
+    "type": "Laser",
+    "color": "Color",
+    "category": "printers",
+    "format": "A3",
+    "function": "Multifunction",
+    "compatibleIds": [],
+    "speed": "21–25 ppm",
+    "image": "/images/cwc-2500s-colour/main.webp",
+    "img1": "/images/cwc-2500s-colour/img1.webp",
+    "img2": "/images/cwc-2500s-colour/img2.webp",
+    "img3": "/images/cwc-2500s-colour/img3.webp",
+    "specSummary": [
+      "Colour A3 Multifunction Laser Printer",
+      "Print speed: 21–25 ppm",
+      "USB, Ethernet and Dual-Band WiFi connectivity",
+      "Flatbed + RADF scanner",
+      "4-line LCD control panel",
+      "Up to 100000 pages monthly duty cycle"
+    ],
+    "details": {
+      "print_specification": [
+        {
+          "title": "Device Type",
+          "desc": "A3 Multifunction Laser Printer"
+        },
+        {
+          "title": "Print Technology",
+          "desc": "Laser Printer"
+        },
+        {
+          "title": "Maximum Print Speed",
+          "desc": "21–25 ppm"
+        },
+        {
+          "title": "Monthly Duty Cycle",
+          "desc": "Up to 100000 pages/month"
+        }
+      ],
+      "copy_specification": [
+        {
+          "title": "Copy Speed",
+          "desc": "21–25 ppm"
+        },
+        {
+          "title": "Copy Reduce/Enlarge Settings",
+          "desc": "25% – 400%"
+        }
+      ],
+      "scan_specification": [
+        {
+          "title": "Scanner Type",
+          "desc": "Flatbed + RADF"
+        },
+        {
+          "title": "ADF Capacity",
+          "desc": "100 sheets"
+        },
+        {
+          "title": "Scan Speed",
+          "desc": "31 to 40 ppm"
+        }
+      ],
+      "paper_handling": [
+        {
+          "title": "Paper Input Capacity",
+          "desc": "Standard: 250 pages, Max: 1450 pages"
+        },
+        {
+          "title": "Multipurpose Tray Capacity",
+          "desc": "100 sheets"
+        },
+        {
+          "title": "Optional Input Paper Tray",
+          "desc": "550 x 2 pages"
+        }
+      ],
+      "general": [
+        {
+          "title": "Memory",
+          "desc": "DDR4 / 1GB"
+        },
+        {
+          "title": "Processor",
+          "desc": "833 MHz"
+        },
+        {
+          "title": "Interface",
+          "desc": "USB 2.0, IEEE 802.3 10/100/1000Base-Tx, Wi-Fi (2.4GHz/5GHz)"
+        },
+        {
+          "title": "Control Panel",
+          "desc": "4-line LCD"
+        },
+        {
+          "title": "Product Dimensions (W×D×H)",
+          "desc": "565 × 593 × 526 mm"
+        },
+        {
+          "title": "Product Weight",
+          "desc": "31.5 KG"
+        },
+        {
+          "title": "Power Consumption",
+          "desc": "Print average: <550W; Ready: <80W; Sleep: <1W"
+        },
+        {
+          "title": "Operating System Compatibility",
+          "desc": "Windows 7 SP1, Windows 8.1, Windows 10, Windows 11, Windows Server 2008/2008 R2/2012/2012 R2/2016/2019, macOS v10.13.6/10.14.x/10.15.x, Citrix, Fedora Core 24, Linux, Mac OS"
+        },
+        {
+          "title": "Country of Origin",
+          "desc": "India"
+        },
+        {
+          "title": "Warranty",
+          "desc": "1 Year Standard Warranty"
+        }
+      ]
+    },
+  
+    "drivers": {
+     
     }
   },
   {
+    "id": "cwc-2700s",
+    "name": "CWC 2700S A3 Multifunction Laser Printer",
+    "type": "Laser",
+    "color": "Mono",
+    "category": "printers",
+    "format": "A3",
+     "function": "Multifunction",
+    "compatibleIds": [],
+    "speed": "26–30 ppm",
+    "image": "/images/cwc-2700s/main.webp",
+    "img1": "/images/cwc-2700s/img1.webp",
+    "img2": "/images/cwc-2700s/img2.webp",
+    "img3": "/images/cwc-2700s/img3.webp",
+    "specSummary": [
+      "Print speed: 26–30 ppm",
+      "A3 Multifunction Laser Printer",
+      "USB, Ethernet and Dual-Band WiFi connectivity",
+      "Flatbed + RADF scanner",
+      "4-line LCD control panel",
+      "Up to 100000 pages monthly duty cycle"
+    ],
+    "details": {
+      "print_specification": [
+        {
+          "title": "Device Type",
+          "desc": "A3 Multifunction Laser Printer"
+        },
+        {
+          "title": "Print Technology",
+          "desc": "Laser Printer"
+        },
+        {
+          "title": "Maximum Print Speed",
+          "desc": "26–30 ppm"
+        },
+        {
+          "title": "Monthly Duty Cycle",
+          "desc": "Up to 100000 pages/month"
+        }
+      ],
+      "copy_specification": [
+        {
+          "title": "Copy Speed",
+          "desc": "26–30 ppm"
+        },
+        {
+          "title": "Copy Reduce/Enlarge Settings",
+          "desc": "25% – 400%"
+        }
+      ],
+      "scan_specification": [
+        {
+          "title": "Scanner Type",
+          "desc": "Flatbed + RADF"
+        },
+        {
+          "title": "ADF Capacity",
+          "desc": "100 sheets"
+        },
+        {
+          "title": "Scan Speed",
+          "desc": "31 to 40 ppm"
+        }
+      ],
+      "paper_handling": [
+        {
+          "title": "Paper Input Capacity",
+          "desc": "Standard: 250 pages, Max: 1450 pages"
+        },
+        {
+          "title": "Multipurpose Tray Capacity",
+          "desc": "100 sheets"
+        },
+        {
+          "title": "Optional Input Paper Tray",
+          "desc": "550 x 2 pages"
+        }
+      ],
+      "general": [
+        {
+          "title": "Memory",
+          "desc": "DDR4 / 1GB"
+        },
+        {
+          "title": "Processor",
+          "desc": "833 MHz"
+        },
+        {
+          "title": "Interface",
+          "desc": "USB 2.0, IEEE 802.3 10/100/1000Base-Tx, Wi-Fi (2.4GHz/5GHz)"
+        },
+        {
+          "title": "Control Panel",
+          "desc": "4-line LCD"
+        },
+        {
+          "title": "Product Dimensions (W×D×H)",
+          "desc": "565 × 593 × 526 mm"
+        },
+        {
+          "title": "Product Weight",
+          "desc": "31.5 KG"
+        },
+        {
+          "title": "Power Consumption",
+          "desc": "Print average: <550W; Ready: <80W; Sleep: <1W"
+        },
+        {
+          "title": "Operating System Compatibility",
+          "desc": "Windows 7 SP1, Windows 8.1, Windows 10, Windows 11, Windows Server 2008/2008 R2/2012/2012 R2/2016/2019, macOS v10.13.6/10.14.x/10.15.x, Citrix, Fedora Core 24, Linux, Mac OS"
+        },
+        {
+          "title": "Country of Origin",
+          "desc": "India"
+        },
+        {
+          "title": "Warranty",
+          "desc": "1 Year Standard Warranty"
+        }
+      ]
+    },
     
-    "name": "CWC M5030DN/W Multifunction Laser Printer",
+    "drivers": {
+      
+    }
+  },
+
+
+
+
+
+
+{
+  "id": "cwc-p311-new",
+  "name": "CWC P311 Laser Printer - New",
+  "type": "Laser",
+  "color": "Mono",
+  "category": "printers",
+  "format": "A4",
+  "function": "Print",
+  "compatibleIds": [],
+  "speed": "26–30 ppm",
+  "image": "/images/cwc-p311-new/main.webp",
+  "img1": "/images/cwc-p311-new/img1.webp",
+  "img2": "/images/cwc-p311-new/img2.webp",
+  "img3": "/images/cwc-p311-new/img3.webp",
+  "specSummary": [
+    "Printing speed: 26–30 ppm",
+    "Connection method: USB Port"
+  ],
+  "details": {
+    "print_specification": [
+      {
+        "title": "Print speed",
+        "desc": "26ppm to 30ppm"
+      },
+      {
+        "title": "Print Technology",
+        "desc": "Laser"
+      },
+      {
+        "title": "First Print Out Time",
+        "desc": "≤ 8.2 seconds"
+      },
+      {
+        "title": "Print Resolution",
+        "desc": "1,200 x 1200 dpi"
+      },
+      {
+        "title": "Monthly Duty Cycle",
+        "desc": "80000 pages"
+      },
+      {
+        "title": "Duplex printing",
+        "desc": "Automatic Double-Sided"
+      },
+      {
+        "title": "Processor",
+        "desc": "800 MHz"
+      }
+    ],
+    "scan_specification": [],
+    "paper_handling": [
+      {
+        "title": "Paper input tray",
+        "desc": "Standard Tray: 250 sheets + Bypass Tray: 1 sheet"
+      },
+      {
+        "title": "Paper output tray",
+        "desc": "150 sheets"
+      },
+      {
+        "title": "Media sizes",
+        "desc": "A4, A5, JIS B5, ISO B5, A6, Letter, Legal, Executive, Folio, Oficio, Statement, Japanese Postcard, ZL, Big 16K, Big 32K, 16K, 32K, B6, Yougata4, Postcard, Younaga3, Nagagata3, Yougata2"
+      }
+    ],
+    "general": [
+      {
+        "title": "Processor",
+        "desc": "800 MHz"
+      },
+      {
+        "title": "RAM",
+        "desc": "256 MB"
+      },
+      {
+        "title": "Interface",
+        "desc": "USB Port"
+      },
+      {
+        "title": "Power Consumption",
+        "desc": "525W"
+      },
+      {
+        "title": "Dimension",
+        "desc": "369 x 333 x 231 mm (D×W×H)"
+      },
+      {
+        "title": "Weight",
+        "desc": "6.8 kg"
+      },
+      {
+        "title": "Operating system compatibility",
+        "desc": "Microsoft Windows Server 2003 / Server 2008 / Server 2012 / XP / Vista / Win7 / Win8 / Win8.1 / Win10 / Win11 (32/64 Bit); Mac OS 10.7-12; Linux: Ubuntu 12.04/14.04/16.04/18.04/20.04"
+      }
+    ],
+    "consumable": [
+      {
+        "title": "Consumable type",
+        "desc": "Separate Drum and Toner / Composite"
+      },
+      {
+        "title": "Cartridge Yield",
+        "desc": "1500 / 3000 / 6000 Sheets"
+      },
+      {
+        "title": "Toner Cartridge",
+        "desc": "CWC-T310/T3333/T3336"
+      },
+      {
+        "title": "Drum Unit",
+        "desc": "CWC-D310"
+      }
+    ]
+  },
+  "drivers": {}
+},
+
+
+{
+  "id": "cwc-m8920",
+  "name": "CWC M8920 Multifunction Color Laser Printer",
+  "type": "Laser",
+  "color": "Color",
+  "category": "printers",
+  "format": "",
+  "function": "Print, Scan & Copy",
+  "compatibleIds": [],
+  "speed": "21–25 ppm",
+  "image": "/images/cwc-m8920/main.webp",
+  "img1": "/images/cwc-m8920/img1.webp",
+  "img2": "/images/cwc-m8920/img2.webp",
+  "img3": "/images/cwc-m8920/img3.webp",
+  "specSummary": [
+    "Printing speed: 21–25 ppm",
+    "Connection method: USB, Network and WiFi"
+  ],
+  "details": {
+    "print_specification": [
+      {
+        "title": "Print Speed",
+        "desc": "21–25 ppm"
+      },
+      {
+        "title": "Print Technology",
+        "desc": "Color Laser"
+      },
+      {
+        "title": "Monthly Duty Cycle",
+        "desc": "60000 pages"
+      },
+      {
+        "title": "Printer Language",
+        "desc": "GDI"
+      }
+    ],
+    "scan_specification": [
+      {
+        "title": "Function Type",
+        "desc": "Multifunction (Print, Scan & Copy)"
+      },
+      {
+        "title": "Scanner Type",
+        "desc": "Flatbed + ADF"
+      },
+      {
+        "title": "ADF Capacity",
+        "desc": "60 Sheets"
+      }
+    ],
+    "paper_handling": [
+      {
+        "title": "Paper Input Capacity",
+        "desc": "310 pages"
+      }
+    ],
+    "general": [
+      {
+        "title": "Processor",
+        "desc": "800 MHz"
+      },
+      {
+        "title": "RAM",
+        "desc": "DDR3L 512 MB"
+      },
+      {
+        "title": "Flash Memory",
+        "desc": "SPI NAND 256 MB"
+      },
+      {
+        "title": "Control Panel",
+        "desc": "3.5 inch Touch Screen"
+      },
+      {
+        "title": "Interface",
+        "desc": "USB 2.0, WiFi, 10/100 Base-Tx"
+      },
+      {
+        "title": "Power Consumption",
+        "desc": "≤380 W"
+      },
+      {
+        "title": "Weight",
+        "desc": "19.45 kg"
+      },
+      {
+        "title": "Operating System",
+        "desc": "Windows, Ubuntu, BOSS OS, Mac"
+      },
+      {
+        "title": "Warranty",
+        "desc": "1 Year Standard Warranty (Up to 5 Years Extended Warranty)"
+      }
+    ],
+    "consumable": [
+      {
+        "title": "Consumable Type",
+        "desc": "Composite"
+      },
+      {
+        "title": "Cartridge",
+        "desc": "CWC-T9820 (CMY - 1000 pages, Black - 1500 pages)"
+      }
+    ]
+  },
+  "drivers": {}
+},
+
+
+
+
+
+{
+  "id": "cwc-p9820",
+  "name": "CWC P9820 Color Laser Printer",
+  "type": "Laser",
+  "color": "Color",
+  "category": "printers",
+  "format": "",
+  "function": "Print",
+  "compatibleIds": [],
+  "speed": "21–25 ppm",
+  "image": "/images/cwc-p9820/main.webp",
+  "img1": "/images/cwc-p9820/img1.webp",
+  "img2": "/images/cwc-p9820/img2.webp",
+  "img3": "/images/cwc-p9820/img3.webp",
+  "specSummary": [
+    "Printing speed: 21–25 ppm",
+    "Connection method: USB, Network and WiFi"
+  ],
+  "details": {
+    "print_specification": [
+      {
+        "title": "Print Speed",
+        "desc": "21–25 ppm"
+      },
+      {
+        "title": "Print Technology",
+        "desc": "Color Laser"
+      },
+      {
+        "title": "Monthly Duty Cycle",
+        "desc": "60000 pages"
+      },
+      {
+        "title": "Printer Language",
+        "desc": "GDI"
+      }
+    ],
+    "scan_specification": [],
+    "paper_handling": [
+      {
+        "title": "Paper Input Capacity",
+        "desc": "310 pages"
+      }
+    ],
+    "general": [
+      {
+        "title": "Processor",
+        "desc": "800 MHz"
+      },
+      {
+        "title": "RAM",
+        "desc": "DDR3L 512 MB"
+      },
+      {
+        "title": "Flash Memory",
+        "desc": "SPI NAND 128 MB"
+      },
+      {
+        "title": "Control Panel",
+        "desc": "2-line LCD"
+      },
+      {
+        "title": "Interface",
+        "desc": "USB 2.0, WiFi, 10/100 Base-Tx"
+      },
+      {
+        "title": "Power Consumption",
+        "desc": "≤380 W"
+      },
+      {
+        "title": "Weight",
+        "desc": "15.3 kg"
+      },
+      {
+        "title": "Operating System",
+        "desc": "Windows, Ubuntu, BOSS OS, Mac"
+      },
+      {
+        "title": "Warranty",
+        "desc": "1 Year Standard Warranty (Up to 5 Years Extended Warranty)"
+      }
+    ],
+    "consumable": [
+      {
+        "title": "Consumable Type",
+        "desc": "Composite"
+      },
+      {
+        "title": "Cartridge",
+        "desc": "CWC-T9820 (CMY - 1000 pages, Black - 1500 pages)"
+      }
+    ]
+  },
+  "drivers": {}
+},
+{
+  "id": "cwc-8000s",
+  "name": "CWC 8000s Multifunction Laser Printer",
+  "type": "Laser",
+  "color": "Mono",
+  "category": "printers",
+  "format": "A4",
+  "function": "Print, Scan & Copy",
+  "compatibleIds": [],
+  "speed": "46–50 ppm",
+  "image": "/images/cwc-8000s/main.webp",
+  "img1": "/images/cwc-8000s/img1.webp",
+  "img2": "/images/cwc-8000s/img2.webp",
+  "img3": "/images/cwc-8000s/img3.webp",
+  "specSummary": [
+    "Printing speed (A4): 46–50 ppm",
+    "Connection method: Network, WiFi and USB"
+  ],
+  "details": {
+    "print_specification": [
+      {
+        "title": "Print speed",
+        "desc": "46–50 ppm"
+      },
+      {
+        "title": "Print Technology",
+        "desc": "Laser"
+      },
+      {
+        "title": "First Print Out Time",
+        "desc": "≤ 6.9 seconds"
+      },
+      {
+        "title": "Print Resolution",
+        "desc": "1200 x 1200 dpi"
+      },
+      {
+        "title": "Monthly Duty Cycle",
+        "desc": "200000 pages"
+      },
+      {
+        "title": "Duplex printing",
+        "desc": "Automatic Double-Sided"
+      },
+      {
+        "title": "Processor",
+        "desc": "1.2 GHz"
+      }
+    ],
+    "scan_specification": [
+      {
+        "title": "Function Type",
+        "desc": "Multifunction (Print, Scan & Copy)"
+      },
+      {
+        "title": "Scanning Type",
+        "desc": "Flatbed Glass & DADF (SPDF) - 60 Pages"
+      },
+      {
+        "title": "Scanning Speed",
+        "desc": "24 ppm (A4) / 48 ipm (A4), 25 ppm (Letter) / 50 ipm (Letter)"
+      },
+      {
+        "title": "Scanning Destination",
+        "desc": "Scan to PC, E-mail, FTP, SMB, USB Disk"
+      },
+      {
+        "title": "Scanning Resolution",
+        "desc": "1200 x 1200 dpi (Flatbed), 600 x 600 dpi (ADF)"
+      },
+      {
+        "title": "Max Scan Size",
+        "desc": "A4 / Legal"
+      }
+    ],
+    "paper_handling": [
+      {
+        "title": "Paper input tray",
+        "desc": "Standard Tray: 310 sheets + Bypass Tray: 100 sheets"
+      },
+      {
+        "title": "Paper output tray",
+        "desc": "150 sheets"
+      },
+      {
+        "title": "Media sizes",
+        "desc": "A4, Letter, Legal, Folio, Oficio, JIS B5, ISO B5, Executive, Statement, A5, Big 16K, 16K, Big 32K, 32K, A6, No.10 Envelope, Monarch Envelope, DL Envelope, C5 Envelope, C6 Envelope, Yougata4, Younaga3, Nagagata3, ZL, Postcard, B6, Japanese Postcard, Custom Size"
+      }
+    ],
+    "general": [
+      {
+        "title": "Processor",
+        "desc": "1.2 GHz"
+      },
+      {
+        "title": "RAM",
+        "desc": "2 GB"
+      },
+      {
+        "title": "Interface",
+        "desc": "Network, WiFi and USB port"
+      },
+      {
+        "title": "Power Consumption",
+        "desc": "650 W"
+      },
+      {
+        "title": "Dimension",
+        "desc": "415 × 365 × 370 mm (D×W×H)"
+      },
+      {
+        "title": "Weight",
+        "desc": "12.5 kg"
+      },
+      {
+        "title": "Operating system compatibility",
+        "desc": "Windows Server 2003/2008/2012, Windows XP, Vista, Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11 (32/64-bit), Mac OS 10.7–12, Ubuntu 12.04/14.04/16.04/18.04/20.04"
+      },
+      {
+        "title": "Warranty",
+        "desc": "1 Year Standard Warranty (Up to 5 Years Extended Warranty)"
+      }
+    ],
+    "consumable": [
+      {
+        "title": "Consumable type",
+        "desc": "Composite"
+      },
+      {
+        "title": "Cartridge Yield",
+        "desc": "3000 / 6000 pages"
+      },
+      {
+        "title": "Toner Cartridge",
+        "desc": "CWC-CTN9850"
+      }
+    ]
+  },
+ 
+  "drivers": {
+   
+  }
+},
+{
+  "id": "cwc-9000s",
+  "name": "CWC 9000s Single Function Laser Printer",
+  "type": "Laser",
+  "color": "Mono",
+  "category": "printers",
+  "format": "A4",
+  "function": "Print",
+  "compatibleIds": [],
+  "speed": "46–50 ppm",
+  "image": "/images/cwc-9000s/main.webp",
+  "img1": "/images/cwc-9000s/img1.webp",
+  "img2": "/images/cwc-9000s/img2.webp",
+  "img3": "/images/cwc-9000s/img3.webp",
+  "specSummary": [
+    "Printing speed (A4): 46–50 ppm",
+    "Connection method: Network, WiFi and USB"
+  ],
+  "details": {
+    "print_specification": [
+      {
+        "title": "Print speed",
+        "desc": "46–50 ppm"
+      },
+      {
+        "title": "Print Technology",
+        "desc": "Laser"
+      },
+      {
+        "title": "First Print Out Time",
+        "desc": "≤ 6.9 seconds"
+      },
+      {
+        "title": "Print Resolution",
+        "desc": "1200 x 1200 dpi"
+      },
+      {
+        "title": "Monthly Duty Cycle",
+        "desc": "200000 pages"
+      },
+      {
+        "title": "Duplex printing",
+        "desc": "Automatic Double-Sided"
+      },
+      {
+        "title": "Processor",
+        "desc": "1.2 GHz"
+      }
+    ],
+    "paper_handling": [
+      {
+        "title": "Paper input tray",
+        "desc": "Standard Tray: 310 sheets + Bypass Tray: 100 sheets"
+      },
+      {
+        "title": "Paper output tray",
+        "desc": "150 sheets"
+      },
+      {
+        "title": "Media sizes",
+        "desc": "A4, Letter, Legal, Folio, Oficio, JIS B5, ISO B5, Executive, Statement, A5, Big 16K, 16K, Big 32K, 32K, A6, No.10 Envelope, Monarch Envelope, DL Envelope, C5 Envelope, C6 Envelope, Yougata4, Younaga3, Nagagata3, ZL, Postcard, B6, Japanese Postcard, Custom Size"
+      }
+    ],
+    "general": [
+      {
+        "title": "Processor",
+        "desc": "1.2 GHz"
+      },
+      {
+        "title": "RAM",
+        "desc": "2 GB"
+      },
+      {
+        "title": "Interface",
+        "desc": "Network, WiFi and USB port"
+      },
+      {
+        "title": "Power Consumption",
+        "desc": "650 W"
+      },
+      {
+        "title": "Dimension",
+        "desc": "364 × 344 × 257 mm (D×W×H)"
+      },
+      {
+        "title": "Weight",
+        "desc": "9.3 kg"
+      },
+      {
+        "title": "Operating system compatibility",
+        "desc": "Windows Server 2003/2008/2012, Windows XP, Vista, Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11 (32/64-bit), Mac OS 10.7–12, Ubuntu 12.04/14.04/16.04/18.04/20.04"
+      },
+      {
+        "title": "Warranty",
+        "desc": "1 Year Standard Warranty (Up to 5 Years Extended Warranty)"
+      }
+    ],
+    "consumable": [
+      {
+        "title": "Consumable type",
+        "desc": "Composite"
+      },
+      {
+        "title": "Cartridge Yield",
+        "desc": "3000 / 6000 pages"
+      },
+      {
+        "title": "Toner Cartridge",
+        "desc": "CWC-CTN9850"
+      }
+    ]
+  },
+ 
+  "drivers": {
+    
+  }
+},
+
+  {
+    "id": "cwc-p5028",
+    "name": "CWC P5028 Single Function",
     "type": "Laser",
     "color": "Mono",
     "category": "printers",
     "format": "A4",
-    "function": "Multifunction",
-    "compatibleIds": [],
-    "speed": "33 ppm",
-    "image": "/images/cwc-m5030dnw/main.webp",
-    "img1": "/images/cwc-m5030dnw/img1.webp",
-    "img2": "/images/cwc-m5030dnw/img2.webp",
-    "img3": "/images/cwc-m5030dnw/img3.webp",
+    "function": "Print Only",
+    "compatibleIds": [
+      "cwc-p4820nw"
+    ],
+    "speed": "26–30 ppm",
+    "image": "/images/cwc-p5028/main.webp",
+    "img1": "/images/cwc-p5028/img1.webp",
+    "img2": "/images/cwc-p5028/img2.webp",
+    "img3": "/images/cwc-p5028/img3.webp",
     "specSummary": [
-      "Printing speed (A4): 33ppm",
-      "Connection method: Network, WiFi and USB",
-      "Basic function: Print, Copy, Scan",
-      "Automatic duplex printing",
-      "Automatic double-sided printing",
-      "Security features protect against cyber threats"
+      "Printing speed (A4): 26–30 ppm",
+      "Connection method: Network, WiFi and USB"
     ],
     "details": {
       "print_specification": [
         {
           "title": "Print speed",
-          "desc": "33 ppm"
+          "desc": "26–30 ppm"
         },
         {
-          "title": "Monthly Duty Cycle",
-          "desc": "75000*"
+          "title": "Print Technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "First Print Out Time",
+          "desc": "Less than 8 seconds"
         },
         {
           "title": "Print Resolution",
           "desc": "1200 x 1200 dpi"
         },
         {
+          "title": "Monthly Duty Cycle",
+          "desc": "80000*"
+        },
+        {
           "title": "Duplex printing",
           "desc": "Automatic"
-        },
-        {
-          "title": "Feeder Type",
-          "desc": "ADF"
-        },
-        {
-          "title": "Operating system compatibility",
-          "desc": "Windows Server 2008/2012/2016/2019/2022, Windows 7/8/8.1/10/11; macOS 10.9–14.3; Linux (Ubuntu/Debian/CentOS/Red Hat); Android 8+; iOS 13+; HarmonyOS."
         }
       ],
       "scan_specification": [
         {
-          "title": "Scan speed",
-          "desc": "ADF : 17PPM"
-        },
-        {
-          "title": "Copy speed",
-          "desc": "ADF : 1. Multi pages copy-17ppm ; 2, Single page-28ppm"
-        },
-        {
-          "title": "Scan resolution",
-          "desc": "600 dpi (Max) 300 dpi(Default)"
-        },
-        {
-          "title": "Max. scan size",
-          "desc": "A4/Legal"
-        },
-        {
-          "title": "Feeder Capacity",
-          "desc": "50 Pgs"
+          "title": "Function Type",
+          "desc": "Single Function (Print Only)"
         }
       ],
       "paper_handling": [
@@ -1063,89 +3183,338 @@
           "desc": "250 sheets"
         },
         {
-          "title": "Paper output tray",
-          "desc": "100 sheets"
-        },
-        {
           "title": "Media sizes",
-          "desc": "A4, Letter, Legal, B5 (ISO), B5 (JIS), Executive, A5, Envelope - Monarch, 60~120g/m²"
+          "desc": "A4, Letter, Legal, B5 (ISO), B5 (JIS), Executive, A5, Envelope (Monarch), 60~120 g/m²"
         }
       ],
       "general": [
         {
-          "title": "Paper input tray",
-          "desc": "250 sheets"
-        },
-        {
-          "title": "Processor",
-          "desc": "1.2GHz"
-        },
-        {
           "title": "RAM",
-          "desc": "512MB"
-        },
-        {
-          "title": "Bypass Tray / ADF",
-          "desc": "YES"
-        },
-        {
-          "title": "Bypass Tray Capacity",
-          "desc": "1"
+          "desc": "256MB"
         },
         {
           "title": "Interface",
           "desc": "Network, WiFi and USB port"
         },
         {
+          "title": "Noise Level",
+          "desc": "About 56 dB"
+        },
+        {
           "title": "Dimension",
-          "desc": "40.5 x 33.5 x 36cm (WxDxH)"
+          "desc": "37 x 34 x 20.5 cm (WxDxH)"
         },
         {
           "title": "Package size (D×W×H)",
-          "desc": "53.8 x 43.8 x 48 cm"
+          "desc": "45.5 x 44.6 x 30.5 cm"
         },
         {
           "title": "Weight",
-          "desc": "11.7 kg"
+          "desc": "7.42 kg"
         },
         {
           "title": "Gross Weight",
-          "desc": "13 kg"
+          "desc": "9.04 kg"
         },
         {
-          "title": "Power comsumption",
-          "desc": "400W(printing), 3W(sleep Mode)"
+          "title": "Operating system compatibility",
+          "desc": "Windows 7, Windows Server 2008 R2, Windows 8.1, Windows 10, Windows 11, Linux (BOSS)"
         },
         {
           "title": "Power Supply",
-          "desc": "220-240V AC, ~50/60Hz (110V optional)"
+          "desc": "220–240V AC, ~50/60Hz (110V optional)"
+        },
+        {
+          "title": "Country of Origin",
+          "desc": "India"
+        },
+        {
+          "title": "Warranty",
+          "desc": "1 Year Standard Warranty"
         }
       ],
       "consumable": [
         {
           "title": "Consumable type",
-          "desc": "Separate drum and toner / Composite"
+          "desc": "Composite"
         },
         {
-          "title": "Minimum Cartridge Yield(Starter)",
-          "desc": "3000 Pgs"
+          "title": "Minimum Cartridge Yield (Starter)",
+          "desc": "1500 pages"
         },
         {
           "title": "Toner Cartridge",
-          "desc": "CWC TE503S"
+          "desc": "CWC-CT5020"
         },
         {
-          "title": "Drum Unit",
-          "desc": "CWC DM503"
+          "title": "Re-order Cartridge Yield",
+          "desc": "3000 pages"
         }
       ]
     },
-    "manual": "/manuals/cwc-m5030dnw.pdf",
+   
     "drivers": {
-      "Windows": "/drivers/CWCM.zip",
-      "Linux": "/drivers/CWCM.zip"
+     
+      
     }
   },
+  {
+  "id": "cwc-cm3250",
+  "name": "CWC CM3250 Multifunction Color Laser Printer",
+  "type": "Laser",
+  "color": "Color",
+  "category": "printers",
+  "format": "A4",
+  "function": "Print, Scan & Copy",
+  "compatibleIds": [],
+  "speed": "26–30 ppm",
+  "image": "/images/cwc-cm3250/main.webp",
+  "img1": "/images/cwc-cm3250/img1.webp",
+  "img2": "/images/cwc-cm3250/img2.webp",
+  "img3": "/images/cwc-cm3250/img3.webp",
+  "specSummary": [
+    "Printing speed (A4): 26–30 ppm",
+    "Connection method: Network and USB"
+  ],
+  "details": {
+    "print_specification": [
+      {
+        "title": "Print Speed",
+        "desc": "26–30 ppm"
+      },
+      {
+        "title": "Print Technology",
+        "desc": "Color Laser"
+      },
+      {
+        "title": "Monthly Duty Cycle",
+        "desc": "80000 pages"
+      },
+      {
+        "title": "Duplex Printing",
+        "desc": "Automatic Double-Sided"
+      },
+      {
+        "title": "Processor",
+        "desc": "1 GHz"
+      },
+      {
+        "title": "RAM",
+        "desc": "2 GB"
+      },
+      {
+        "title": "Print Resolution",
+        "desc": "1200 x 1200 dpi"
+      },
+      {
+        "title": "First Print Out Time",
+        "desc": "Mono: 10 sec, Color: 12 sec"
+      },
+      {
+        "title": "Interface",
+        "desc": "Network and USB Port"
+      },
+      {
+        "title": "Power Consumption",
+        "desc": "Print Average ≤380W, Standby ≤25W"
+      }
+    ],
+    "scan_specification": [
+      {
+        "title": "Function Type",
+        "desc": "Multifunction (Print, Copy, Scan)"
+      }
+    ],
+    "paper_handling": [
+      {
+        "title": "Paper Input Tray",
+        "desc": "Standard Tray: 250 sheets, Multipurpose Tray: 1 sheet"
+      },
+      {
+        "title": "Paper Output Tray",
+        "desc": "100 sheets"
+      },
+      {
+        "title": "Media Sizes",
+        "desc": "A4, Letter, Legal, Folio, Oficio, JIS B5, ISO B5, Executive, Statement, A5, Big 16K, 16K, Big 32K, 32K, A6, No.10 Envelope, Monarch Envelope, DL Envelope, C5 Envelope, C6 Envelope, Yougata4, Younaga3, Nagagata3, ZL, Postcard, B6, Japanese Postcard, Custom Size"
+      }
+    ],
+    "general": [
+      {
+        "title": "Dimensions (D×W×H)",
+        "desc": "415 x 403 x 346 mm"
+      },
+      {
+        "title": "Weight",
+        "desc": "19.5 kg"
+      },
+      {
+        "title": "Operating System Compatibility",
+        "desc": "Windows Server 2003, Server 2008, Server 2012, XP, Vista, Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11"
+      },
+      {
+        "title": "Linux Support",
+        "desc": "Ubuntu 12.04, 14.04, 16.04, 18.04, 20.04"
+      },
+      {
+        "title": "Mac Support",
+        "desc": "macOS"
+      },
+      {
+        "title": "Supported Platforms",
+        "desc": "Windows, Ubuntu, macOS, BOSS V10"
+      }
+    ],
+    "consumable": [
+      {
+        "title": "Consumable Type",
+        "desc": "Composite"
+      },
+      {
+        "title": "Cartridge Yield",
+        "desc": "C/M/Y - 1000 pages, K - 1500 pages"
+      },
+      {
+        "title": "Toner Cartridge",
+        "desc": "T3250"
+      }
+    ]
+  },
+  
+  "drivers": {
+    
+  }
+},
+ 
+  
+
+  {
+  "id": "cwc-cp3250",
+  "name": "CWC CP3250 Color Laser Printer",
+  "type": "Laser",
+  "color": "Color",
+  "category": "printers",
+  "format": "A4",
+  "function": "Print Only",
+  "compatibleIds": [
+    "t3250"
+  ],
+  "speed": "26–30 ppm",
+  "image": "/images/cwc-cp3250/main.webp",
+  "img1": "/images/cwc-cp3250/img1.webp",
+  "img2": "/images/cwc-cp3250/img2.webp",
+  "img3": "/images/cwc-cp3250/img3.webp",
+  "specSummary": [
+    "Printing speed (A4): 26–30 ppm",
+    "Color Laser Printer",
+    "Automatic Duplex Printing",
+    "Network and USB Connectivity"
+  ],
+  "details": {
+    "print_specification": [
+      {
+        "title": "Print Speed",
+        "desc": "26–30 ppm"
+      },
+      {
+        "title": "Print Technology",
+        "desc": "Color Laser"
+      },
+      {
+        "title": "Monthly Duty Cycle",
+        "desc": "80000 pages"
+      },
+      {
+        "title": "Duplex Printing",
+        "desc": "Automatic Double-Sided"
+      },
+      {
+        "title": "Processor",
+        "desc": "1 GHz"
+      },
+      {
+        "title": "RAM",
+        "desc": "1 GB"
+      },
+      {
+        "title": "Print Resolution",
+        "desc": "1200 x 1200 dpi"
+      },
+      {
+        "title": "First Print Out Time",
+        "desc": "Mono: 10 sec, Color: 12 sec"
+      },
+      {
+        "title": "Power Consumption",
+        "desc": "Print Average ≤380W, Standby ≤25W"
+      }
+    ],
+    "scan_specification": [
+      {
+        "title": "Function Type",
+        "desc": "Single Function (Print Only)"
+      }
+    ],
+    "paper_handling": [
+      {
+        "title": "Paper Input Tray",
+        "desc": "Standard Tray: 250 sheets, Multipurpose Tray: 1 sheet"
+      },
+      {
+        "title": "Paper Output Tray",
+        "desc": "100 sheets"
+      },
+      {
+        "title": "Media Sizes",
+        "desc": "A4, Letter, Legal, Folio, Oficio, JIS B5, ISO B5, Executive, Statement, A5, Big 16K, 16K, Big 32K, 32K, A6, No.10 Envelope, Monarch Envelope, DL Envelope, C5 Envelope, C6 Envelope, Yougata4, Younaga3, Nagagata3, ZL, Postcard, B6, Japanese Postcard, Custom Size"
+      }
+    ],
+    "general": [
+      {
+        "title": "Interface",
+        "desc": "Network and USB Port"
+      },
+      {
+        "title": "Dimensions",
+        "desc": "401 x 400 x 245 mm"
+      },
+      {
+        "title": "Weight",
+        "desc": "16 kg"
+      },
+      {
+        "title": "Operating System Compatibility",
+        "desc": "Windows Server 2003/2008/2012, XP, Vista, Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11, macOS 10.7–12, Ubuntu 12.04/14.04/16.04/18.04/20.04"
+      },
+      {
+        "title": "Supported Platforms",
+        "desc": "Windows, Ubuntu, macOS, BOSS V10"
+      }
+    ],
+    "consumable": [
+      {
+        "title": "Consumable Type",
+        "desc": "Composite"
+      },
+      {
+        "title": "Cartridge Yield",
+        "desc": "C/M/Y: 1000 pages, K: 1500 pages"
+      },
+      {
+        "title": "Toner Cartridge",
+        "desc": "T3250"
+      }
+    ]
+  },
+  
+  "drivers": {
+    
+  }
+},
+ 
+  
+ 
+  
   {
     "id": "cwc-m1005nw",
     "name": "CWC 1005N/W Laser Printer",
@@ -1224,11 +3593,10 @@
         }
       ]
     },
-    "manual": "/manuals/cwc-m1005nw.pdf",
-    "drivers": {
-      "Windows": "/drivers/10205.zip",
-      "Linux": "/drivers/10205.zip"
-    }
+"drivers": {
+  "Windows": "/drivers/CWC_M1005_WINDOWS.zip",
+  "Linux": "/drivers/CWC_M1005_LINUX.zip"
+}
   },
   {
     "id": "cwc-2100s",
@@ -1354,10 +3722,9 @@
         }
       ]
     },
-    "manual": "/manuals/cwc-2100s.pdf",
+   
     "drivers": {
-      "Windows": "/drivers/CWC2100S.zip",
-      "Linux": "/drivers/CWC2100S.zip"
+     
     }
   },
   {
@@ -1375,22 +3742,22 @@
     "img2": "/images/cwc-400s/img2.webp",
     "img3": "/images/cwc-400s/img3.webp",
     "specSummary": [
-      "Printing speed (A4): 40–44 ppm",
+      "Printing speed (A4): 41 to 45 ppm",
       "Connection method: Network, WiFi and USB",
       "Basic function: Print",
       "Automatic duplex printing",
-      "1200 x 600 dpi resolution",
-      "Monthly duty cycle: 30000 pages"
+      "1200 x 1200 dpi resolution",
+      "Monthly duty cycle: 80000 pages"
     ],
     "details": {
       "print_specification": [
         {
           "title": "Print speed",
-          "desc": "40–44 ppm"
+          "desc": "41 to 45 ppm"
         },
         {
           "title": "Monthly Duty Cycle",
-          "desc": "30000 pages"
+          "desc": "80000 pages"
         },
         {
           "title": "First Print Out Time",
@@ -1398,7 +3765,7 @@
         },
         {
           "title": "Print Resolution",
-          "desc": "1200 x 600 dpi"
+          "desc": "1200 x 1200 dpi"
         },
         {
           "title": "Duplex printing",
@@ -1440,11 +3807,11 @@
         },
         {
           "title": "Processor",
-          "desc": "800 MHz"
+          "desc": "1Ghz"
         },
         {
           "title": "RAM",
-          "desc": "256 MB"
+          "desc": "512MB / 1GB"
         },
         {
           "title": "Interface",
@@ -1478,8 +3845,7 @@
       "consumable": []
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+      
     }
   },
  
@@ -1489,7 +3855,7 @@
     "type": "Laser",
     "color": "Mono",
     "category": "printers",
-    "format": "A4",
+    "format": "A3",
     "function": "Multifunction",
     "compatibleIds": [],
     "speed": "21–25 ppm",
@@ -1609,8 +3975,7 @@
       "consumable": []
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+      
     }
   },
   {
@@ -1764,9 +4129,9 @@
       ]
     },
     "drivers": {
-      "Windows": "/drivers/CWCM.zip",
-      "Linux": "/drivers/CWCM.zip"
-    }
+  "Windows": "/drivers/CWC_M5040_WINDOWS.zip",
+  "Linux": "/drivers/CWC_M5040_LINUX.zip"
+}
   },
   {
     "id": "cwc-m2010dnw",
@@ -1777,13 +4142,13 @@
     "format": "A4",
     "function": "Multifunction",
     "compatibleIds": [],
-    "speed": "23 ppm",
+    "speed": "21 ppmto 25 ppm",
     "image": "/images/M2010DNW/main.webp",
     "img1": "/images/M2010DNW/img1.webp",
     "img2": "/images/M2010DNW/img2.webp",
     "img3": "/images/M2010DNW/img3.webp",
     "specSummary": [
-      "Printing speed (A4): 23 ppm",
+      "Printing speed (A4): 21-25 ppm",
       "Connection method: Network, WiFi and USB",
       "Basic function: Print, Copy, Scan",
       "Automatic duplex printing",
@@ -1793,7 +4158,7 @@
       "print_specification": [
         {
           "title": "Print speed",
-          "desc": "23 ppm"
+          "desc": "21-25 ppm"
         },
         {
           "title": "Monthly Duty Cycle",
@@ -1823,7 +4188,7 @@
         },
         {
           "title": "Max. scan size",
-          "desc": "A4/Legal"
+          "desc": "A4"
         }
       ],
       "paper_handling": [
@@ -1894,9 +4259,9 @@
       ]
     },
     "drivers": {
-      "Windows": "/drivers/CWCM.zip",
-      "Linux": "/drivers/CWCM.zip"
-    }
+  "Windows": "/drivers/CWC_M2010_WINDOWS.zip",
+  "Linux": "/drivers/CWC_M2010_LINUX.zip"
+}
   },
   {
     "id": "cwc-m305",
@@ -2025,8 +4390,8 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+      "Windows": "/driver/X3105.zip",
+      "Linux": "/driver/X3105.zip"
     }
   },
   {
@@ -2154,9 +4519,9 @@
       ]
     },
     "drivers": {
-      "Windows": "/drivers/CWCM.zip",
-      "Linux": "/drivers/CWCM.zip"
-    }
+  "Windows": "/drivers/CWC_MB5020_WINDOWS.zip",
+  "Linux": "/drivers/CWC_MB5020_LINUX.zip"
+}
   },
 
   {
@@ -2298,8 +4663,7 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+      
     }
   },
   {
@@ -2308,7 +4672,7 @@
     "type": "Laser",
     "color": "Color",
     "category": "printers",
-    "format": "A4",
+    "format": "A3",
     "function": "Multifunction",
     "compatibleIds": [],
     "speed": "30 / 25 / 20 ppm",
@@ -2444,8 +4808,7 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+      
     }
   },
   {
@@ -2586,17 +4949,16 @@
         },
         {
           "title": "Toner Cartridge",
-          "desc": "CWC T4843 / T5050"
+          "desc": "CWC T5050"
         },
         {
           "title": "Drum Unit",
-          "desc": "CWC D4843 / D5050"
+          "desc": "CWC D5050"
         }
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+    
     }
   },
   {
@@ -2742,8 +5104,8 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+      "Windows": "/driver/X2305.zip",
+      "Linux": "/driver/X2305.zip"
     }
   },
   {
@@ -2897,8 +5259,7 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+      
     }
   },
   {
@@ -3052,284 +5413,12 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+      "Windows": "/drivers/XC315.zip",
+      "Linux": "/drivers/XC315.zip"
     }
   },
-  {
-    "id": "cwc-3336",
-    "name": "CWC 3336 Multifunction Laser Printer",
-    "type": "Laser",
-    "color": "Mono",
-    "category": "printers",
-    "format": "A4",
-    "function": "Multifunction",
-    "compatibleIds": [],
-    "speed": "31–35 ppm",
-    "image": "/images/3336/main.webp",
-    "img1": "/images/3336/img1.webp",
-    "img2": "/images/3336/img2.webp",
-    "img3": "/images/3336/img3.webp",
-    "specSummary": [
-      "Printing speed (A4): 31–35 ppm",
-      "Connection method: Network, WiFi and USB",
-      "Print Technology: Laser",
-      "Automatic duplex printing",
-      "One-step driver installation",
-      "Made in India"
-    ],
-    "details": {
-      "print_specification": [
-        {
-          "title": "Print speed",
-          "desc": "31–35 ppm"
-        },
-        {
-          "title": "Monthly Duty Cycle",
-          "desc": "-"
-        },
-        {
-          "title": "Duplex printing",
-          "desc": "Automatic double-sided"
-        },
-        {
-          "title": "Operating system compatibility",
-          "desc": "Windows Server 2003/2008/2012; Windows XP/Vista/7/8/8.1/10/11 (32/64-bit); macOS 10.7–12; Linux (Ubuntu, RHEL, CentOS, Fedora)"
-        }
-      ],
-      "scan_specification": [
-        {
-          "title": "Scanner type",
-          "desc": "RADF / DADF / SPDF (50 pages)"
-        },
-        {
-          "title": "Scan speed",
-          "desc": "24 ppm (A4), 25 ppm (Letter)"
-        },
-        {
-          "title": "Scan destination",
-          "desc": "Email, PC, FTP, USB, Mobile"
-        },
-        {
-          "title": "Scan resolution",
-          "desc": "Flatbed: 1200 x 1200 dpi; ADF: 600 x 600 dpi"
-        },
-        {
-          "title": "Max. scan size",
-          "desc": "A4/Legal"
-        }
-      ],
-      "paper_handling": [
-        {
-          "title": "Paper input tray",
-          "desc": "250 sheets + Bypass: 1 sheet"
-        },
-        {
-          "title": "Paper output tray",
-          "desc": "150 sheets"
-        },
-        {
-          "title": "Media sizes",
-          "desc": "A4, A5, B5, A6, Letter, Legal, Executive, Folio, Oficio, Statement, Postcards, Envelopes"
-        }
-      ],
-      "general": [
-        {
-          "title": "Processor",
-          "desc": "800 MHz"
-        },
-        {
-          "title": "RAM",
-          "desc": "512 MB"
-        },
-        {
-          "title": "Print Resolution",
-          "desc": "1200 x 1200 dpi"
-        },
-        {
-          "title": "First output speed",
-          "desc": "≤ 8.2 seconds"
-        },
-        {
-          "title": "Interface",
-          "desc": "Network, WiFi and USB port"
-        },
-        {
-          "title": "Interface Type",
-          "desc": "USB 2.0, Ethernet (10/100), WiFi (802.11 b/g/n)"
-        },
-        {
-          "title": "Power consumption",
-          "desc": "550W"
-        },
-        {
-          "title": "Country of Origin",
-          "desc": "India"
-        },
-        {
-          "title": "Warranty",
-          "desc": "1 Year Standard Warranty"
-        }
-      ],
-      "consumable": [
-        {
-          "title": "Consumable type",
-          "desc": "Separate drum and toner / Composite"
-        },
-        {
-          "title": "Minimum Cartridge Yield (Starter)",
-          "desc": "1500 pages"
-        },
-        {
-          "title": "Toner Cartridge",
-          "desc": "CWC-T310, CWC-T3333, CWC-T3336"
-        },
-        {
-          "title": "Drum Unit",
-          "desc": "CWC-D310"
-        }
-      ]
-    },
-    "drivers": {
-      "Windows": "/drivers/3336.zip",
-      "Linux": "/drivers/3336.zip"
-    }
-  },
-  {
-    "id": "cwc-4055",
-    "name": "CWC 4055 Multifunction Laser Printer",
-    "type": "Laser",
-    "color": "Mono",
-    "category": "printers",
-    "format": "A4",
-     "function": "Multifunction",
-    "compatibleIds": [],
-    "speed": "41–45 ppm",
-    "image": "/images/4055/main.webp",
-    "img1": "/images/4055/img1.webp",
-    "img2": "/images/4055/img2.webp",
-    "img3": "/images/4055/img3.webp",
-    "specSummary": [
-      "Printing speed (A4): 41–45 ppm",
-      "Connection method: Network, WiFi, Fax and USB",
-      "Print Technology: Laser",
-      "Automatic duplex printing",
-      "One-step driver installation",
-      "Made in India"
-    ],
-    "details": {
-      "print_specification": [
-        {
-          "title": "Print speed",
-          "desc": "41–45 ppm"
-        },
-        {
-          "title": "Monthly Duty Cycle",
-          "desc": "150000 pages"
-        },
-        {
-          "title": "Duplex printing",
-          "desc": "Automatic double-sided"
-        },
-        {
-          "title": "Operating system compatibility",
-          "desc": "Windows Server 2003/2008/2012; Windows XP/Vista/7/8/8.1/10/11 (32/64-bit); macOS 10.7–12; Linux (Ubuntu, RHEL, CentOS, Fedora)"
-        }
-      ],
-      "scan_specification": [
-        {
-          "title": "Scanner type",
-          "desc": "RADF / DADF / SPDF (50 pages)"
-        },
-        {
-          "title": "Scan speed",
-          "desc": "24 ppm / 48 ipm (A4), 25 ppm / 50 ipm (Letter)"
-        },
-        {
-          "title": "Scan destination",
-          "desc": "PC, Email, FTP, SMB, USB"
-        },
-        {
-          "title": "Scan resolution",
-          "desc": "Flatbed: 1200 x 1200 dpi; ADF: 600 x 600 dpi"
-        },
-        {
-          "title": "Max. scan size",
-          "desc": "A4/Legal"
-        }
-      ],
-      "paper_handling": [
-        {
-          "title": "Paper input tray",
-          "desc": "250 sheets + Bypass: 100 sheets + Optional: 550 sheets"
-        },
-        {
-          "title": "Paper output tray",
-          "desc": "150 sheets"
-        },
-        {
-          "title": "Media sizes",
-          "desc": "A4, A5, B5, A6, Letter, Legal, Executive, Folio, Oficio, Statement, Postcards, Envelopes"
-        }
-      ],
-      "general": [
-        {
-          "title": "Processor",
-          "desc": "1.2 GHz"
-        },
-        {
-          "title": "RAM",
-          "desc": "512 MB"
-        },
-        {
-          "title": "Print Resolution",
-          "desc": "1200 x 1200 dpi"
-        },
-        {
-          "title": "First output speed",
-          "desc": "≤ 6.9 seconds"
-        },
-        {
-          "title": "Interface",
-          "desc": "Network, WiFi and USB port"
-        },
-        {
-          "title": "Interface Type",
-          "desc": "USB 2.0, Ethernet (10/100/1000), WiFi (2.4G/5G)"
-        },
-        {
-          "title": "Power consumption",
-          "desc": "≤ 650W"
-        },
-        {
-          "title": "Country of Origin",
-          "desc": "India"
-        },
-        {
-          "title": "Warranty",
-          "desc": "1 Year Standard Warranty"
-        }
-      ],
-      "consumable": [
-        {
-          "title": "Consumable type",
-          "desc": "Composite"
-        },
-        {
-          "title": "Minimum Cartridge Yield (Starter)",
-          "desc": "3000 pages"
-        },
-        {
-          "title": "Toner Cartridge",
-          "desc": "CWC-T4843"
-        }
-      ]
-    },
-    "drivers": {
-      "Windows": "/drivers/4055.zip",
-      "Linux": "/drivers/4055.zip"
-    }
-  },
+  
+ 
   {
     "id": "cwc-4620fnw",
     "name": "CWC 4620FNW Multifunction Laser Printer",
@@ -3378,7 +5467,7 @@
         },
         {
           "title": "Scan speed",
-          "desc": "B/W: 28 ppm, Color: 20 ppm"
+          "desc": "B/W: 28ppm / 56ipm. Color: 20ppm / 40ipm"
         },
         {
           "title": "Scan resolution",
@@ -3392,7 +5481,7 @@
       "paper_handling": [
         {
           "title": "Paper input tray",
-          "desc": "250 sheets + Bypass: 100 sheets"
+          "desc": "310 sheets + Bypass: 100 sheets"
         },
         {
           "title": "Paper output tray",
@@ -3461,8 +5550,7 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+      
     }
   },
   {
@@ -3596,8 +5684,8 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+      "Windows": "/drivers/RB320.zip",
+      "Linux": "/drivers/RB320.zip"
     }
   },
   {
@@ -3708,9 +5796,9 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
-    }
+  "Windows": "/drivers/CWC_1020_WINDOWS.zip",
+  "Linux": "/drivers/CWC_1020_LINUX.zip"
+}
   },
   {
     "id": "cwc-m225",
@@ -3863,8 +5951,8 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+      "Windows": "/driver/X2305.zip",
+      "Linux": "/driver/X2305.zip"
     }
   },
   {
@@ -3994,8 +6082,7 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+      
     }
   },
   {
@@ -4084,7 +6171,7 @@
         },
         {
           "title": "Bypass Tray Capacity",
-          "desc": "1 sheet"
+          "desc": "100 sheet"
         },
         {
           "title": "Media types",
@@ -4167,7 +6254,7 @@
     "type": "Laser",
     "color": "Mono",  
     "category": "printers",
-    "format": "A4",
+    "format": "A3",
     "function": "Multifunction",
     "compatibleIds": [],
     "speed": "27 ppm",
@@ -4315,168 +6402,17 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+      
     }
   },
-  {
-    "id": "cwc-m251",
-    "name": "CWC M251 Color Multifunction Laser Printer",
-    "type": "Laser",
-    "color": "Color",
-    "category": "printers",
-    "format": "A4",
-    "function": "Multifunction",
-    "compatibleIds": [],
-    "speed": "25–26 ppm",
-    "image": "/images/M251/main.webp",
-    "img1": "/images/M251/img1.webp",
-    "img2": "/images/M251/img2.webp",
-    "img3": "/images/M251/img3.webp",
-    "specSummary": [
-      "Printing speed (A4): 25–26 ppm",
-      "Connection method: Network, WiFi and USB",
-      "Print Technology: Laser",
-      "Automatic duplex printing",
-      "One-step driver installation",
-      "Made in India"
-    ],
-    "details": {
-      "print_specification": [
-        {
-          "title": "Print speed",
-          "desc": "25–26 ppm"
-        },
-        {
-          "title": "Monthly Duty Cycle",
-          "desc": "40000 pages"
-        },
-        {
-          "title": "Duplex printing",
-          "desc": "Automatic double-sided"
-        },
-        {
-          "title": "Operating system compatibility",
-          "desc": "Windows Server 2008 R2; Windows; Linux (RHEL, CentOS, Fedora, Ubuntu, BOSS)"
-        }
-      ],
-      "scan_specification": [
-        {
-          "title": "Scan speed",
-          "desc": "B/W: 21 ppm, Color: 20 ppm"
-        },
-        {
-          "title": "Copy speed",
-          "desc": "B/W: 21 ppm, Color: 20 ppm"
-        },
-        {
-          "title": "Scan resolution",
-          "desc": "600 x 600 dpi (Flatbed up to 1200 dpi)"
-        },
-        {
-          "title": "Feeder Type",
-          "desc": "ADF"
-        },
-        {
-          "title": "Feeder Capacity",
-          "desc": "50 pages"
-        },
-        {
-          "title": "Max. scan size",
-          "desc": "A4/Legal"
-        },
-        {
-          "title": "Output function",
-          "desc": "Scan to PC, Email, USB"
-        }
-      ],
-      "paper_handling": [
-        {
-          "title": "Paper input tray",
-          "desc": "250 sheets"
-        },
-        {
-          "title": "Paper output tray",
-          "desc": "100 sheets"
-        },
-        {
-          "title": "Bypass Tray Capacity",
-          "desc": "1 sheet"
-        },
-        {
-          "title": "Media sizes",
-          "desc": "A4, Letter, A5, A6, Custom sizes (100 x 148 mm to 216 x 340 mm)"
-        }
-      ],
-      "general": [
-        {
-          "title": "Processor",
-          "desc": "1.2 GHz"
-        },
-        {
-          "title": "RAM",
-          "desc": "512 MB"
-        },
-        {
-          "title": "Print Resolution",
-          "desc": "600 x 600 dpi (up to 4800 color quality)"
-        },
-        {
-          "title": "Bypass Tray / ADF",
-          "desc": "Yes"
-        },
-        {
-          "title": "Interface",
-          "desc": "Network, WiFi and USB port"
-        },
-        {
-          "title": "Interface Type",
-          "desc": "USB 2.0, Ethernet (10/100/1000), WiFi, USB (Type A)"
-        },
-        {
-          "title": "Power consumption",
-          "desc": "≤ 750W"
-        },
-        {
-          "title": "Power Supply",
-          "desc": "AC 220–240V, 50/60Hz"
-        },
-        {
-          "title": "Country of Origin",
-          "desc": "India"
-        },
-        {
-          "title": "Warranty",
-          "desc": "3 Years Standard Warranty"
-        }
-      ],
-      "consumable": [
-        {
-          "title": "Consumable type",
-          "desc": "Composite"
-        },
-        {
-          "title": "Minimum Cartridge Yield (Starter)",
-          "desc": "Black: 700 pages, CMY: 700 pages"
-        },
-        {
-          "title": "Toner Cartridge",
-          "desc": "Black/Cyan/Magenta/Yellow: CWC-T0251-1.5K"
-        }
-      ]
-    },
-    "drivers": {
-      "Windows": "",
-      "Linux": ""
-    }
-  },
+  
   {
     "id": "cwc-m320",
     "name": "CWC M320 Multifunction Laser Printer",
     "type": "Laser",
     "color": "Mono",
     "category": "printers",
-    "format": "A4",
+    "format": "A3",
     "function": "Multifunction",
     "compatibleIds": [],
     "speed": "23 ppm",
@@ -4628,8 +6564,8 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+      "Windows": "/drivers/RB320.zip",
+      "Linux": "/drivers/RB320.zip"
     }
   },
   {
@@ -4763,8 +6699,7 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+    
     }
   },
   {
@@ -4926,180 +6861,173 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+     
     }
   },
+
   {
-    "id": "cwc-4500s",
-    "name": "CWC 4500S Multifunction Laser Printer",
-    "type": "Laser",
-    "color": "Mono",
-    "category": "printers",
-    "format": "A4",
-     "function": "Multifunction",
-    "compatibleIds": [],
-    "speed": "42–44 ppm",
-    "image": "/images/4500s/main.webp",
-    "img1": "/images/4500s/img1.webp",
-    "img2": "/images/4500s/img2.webp",
-    "img3": "/images/4500s/img3.webp",
-    "specSummary": [
-      "Printing speed (A4): 42–44 ppm",
-      "Connection method: Network, WiFi, USB, Bluetooth",
-      "Print Technology: Laser",
-      "Automatic duplex printing",
-      "Flatbed + DADF scanning",
-      "Touchscreen control panel"
+  "id": "cwc-m5030dnw",
+  "name": "CWC M5030DN/W Multifunction Laser Printer",
+  "type": "Laser",
+  "color": "Mono",
+  "category": "printers",
+  "format": "A4",
+  "function": "Print, Scan & Copy",
+  "compatibleIds": [],
+  "speed": "33 ppm",
+  "image": "/images/cwc-m5030dnw/main.webp",
+  "img1": "/images/cwc-m5030dnw/img1.webp",
+  "img2": "/images/cwc-m5030dnw/img2.webp",
+  "img3": "/images/cwc-m5030dnw/img3.webp",
+  "specSummary": [
+    "Printing speed (A4): 33 ppm",
+    "Connection method: Network, WiFi and USB"
+  ],
+  "details": {
+    "print_specification": [
+      {
+        "title": "Print speed",
+        "desc": "33 ppm"
+      },
+      {
+        "title": "Monthly Duty Cycle",
+        "desc": "75000*"
+      },
+      {
+        "title": "Print Resolution",
+        "desc": "1200 x 1200 dpi"
+      },
+      {
+        "title": "Duplex printing",
+        "desc": "Automatic"
+      },
+      {
+        "title": "Feeder Type",
+        "desc": "ADF"
+      },
+      {
+        "title": "Operating system compatibility",
+        "desc": "Windows Server 2008/2012/2016/2019/2022, Windows 7/8/8.1/10/11; macOS 10.9–14.3; Linux (Ubuntu/Debian/CentOS/Red Hat); Android 8+; iOS 13+; HarmonyOS."
+      }
     ],
-    "details": {
-      "print_specification": [
-        {
-          "title": "Print speed",
-          "desc": "42 ppm (A4), 44 ppm (Letter)"
-        },
-        {
-          "title": "First Print Out Time",
-          "desc": "< 5.95 seconds"
-        },
-        {
-          "title": "Monthly Duty Cycle",
-          "desc": "150000 pages"
-        },
-        {
-          "title": "Print Languages",
-          "desc": "PCL5e, PCL6, PS, GDI"
-        },
-        {
-          "title": "Processor",
-          "desc": "1.2 GHz"
-        },
-        {
-          "title": "RAM",
-          "desc": "512MB / 1GB / 2GB"
-        },
-        {
-          "title": "Display",
-          "desc": "3.5-inch touch screen"
-        },
-        {
-          "title": "Duplex printing",
-          "desc": "Automatic double-sided"
-        },
-        {
-          "title": "Mobile printing",
-          "desc": "iOS and Android supported"
-        },
-        {
-          "title": "Operating system compatibility",
-          "desc": "Windows Server 2008/2012/2016/2019/2022; Windows; macOS 10.9–14.3; Linux (RHEL, CentOS, Fedora, Ubuntu); Android 8+; iOS 13+"
-        }
-      ],
-      "scan_specification": [
-        {
-          "title": "Scanner type",
-          "desc": "Flatbed + DADF / RADF / SPDF"
-        },
-        {
-          "title": "Scan speed",
-          "desc": "24 ppm / 48 ipm (A4), 25 ppm / 50 ipm (Letter)"
-        },
-        {
-          "title": "Scan resolution",
-          "desc": "Flatbed: 1200 x 1200 dpi; ADF: 600 x 600 dpi"
-        },
-        {
-          "title": "Scan destinations",
-          "desc": "PC, Email, FTP, SMB, USB"
-        },
-        {
-          "title": "ADF Capacity",
-          "desc": "50 pages"
-        },
-        {
-          "title": "Max. scan size",
-          "desc": "216 x 356 mm"
-        }
-      ],
-      "paper_handling": [
-        {
-          "title": "Paper input tray",
-          "desc": "250 sheets + MP: 100 sheets + Optional: 550 sheets"
-        },
-        {
-          "title": "Paper output tray",
-          "desc": "150 sheets"
-        },
-        {
-          "title": "Media sizes",
-          "desc": "Legal, Executive, Folio, DL, C5, C6, No.10, Postcard, Envelopes"
-        },
-        {
-          "title": "Paper weight",
-          "desc": "60–120 gsm (Input), 60–200 gsm (MP)"
-        },
-        {
-          "title": "Max size supported",
-          "desc": "216 x 356 mm"
-        }
-      ],
-      "general": [
-        {
-          "title": "Function",
-          "desc": "Print, Copy, Scan, Fax (Optional)"
-        },
-        {
-          "title": "Copy speed",
-          "desc": "42 cpm (A4), 44 cpm (Letter)"
-        },
-        {
-          "title": "Copy zoom",
-          "desc": "25% – 400%"
-        },
-        {
-          "title": "Interface",
-          "desc": "USB 2.0, Ethernet, WiFi, Bluetooth"
-        },
-        {
-          "title": "Power consumption",
-          "desc": "Operating: 760W, Standby: 70W, Sleep: 0.61W"
-        },
-        {
-          "title": "Country of Origin",
-          "desc": "India"
-        },
-        {
-          "title": "Warranty",
-          "desc": "1 Year Standard Warranty"
-        }
-      ],
-      "consumable": [
-        {
-          "title": "Consumable type",
-          "desc": "Separate drum and toner"
-        },
-        {
-          "title": "Minimum Cartridge Yield (Starter)",
-          "desc": "3000 pages"
-        },
-        {
-          "title": "Toner Cartridge",
-          "desc": "CWC-T4500"
-        }
-      ]
-    },
-    "drivers": {
-      "Windows": "",
-      "Linux": ""
-    }
+    "scan_specification": [
+      {
+        "title": "Function Type",
+        "desc": "Multifunction (Print, Scan & Copy)"
+      },
+      {
+        "title": "Scan speed",
+        "desc": "ADF : 17PPM"
+      },
+      {
+        "title": "Copy speed",
+        "desc": "ADF : 1. Multi pages copy-17ppm ; 2. Single page-28ppm"
+      },
+      {
+        "title": "Scan resolution",
+        "desc": "600 dpi (Max), 300 dpi (Default)"
+      },
+      {
+        "title": "Max. scan size",
+        "desc": "A4/Legal"
+      },
+      {
+        "title": "Feeder Capacity",
+        "desc": "50 Pages"
+      }
+    ],
+    "paper_handling": [
+      {
+        "title": "Paper input tray",
+        "desc": "250 sheets"
+      },
+      {
+        "title": "Paper output tray",
+        "desc": "100 sheets"
+      },
+      {
+        "title": "Media sizes",
+        "desc": "A4, Letter, Legal, B5 (ISO), B5 (JIS), Executive, A5, Envelope (Monarch), 60~120 g/m²"
+      }
+    ],
+    "general": [
+      {
+        "title": "Processor",
+        "desc": "1.2 GHz"
+      },
+      {
+        "title": "RAM",
+        "desc": "512 MB"
+      },
+      {
+        "title": "Bypass Tray / ADF",
+        "desc": "Yes"
+      },
+      {
+        "title": "Bypass Tray Capacity",
+        "desc": "1 sheet"
+      },
+      {
+        "title": "Interface",
+        "desc": "Network, WiFi and USB port"
+      },
+      {
+        "title": "Dimension",
+        "desc": "40.5 × 33.5 × 36 cm (W×D×H)"
+      },
+      {
+        "title": "Package size (D×W×H)",
+        "desc": "53.8 × 43.8 × 48 cm"
+      },
+      {
+        "title": "Weight",
+        "desc": "11.7 kg"
+      },
+      {
+        "title": "Gross Weight",
+        "desc": "13 kg"
+      },
+      {
+        "title": "Power Consumption",
+        "desc": "400 W (Printing), 3 W (Sleep Mode)"
+      },
+      {
+        "title": "Power Supply",
+        "desc": "220–240V AC, ~50/60Hz (110V optional)"
+      }
+    ],
+    "consumable": [
+      {
+        "title": "Consumable type",
+        "desc": "Separate Drum and Toner / Composite"
+      },
+      {
+        "title": "Minimum Cartridge Yield (Starter)",
+        "desc": "3000 pages"
+      },
+      {
+        "title": "Toner Cartridge",
+        "desc": "CWC TE503S"
+      },
+      {
+        "title": "Drum Unit",
+        "desc": "CWC DM503"
+      }
+    ]
   },
+  "manual": "",
+  "drivers": {
+  "Windows": "/drivers/CWC_M5030_WINDOWS.zip",
+  "Linux": "/drivers/CWC_M5030_LINUX.zip"
+}
+},
   {
     "id": "cwc-8200s-color",
     "name": "CWC 8200S Multifunction Color Laser Printer",
     "type": "Laser",
     "color": "Color",
     "category": "printers",
-    "format": "A4",
+    "format": "A3",
     "function": "Multifunction",
     "compatibleIds": [],
     "speed": "30–70 ppm",
@@ -5231,17 +7159,17 @@
       "consumable": []
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+    
     }
   },
+
   {
     "id": "cwc-8200s-mono",
     "name": "CWC 8200S Multifunction Mono Laser Printer",
     "type": "Laser",
     "color": "Mono",
     "category": "printers",
-    "format": "A4",
+    "format": "A3",
     "function": "Multifunction",
     "compatibleIds": [],
     "speed": "45–72 ppm",
@@ -5373,8 +7301,7 @@
       "consumable": []
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+      
     }
   },
   {
@@ -5383,7 +7310,7 @@
     "type": "Laser",
     "color": "Color",
     "category": "printers",
-    "format": "A4",
+    "format": "A3",
     "function": "Print Only",
     "compatibleIds": [],
     "speed": "Up to 35 ppm",
@@ -5498,131 +7425,10 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+      
     }
   },
-  {
-    "id": "cwc-p310",
-    "name": "CWC P310 Laser Printer",
-    "type": "Laser",
-    "color": "Mono",
-    "category": "printers",
-    "format": "A4",
-    "function": "Print Only",
-    "compatibleIds": [],
-    "speed": "31–35 ppm",
-    "image": "/images/P310/main.webp",
-    "img1": "/images/P310/img1.webp",
-    "img2": "/images/P310/img2.webp",
-    "img3": "/images/P310/img3.webp",
-    "specSummary": [
-      "Printing speed (A4): 31–35 ppm",
-      "Connection method: Network, WiFi and USB",
-      "Print Technology: Laser",
-      "Automatic duplex printing",
-      "One-step driver installation",
-      "Made in India"
-    ],
-    "details": {
-      "print_specification": [
-        {
-          "title": "Print speed",
-          "desc": "31–35 ppm"
-        },
-        {
-          "title": "Monthly Duty Cycle",
-          "desc": "80000 pages"
-        },
-        {
-          "title": "Duplex printing",
-          "desc": "Automatic double-sided"
-        },
-        {
-          "title": "Operating system compatibility",
-          "desc": "Windows Server 2003/2008/2012; Windows XP/Vista/7/8/8.1/10/11; macOS 10.7–12; Linux (Ubuntu)"
-        }
-      ],
-      "paper_handling": [
-        {
-          "title": "Paper input tray",
-          "desc": "250 sheets + Bypass: 1 sheet"
-        },
-        {
-          "title": "Paper output tray",
-          "desc": "150 sheets"
-        },
-        {
-          "title": "Media sizes",
-          "desc": "A4, A5, B5, A6, Letter, Legal, Executive, Folio, Envelopes, Postcards"
-        }
-      ],
-      "general": [
-        {
-          "title": "Function",
-          "desc": "Print"
-        },
-        {
-          "title": "Processor",
-          "desc": "800 MHz"
-        },
-        {
-          "title": "RAM",
-          "desc": "256 MB"
-        },
-        {
-          "title": "Print Resolution",
-          "desc": "1200 x 1200 dpi"
-        },
-        {
-          "title": "First output speed",
-          "desc": "≤ 8.2 seconds"
-        },
-        {
-          "title": "Interface",
-          "desc": "Network, WiFi and USB port"
-        },
-        {
-          "title": "Interface Type",
-          "desc": "USB 2.0, Ethernet (10/100), WiFi (802.11 b/g/n)"
-        },
-        {
-          "title": "Power consumption",
-          "desc": "525W"
-        },
-        {
-          "title": "Country of Origin",
-          "desc": "India"
-        },
-        {
-          "title": "Warranty",
-          "desc": "1 Year Standard Warranty"
-        }
-      ],
-      "consumable": [
-        {
-          "title": "Consumable type",
-          "desc": "Separate drum and toner / composite"
-        },
-        {
-          "title": "Minimum Cartridge Yield (Starter)",
-          "desc": "1500 pages"
-        },
-        {
-          "title": "Toner Cartridge",
-          "desc": "CWC-T310"
-        },
-        {
-          "title": "Drum Unit",
-          "desc": "CWC-D310"
-        }
-      ]
-    },
-    "drivers": {
-      "Windows": "/drivers/P310.zip",
-      "Linux": "/drivers/P310.zip"
-    }
-  },
+  
   {
     "id": "cwc-p5036",
     "name": "CWC P5036 Laser Printer",
@@ -5732,135 +7538,10 @@
       ]
     },
     "drivers": {
-      "Windows": "",
-      "Linux": ""
+    
     }
   },
-  {
-    "id": "cwc-p211",
-    "name": "CWC P211 Laser Printer",
-    "type": "Laser",
-    "color": "Color",
-    "category": "printers",
-    "format": "A4",
-    "function": "Print Only",
-    "compatibleIds": [],
-    "speed": "25–26 ppm",
-    "image": "/images/P211/main.webp",
-    "img1": "/images/P211/img1.webp",
-    "img2": "/images/P211/img2.webp",
-    "img3": "/images/P211/img3.webp",
-    "specSummary": [
-      "Printing speed (A4): 25–26 ppm",
-      "Connection method: Network, WiFi and USB",
-      "Print Technology: Laser",
-      "Automatic duplex printing",
-      "One-step driver installation",
-      "Made in India"
-    ],
-    "details": {
-      "print_specification": [
-        {
-          "title": "Print speed",
-          "desc": "25–26 ppm"
-        },
-        {
-          "title": "Monthly Duty Cycle",
-          "desc": "50000 pages"
-        },
-        {
-          "title": "Duplex printing",
-          "desc": "Automatic double-sided"
-        },
-        {
-          "title": "Operating system compatibility",
-          "desc": "Windows Server 2008; Windows; Linux (RHEL, CentOS, Fedora, Ubuntu)"
-        }
-      ],
-      "paper_handling": [
-        {
-          "title": "Paper input tray",
-          "desc": "250 sheets"
-        },
-        {
-          "title": "Paper output tray",
-          "desc": "100 sheets"
-        },
-        {
-          "title": "Bypass tray",
-          "desc": "1 sheet"
-        },
-        {
-          "title": "Media sizes",
-          "desc": "A4, Letter, A5, A6, Custom sizes (100 x 148 mm to 216 x 340 mm)"
-        }
-      ],
-      "general": [
-        {
-          "title": "Function",
-          "desc": "Print"
-        },
-        {
-          "title": "Processor",
-          "desc": "1 GHz"
-        },
-        {
-          "title": "RAM",
-          "desc": "256 MB / 512 MB"
-        },
-        {
-          "title": "Print Resolution",
-          "desc": "600 x 600 dpi (up to 4800 quality)"
-        },
-        {
-          "title": "Bypass tray",
-          "desc": "Yes"
-        },
-        {
-          "title": "Interface",
-          "desc": "Network, WiFi and USB port"
-        },
-        {
-          "title": "Interface Type",
-          "desc": "USB 2.0, Ethernet (10/100/1000), WiFi, USB Host"
-        },
-        {
-          "title": "Power consumption",
-          "desc": "≤417W"
-        },
-        {
-          "title": "Power Supply",
-          "desc": "220–240V AC, 50/60Hz"
-        },
-        {
-          "title": "Country of Origin",
-          "desc": "India"
-        },
-        {
-          "title": "Warranty",
-          "desc": "3 Years Standard Warranty"
-        }
-      ],
-      "consumable": [
-        {
-          "title": "Consumable type",
-          "desc": "Composite"
-        },
-        {
-          "title": "Minimum Cartridge Yield (Starter)",
-          "desc": "Black: 700 pages, CMY: 700 pages"
-        },
-        {
-          "title": "Toner Cartridge",
-          "desc": "CWC-T0251 Black, Cyan, Magenta, Yellow"
-        }
-      ]
-    },
-    "drivers": {
-      "Windows": "/drivers/P211.zip",
-      "Linux": "/drivers/P211.zip"
-    }
-  },
+  
   {
     "id": "cwc-p311",
     "name": "CWC P311 Laser Printer",
@@ -5992,8 +7673,8 @@
       ]
     },
     "drivers": {
-      "Windows": "/drivers/P311.zip",
-      "Linux": "/drivers/P311.zip"
+      "Windows": "/drivers/RC311.zip",
+      "Linux": "/drivers/RC311.zip"
     }
   },
   {
@@ -6123,138 +7804,12 @@
         }
       ]
     },
-    "drivers": {
-      "Windows": "/drivers/CWCP.zip",
-      "Linux": "/drivers/CWCP.zip"
-    }
+   "drivers": {
+  "Windows": "/drivers/CWC_P5040_WINDOWS.zip",
+  "Linux": "/drivers/CWC_P5040_LINUX.zip"
+}
   },
-  {
-    "id": "cwc-p4843",
-    "name": "CWC P4843 Laser Printer",
-    "type": "Laser",
-    "color": "Mono",
-    "category": "printers",
-    "format": "A4",
-    "function": "Print Only",
-    "compatibleIds": [],
-    "speed": "41–45 ppm",
-    "image": "/images/P4843/main.webp",
-    "img1": "/images/P4843/img1.webp",
-    "img2": "/images/P4843/img2.webp",
-    "img3": "/images/P4843/img3.webp",
-    "specSummary": [
-      "Printing speed (A4): 41–45 ppm",
-      "Connection method: Network, WiFi and USB",
-      "Print Technology: Laser",
-      "Automatic duplex printing",
-      "One-step driver installation",
-      "Silent printing with reduced noise"
-    ],
-    "details": {
-      "print_specification": [
-        {
-          "title": "Print speed",
-          "desc": "41–45 ppm"
-        },
-        {
-          "title": "Monthly duty cycle",
-          "desc": "150,000 pages"
-        },
-        {
-          "title": "Duplex printing",
-          "desc": "Automatic double-sided"
-        },
-        {
-          "title": "Operating system compatibility",
-          "desc": "Windows Server 2003/2008/2012, Windows XP/7/8/8.1/10/11, macOS 10.7–12, Linux (RHEL, CentOS, Fedora, Ubuntu)"
-        }
-      ],
-      "paper_handling": [
-        {
-          "title": "Paper input tray",
-          "desc": "250 sheets + 100-sheet bypass tray (optional 550-sheet tray)"
-        },
-        {
-          "title": "Paper output tray",
-          "desc": "150 sheets"
-        },
-        {
-          "title": "Media sizes",
-          "desc": "A4, A5, A6, B5 (ISO/JIS), Letter, Legal, Executive, Folio, Oficio, Statement, Postcard formats"
-        }
-      ],
-      "general": [
-        {
-          "title": "Function",
-          "desc": "Print"
-        },
-        {
-          "title": "Processor",
-          "desc": "1.2 GHz"
-        },
-        {
-          "title": "RAM",
-          "desc": "512 MB"
-        },
-        {
-          "title": "Print resolution",
-          "desc": "1200 x 1200 dpi"
-        },
-        {
-          "title": "First print out time",
-          "desc": "≤ 6.9 seconds"
-        },
-        {
-          "title": "Interface",
-          "desc": "Network, WiFi and USB"
-        },
-        {
-          "title": "Interface type",
-          "desc": "USB 2.0, Ethernet (10/100/1000), WiFi (2.4/5GHz)"
-        },
-        {
-          "title": "Power consumption",
-          "desc": "650W"
-        },
-        {
-          "title": "Country of origin",
-          "desc": "India"
-        },
-        {
-          "title": "Warranty",
-          "desc": "1 Year Standard Warranty"
-        }
-      ],
-      "package_specification": [
-        {
-          "title": "Dimensions (D×W×H)",
-          "desc": "364 x 344 x 257 mm"
-        },
-        {
-          "title": "Product weight",
-          "desc": "9.3 kg"
-        }
-      ],
-      "consumable": [
-        {
-          "title": "Consumable type",
-          "desc": "Composite"
-        },
-        {
-          "title": "Minimum cartridge yield (starter)",
-          "desc": "3000 pages"
-        },
-        {
-          "title": "Toner cartridge",
-          "desc": "CWC T4843"
-        }
-      ]
-    },
-    "drivers": {
-      "Windows": "/drivers/4843.zip",
-      "Linux": "/drivers/4843.zip"
-    }
-  },
+  
   {
     "id": "cwc-p5030dnw",
     "name": "CWC P5030DN/W Laser Printer",
@@ -6383,9 +7938,9 @@
       ]
     },
     "drivers": {
-      "Windows": "/drivers/CWCP.zip",
-      "Linux": "/drivers/CWCP.zip"
-    }
+  "Windows": "/drivers/CWC_P5030_WINDOWS.zip",
+  "Linux": "/drivers/CWC_P5030_LINUX.zip"
+}
   },
   {
     "id": "cwc-p5010dnw",
@@ -6507,9 +8062,9 @@
       ]
     },
     "drivers": {
-      "Windows": "/drivers/CWCP.zip",
-      "Linux": "/drivers/CWCP.zip"
-    }
+  "Windows": "/drivers/CWC_P5010_WINDOWS.zip",
+  "Linux": "/drivers/CWC_P5010_LINUX.zip"
+}
   },
   {
     "id": "cwc-pb5020nw",
@@ -6626,10 +8181,10 @@
         }
       ]
     },
-    "drivers": {
-      "Windows": "/drivers/CWCP.zip",
-      "Linux": "/drivers/CWCP.zip"
-    }
+   "drivers": {
+  "Windows": "/drivers/CWC_PB5020_WINDOWS.zip",
+  "Linux": "/drivers/CWC_PB5020_LINUX.zip"
+}
   },
   {
     "id": "cwc-p5020",
@@ -6747,8 +8302,8 @@
       ]
     },
     "drivers": {
-      "Windows": "/drivers/CWCP.zip",
-      "Linux": "/drivers/CWCP.zip"
+      "Windows": "/drivers/320.zip",
+      "Linux": "/drivers/320.zip"
     }
   },
   {
@@ -6961,7 +8516,11 @@
           "desc": "CWC-T230"
         }
       ]
-    }
+    },
+    "drivers": {
+    "Windows": "/drivers/XP230.zip",
+    "Linux": "/drivers/XP230.zip"
+  }
   },
   {
     "id": "cwc-p330",
@@ -7761,6 +9320,144 @@
       ]
     }
   },
+  {
+  "id": "4055-Tray-Single",
+  "name": "CWC 4055 Single Tray",
+  "type": "Tray",
+  "category": "consumables",
+  "format": "A4",
+  "compatibleIds": ["cwc-4055"],
+  "image": "/images/Tray/4055-Tray/main.webp",
+  "img1": "/images/Tray/4055-Tray/img1.webp",
+  "img2": "/images/Tray/4055-Tray/img2.webp",
+  "img3": "/images/Tray/4055-Tray/img3.webp",
+  "specSummary": [
+    "Capacity: 550 sheets",
+    "Compatible with CWC 4055"
+  ],
+  "details": {
+    "general": [
+      { "title": "Capacity", "desc": "550 sheets" },
+      { "title": "Compatibility", "desc": "CWC 4055" }
+    ],
+    "consumable": []
+  }
+},
+{
+  "id": "4055-Tray-Double",
+  "name": "CWC 4055 Double Tray",
+  "type": "Tray",
+  "category": "consumables",
+  "format": "A4",
+  "compatibleIds": ["cwc-4055"],
+  "image": "/images/Tray/4055-Tray-Double/main.webp",
+  "img1": "/images/Tray/4055-Tray-Double/img1.webp",
+  "img2": "/images/Tray/4055-Tray-Double/img2.webp",
+  "img3": "/images/Tray/4055-Tray-Double/img3.webp",
+  "specSummary": [
+    "Capacity: 550 sheets",
+    "Compatible with CWC 4055"
+  ],
+  "details": {
+    "general": [
+      { "title": "Capacity", "desc": "550 sheets" },
+      { "title": "Compatibility", "desc": "CWC 4055" }
+    ],
+    "consumable": []
+  }
+},
+{
+  "id": "4500s-Tray-Single",
+  "name": "CWC 4500s Single Tray",
+  "type": "Tray",
+  "category": "consumables",
+  "format": "A4",
+  "compatibleIds": ["cwc-4500s"],
+  "image": "/images/Tray/4500s-Tray/main.webp",
+  "img1": "/images/Tray/4500s-Tray/img1.webp",
+  "img2": "/images/Tray/4500s-Tray/img2.webp",
+  "img3": "/images/Tray/4500s-Tray/img3.webp",
+  "specSummary": [
+    "Capacity: 550 sheets",
+    "Compatible with CWC 4500s"
+  ],
+  "details": {
+    "general": [
+      { "title": "Capacity", "desc": "550 sheets" },
+      { "title": "Compatibility", "desc": "CWC 4500s" }
+    ],
+    "consumable": []
+  }
+},
+{
+  "id": "4500s-Tray-Double",
+  "name": "CWC 4500s Double Tray",
+  "type": "Tray",
+  "category": "consumables",
+  "format": "A4",
+  "compatibleIds": ["cwc-4500s"],
+  "image": "/images/Tray/4500s-Tray-Double/main.webp",
+  "img1": "/images/Tray/4500s-Tray-Double/img1.webp",
+  "img2": "/images/Tray/4500s-Tray-Double/img2.webp",
+  "img3": "/images/Tray/4500s-Tray-Double/img3.webp",
+  "specSummary": [
+    "Capacity: 550 sheets",
+    "Compatible with CWC 4500s"
+  ],
+  "details": {
+    "general": [
+      { "title": "Capacity", "desc": "550 sheets" },
+      { "title": "Compatibility", "desc": "CWC 4500s" }
+    ],
+    "consumable": []
+  }
+},
+{
+  "id": "P4843-Tray-Single",
+  "name": "CWC P4843 Single Tray",
+  "type": "Tray",
+  "category": "consumables",
+  "format": "A4",
+  "compatibleIds": ["cwc-p4843"],
+  "image": "/images/Tray/P4843-Tray/main.webp",
+  "img1": "/images/Tray/P4843-Tray/img1.webp",
+  "img2": "/images/Tray/P4843-Tray/img2.webp",
+  "img3": "/images/Tray/P4843-Tray/img3.webp",
+  "specSummary": [
+    "Capacity: 550 sheets",
+    "Compatible with CWC P4843"
+  ],
+  "details": {
+    "general": [
+      { "title": "Capacity", "desc": "550 sheets" },
+      { "title": "Compatibility", "desc": "CWC P4843" }
+    ],
+    "consumable": []
+  }
+},
+{
+  "id": "P4843-Tray-Double",
+  "name": "CWC P4843 Double Tray",
+  "type": "Tray",
+  "category": "consumables",
+  "format": "A4",
+  "compatibleIds": ["cwc-p4843"],
+  "image": "/images/Tray/P4843-Tray-Double/main.webp",
+  "img1": "/images/Tray/P4843-Tray-Double/img1.webp",
+  "img2": "/images/Tray/P4843-Tray-Double/img2.webp",
+  "img3": "/images/Tray/P4843-Tray-Double/img3.webp",
+  "specSummary": [
+    "High capacity paper tray",
+    "Compatible with CWC P4843"
+  ],
+  "details": {
+    "general": [
+      { "title": "Capacity", "desc": "550 sheets" },
+      { "title": "Compatibility", "desc": "CWC P4843" }
+    ],
+    "consumable": []
+  }
+},
   {
     "id": "cwc-te502s",
     "name": "CWC TE502S Toner Cartridge",

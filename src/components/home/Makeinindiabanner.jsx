@@ -18,7 +18,7 @@ function useInView(threshold = 0.1) {
     if (!el) return;
     const obs = new IntersectionObserver(
       ([e]) => { if (e.isIntersecting) { setInView(true); obs.disconnect(); } },
-      { threshold }
+        { threshold }
     );
     obs.observe(el);
     return () => obs.disconnect();
@@ -30,11 +30,13 @@ function LionLogo() {
   return (
     <div className="flex items-center justify-center gap-3 mb-5">
       <div className="relative flex-shrink-0">
-        <svg width="56" height="56" viewBox="0 0 56 56" fill="none" aria-hidden="true">
-          <circle cx="28" cy="28" r="26" fill="#E07020" fillOpacity="0.18" />
-          <circle cx="28" cy="28" r="20" stroke="#E07020" strokeWidth="1" strokeOpacity="0.4" fill="none" />
-          <text x="28" y="37" textAnchor="middle" fontSize="22" fontFamily="serif">🦁</text>
-        </svg>
+        <img
+          src="/images/min.png"
+          alt="Make In India Logo"
+          width={56}
+          height={56}
+          className="rounded-full object-cover"
+        />
       </div>
       <div className="text-left">
         {/* Light: dark text. Dark: white text */}
@@ -107,7 +109,7 @@ export default function MakeInIndiaBanner() {
           {/* Tagline */}
           <p className="italic text-base md:text-lg mb-10 relative z-10
             text-gray-500 dark:text-white/50">
-            "Desh Ki Samrudhi, Dil Se Swadeshi"
+            "देश की समृद्धि, दिल से स्वदेशी"
           </p>
 
           {/* Pills — light: bordered on white bg; dark: glassy white */}
@@ -130,7 +132,7 @@ export default function MakeInIndiaBanner() {
 
           {/* CTA — light: dark pill; dark: white pill */}
           <Link
-            to="/about"
+            to=""
             className="inline-flex items-center gap-2 font-bold px-8 py-4 rounded-2xl
               transition-all shadow-lg hover:-translate-y-0.5 relative z-10
               bg-brand-text dark:bg-white

@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState, memo } from 'react';
 import { Link } from 'react-router-dom';
 import { ChevronRight } from 'lucide-react';
 
@@ -24,24 +24,53 @@ const stats = [
   { num: 'ZED', label: 'Zero Defect'    },
 ];
 
-function useInView(threshold = 0.1) {
+// Fixed threshold constant so the effect's dependency array never
+// changes identity between renders (a common cause of re-run loops
+// when a literal like `0.1` is passed inline as a default param and
+// the consuming component re-renders for unrelated reasons).
+const DEFAULT_THRESHOLD = 0.1;
+
+function useInView(threshold = DEFAULT_THRESHOLD) {
   const ref = useRef(null);
   const [inView, setInView] = useState(false);
+  const hasTriggered = useRef(false); // extra guard against double-firing
+
   useEffect(() => {
     const el = ref.current;
-    if (!el) return;
-    const obs = new IntersectionObserver(
-      ([e]) => { if (e.isIntersecting) { setInView(true); obs.disconnect(); } },
-      { threshold }
-    );
-    obs.observe(el);
-    return () => obs.disconnect();
-  }, [threshold]);
+    if (!el || hasTriggered.current) return;
+
+    let obs;
+    try {
+      obs = new IntersectionObserver(
+        (entries) => {
+          const entry = entries[0];
+          if (entry && entry.isIntersecting && !hasTriggered.current) {
+            hasTriggered.current = true;
+            setInView(true);
+            obs.disconnect();
+          }
+        },
+        { threshold }
+      );
+      obs.observe(el);
+    } catch (err) {
+      // Fail safe: if IntersectionObserver isn't available/throws,
+      // just show the content instead of leaving it stuck invisible.
+      hasTriggered.current = true;
+      setInView(true);
+    }
+
+    return () => {
+      if (obs) obs.disconnect();
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []); // intentionally empty — this should only ever run once per mount
+
   return [ref, inView];
 }
 
-export default function CertificationsSection() {
-  const [ref, inView] = useInView(0.1);
+function CertificationsSection() {
+  const [ref, inView] = useInView();
 
   return (
     <section className="py-24 bg-brand-primary dark:bg-brand-darkBg transition-colors duration-500 overflow-hidden relative">
@@ -70,7 +99,7 @@ export default function CertificationsSection() {
                 const isLastCol = (i + 1) % 4 === 0;
                 return (
                   <div
-                    key={i}
+                    key={c.name}
                     className={`py-5 px-3
                       ${!isLastRow ? 'border-b border-gray-300 dark:border-white/10' : ''}
                       ${!isLastCol ? 'border-r border-gray-300 dark:border-white/10' : ''}`}
@@ -128,7 +157,7 @@ export default function CertificationsSection() {
 
             {/* CTA */}
             <Link
-              to="/certifications"
+              to="/about#certifications"
               className="inline-flex items-center gap-1 font-semibold text-sm transition-colors
                 text-orange-500 dark:text-orange-400
                 hover:text-orange-600 dark:hover:text-orange-300"
@@ -143,3 +172,5 @@ export default function CertificationsSection() {
     </section>
   );
 }
+
+export default memo(CertificationsSection);

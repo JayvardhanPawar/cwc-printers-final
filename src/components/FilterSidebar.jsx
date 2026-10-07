@@ -1,10 +1,13 @@
 import { useSearchParams } from 'react-router-dom';
 import { Check } from 'lucide-react';
 
+// ✅ Tray added
+const CONSUMABLE_TYPES = ['Cartridge', 'Toner', 'Drum Unit', 'Tray'];
+
 export default function FilterSidebar() {
   const [searchParams, setSearchParams] = useSearchParams();
 
-  // ✅ FIX: Read category from URL only — never derive it.
+  // Read category from URL only — never derive it.
   const currentCategory = searchParams.get('category') || 'all';
 
   const handleFilterChange = (key, value) => {
@@ -17,7 +20,7 @@ export default function FilterSidebar() {
       newParams.set(key, value);
     }
 
-    // ✅ FIX: Preserve the category param so it isn't silently dropped on filter toggle.
+    // Preserve the category param so it isn't silently dropped on filter toggle.
     if (currentCategory !== 'all' && !newParams.has('category')) {
       newParams.set('category', currentCategory);
     }
@@ -25,7 +28,7 @@ export default function FilterSidebar() {
     setSearchParams(newParams);
   };
 
-  // ✅ FIX: "Clear All" only wipes attribute filters — it preserves the active category tab.
+  // "Clear All" only wipes attribute filters — it preserves the active category.
   const handleClearFilters = () => {
     setSearchParams(currentCategory !== 'all' ? { category: currentCategory } : {});
   };
@@ -58,10 +61,25 @@ export default function FilterSidebar() {
 
   return (
     <aside className="w-full md:w-64 shrink-0 bg-white dark:bg-brand-darkCard p-6 rounded-xl shadow-sm border border-brand-secondary dark:border-gray-800 h-fit sticky top-24">
-      <FilterSection title="Printer Type" filterKey="type" options={['Laser', 'Inkjet', 'Barcode']} />
-      <FilterSection title="Color"        filterKey="color"    options={['Color', 'Mono']} />
-      <FilterSection title="Format"       filterKey="format"   options={['A3', 'A4']} />
-      <FilterSection title="Function"     filterKey="function" options={['Print Only', 'Multifunction']} />
+      {(currentCategory === 'printers' || currentCategory === 'all') && (
+        <>
+          <FilterSection title="Printer Type" filterKey="type"     options={['Laser', 'Inkjet', 'Barcode']} />
+          <FilterSection title="Color"        filterKey="color"    options={['Color', 'Mono']} />
+          <FilterSection title="Format"       filterKey="format"   options={['A3', 'A4']} />
+          <FilterSection title="Function"     filterKey="function" options={['Print Only', 'Multifunction']} />
+        </>
+      )}
+
+      {currentCategory === 'scanners' && (
+        <>
+          <FilterSection title="Scanner Type"   filterKey="type"   options={['Flatbed', 'Document', 'Portable']} />
+          <FilterSection title="Max Paper Size" filterKey="format" options={['A3', 'A4', 'Legal']} />
+        </>
+      )}
+
+      {currentCategory === 'consumables' && (
+        <FilterSection title="Supply Type" filterKey="type" options={CONSUMABLE_TYPES} />
+      )}
 
       <button
         onClick={handleClearFilters}

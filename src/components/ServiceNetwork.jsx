@@ -42,7 +42,7 @@ export default function ServiceNetwork() {
             </p>
           </div>
 
-          <div className="relative w-full md:w-72">
+          {/* <div className="relative w-full md:w-72">
             <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400" />
             <input 
               type="text"
@@ -56,7 +56,7 @@ export default function ServiceNetwork() {
                 <X className="w-3 h-3" />
               </button>
             )}
-          </div>
+          </div> */}
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">

@@ -1,0 +1,851 @@
+[
+  {
+    "id": "cwc-dm504",
+    "name": "CWC DM504 Drum Unit",
+    "type": "Drum Unit",
+    "subType": "drum",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 30000 pages",
+    "compatiblePrinters": [
+      "cwc-p5040dnw",
+      "cwc-m5040dnw"
+    ],
+    "image": "/images/CARTRIDGES/DM504/main.webp",
+    "img1": "/images/CARTRIDGES/DM504/img1.webp",
+    "img2": "/images/CARTRIDGES/DM504/img2.webp",
+    "img3": "/images/CARTRIDGES/DM504/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Drum Unit",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: DM504",
+      "Page Yield: Up to 30000 pages",
+      "Compatible with: CWC P5040DN/W, CWC M5040DN/W"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Drum Unit"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "DM504"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 30000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC P5040DN/W, CWC M5040DN/W"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-dm503",
+    "name": "CWC DM503 Drum Unit",
+    "type": "Drum Unit",
+    "subType": "drum",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 12000 pages",
+    "compatiblePrinters": [
+      "cwc-p5030dnw",
+      "cwc-m5030dnw"
+    ],
+    "image": "/images/CARTRIDGES/DM503/main.webp",
+    "img1": "/images/CARTRIDGES/DM503/img1.webp",
+    "img2": "/images/CARTRIDGES/DM503/img2.webp",
+    "img3": "/images/CARTRIDGES/DM503/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Drum Unit",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: DM503",
+      "Page Yield: Up to 12000 pages",
+      "Compatible with: CWC P5030DN/W, CWC M5030DN/W"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Drum Unit"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "DM503"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 12000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC P5030DN/W, CWC M5030DN/W"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-d0235",
+    "name": "CWC D0235 Drum Unit",
+    "type": "Drum Unit",
+    "subType": "drum",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 12000 pages",
+    "compatiblePrinters": [
+      "cwc-m235"
+    ],
+    "image": "/images/CARTRIDGES/D0235/main.webp",
+    "img1": "/images/CARTRIDGES/D0235/img1.webp",
+    "img2": "/images/CARTRIDGES/D0235/img2.webp",
+    "img3": "/images/CARTRIDGES/D0235/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Drum Unit",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: D0235",
+      "Page Yield: Up to 12000 pages",
+      "Compatible with: CWC M235"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Drum Unit"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "D0235"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 12000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC M235"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-d4843",
+    "name": "CWC D4843 / D5050 Drum Unit",
+    "type": "Drum Unit",
+    "subType": "drum",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 30000 pages",
+    "variants": [
+      {
+        "model": "D4843",
+        "description": "Primary drum unit"
+      },
+      {
+        "model": "D5050",
+        "description": "Alternate compatible drum unit"
+      }
+    ],
+    "compatiblePrinters": [
+      "cwc-m4843"
+    ],
+    "image": "/images/CARTRIDGES/D4843/main.webp",
+    "img1": "/images/CARTRIDGES/D4843/img1.webp",
+    "img2": "/images/CARTRIDGES/D4843/img2.webp",
+    "img3": "/images/CARTRIDGES/D4843/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Drum Unit",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: D4843 / D5050",
+      "Page Yield: Up to 30000 pages",
+      "Compatible with: CWC M4843"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Drum Unit"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "D4843 / D5050"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 30000 pages (standard coverage)"
+        }
+      ],
+      "variants": [
+        {
+          "title": "D4843",
+          "desc": "Primary drum model"
+        },
+        {
+          "title": "D5050",
+          "desc": "Alternate compatible model"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC M4843"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-d310",
+    "name": "CWC D310 Drum Unit",
+    "type": "Drum Unit",
+    "subType": "drum",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 12000 pages",
+    "compatiblePrinters": [
+      "cwc-3336"
+    ],
+    "image": "/images/CARTRIDGES/CWC-D310/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-D310/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-D310/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-D310/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Drum Unit",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-D310",
+      "Page Yield: Up to 12000 pages",
+      "Compatible with: CWC 3336"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Drum Unit"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-D310"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 12000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 3336"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-d4055",
+    "name": "CWC D4055 Drum Unit",
+    "type": "Drum Unit",
+    "subType": "drum",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 12000 pages",
+    "compatiblePrinters": [
+      "cwc-4055"
+    ],
+    "image": "/images/CARTRIDGES/CWC-D4055/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-D4055/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-D4055/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-D4055/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Drum Unit",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-D4055",
+      "Page Yield: Up to 12000 pages",
+      "Compatible with: CWC 4055"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Drum Unit"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-D4055"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 12000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 4055"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-d3300",
+    "name": "CWC D3300 Drum Unit",
+    "type": "Drum Unit",
+    "subType": "drum",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 12000 pages",
+    "compatiblePrinters": [
+      "cwc-3300s"
+    ],
+    "image": "/images/CARTRIDGES/CWC-D3300/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-D3300/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-D3300/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-D3300/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Drum Unit",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-D3300",
+      "Page Yield: Up to 12000 pages",
+      "Compatible with: CWC 3300S"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Drum Unit"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-D3300"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 12000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 3300S"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-d4555",
+    "name": "CWC D4555 Drum Unit",
+    "type": "Drum Unit",
+    "subType": "drum",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 12000 pages",
+    "compatiblePrinters": [
+      "cwc-4555"
+    ],
+    "image": "/images/CARTRIDGES/CWC-D4555/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-D4555/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-D4555/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-D4555/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Drum Unit",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-D4555",
+      "Page Yield: Up to 12000 pages",
+      "Compatible with: CWC 4555"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Drum Unit"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-D4555"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 12000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 4555"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-d4620",
+    "name": "CWC D4620 Drum Unit",
+    "type": "Drum Unit",
+    "subType": "drum",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 73000 pages",
+    "compatiblePrinters": [
+      "cwc-4620fnw"
+    ],
+    "image": "/images/CARTRIDGES/CWC-D4620/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-D4620/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-D4620/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-D4620/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Drum Unit",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-D4620",
+      "Page Yield: Up to 73000 pages",
+      "Compatible with: CWC 4620FNW"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Drum Unit"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-D4620"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 73000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 4620FNW"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-d7100",
+    "name": "CWC D7100 CMYK Drum Unit",
+    "type": "Drum Unit",
+    "subType": "drum",
+    "category": "consumables",
+    "color": "CMYK",
+    "technology": "Laser",
+    "yield": "Up to 109000 pages",
+    "compatiblePrinters": [
+      "cwc-7100s-mono",
+      "cwc-7100s-color"
+    ],
+    "image": "/images/CARTRIDGES/CWC-D7100-CMYK/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-D7100-CMYK/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-D7100-CMYK/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-D7100-CMYK/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Drum Unit",
+      "Print Technology: Laser",
+      "Print Color: CMYK (Color)",
+      "Model: CWC-D7100 CMYK",
+      "Page Yield: Up to 109000 pages",
+      "Compatible with: CWC 7100S Series"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Drum Unit"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "CMYK (Color)"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-D7100 CMYK"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 109000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 7100S Series (Mono & Color)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-d2101",
+    "name": "CWC D2101 Drum Unit",
+    "type": "Drum Unit",
+    "subType": "drum",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 30000 pages",
+    "compatiblePrinters": [
+      "cwc-2101s"
+    ],
+    "image": "/images/CARTRIDGES/CWC-D2101/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-D2101/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-D2101/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-D2101/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Drum Unit",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-D2101",
+      "Page Yield: Up to 30000 pages",
+      "Compatible with: CWC 2101S"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Drum Unit"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-D2101"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 30000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 2101S"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-d2100",
+    "name": "CWC D2100 Drum Unit",
+    "type": "Drum Unit",
+    "subType": "drum",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 30000 pages",
+    "compatiblePrinters": [
+      "cwc-2100s"
+    ],
+    "image": "/images/CARTRIDGES/CWC-D2100/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-D2100/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-D2100/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-D2100/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Drum Unit",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-D2100",
+      "Page Yield: Up to 30000 pages",
+      "Compatible with: CWC 2100S"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Drum Unit"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-D2100"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 30000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 2100S"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-d4650",
+    "name": "CWC D4650 Drum Unit",
+    "type": "Drum Unit",
+    "subType": "drum",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 73000 pages",
+    "compatiblePrinters": [
+      "cwc-4650"
+    ],
+    "image": "/images/CARTRIDGES/CWC-D4650/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-D4650/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-D4650/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-D4650/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Drum Unit",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-D4650",
+      "Page Yield: Up to 73000 pages",
+      "Compatible with: CWC 4650"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Drum Unit"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-D4650"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 73000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 4650"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-d5100",
+    "name": "CWC D5100 Drum Unit",
+    "type": "Drum Unit",
+    "subType": "drum",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 80000 pages",
+    "compatiblePrinters": [
+      "cwc-5100s"
+    ],
+    "image": "/images/CARTRIDGES/CWC-D5100/main.webp",
+    "img1": "/images/CARTRIDGES/CWC-D5100/img1.webp",
+    "img2": "/images/CARTRIDGES/CWC-D5100/img2.webp",
+    "img3": "/images/CARTRIDGES/CWC-D5100/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Drum Unit",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-D5100",
+      "Page Yield: Up to 80000 pages",
+      "Compatible with: CWC 5100S"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Drum Unit"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-D5100"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 80000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 5100S"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cwc-d7100s",
+    "name": "CWC D7100 Drum Unit (Black)",
+    "type": "Drum Unit",
+    "subType": "drum",
+    "category": "consumables",
+    "color": "Black",
+    "technology": "Laser",
+    "yield": "Up to 80000 pages",
+    "compatiblePrinters": [
+      "cwc-7100s-mono",
+      "cwc-7100s-color"
+    ],
+    "image": "/images/CARTRIDGES/D7100/main.webp",
+    "img1": "/images/CARTRIDGES/D7100/img1.webp",
+    "img2": "/images/CARTRIDGES/D7100/img2.webp",
+    "img3": "/images/CARTRIDGES/D7100/img3.webp",
+    "specSummary": [
+      "Cartridge Type: Drum Unit",
+      "Print Technology: Laser",
+      "Print Color: Black",
+      "Model: CWC-D7100",
+      "Page Yield: Up to 80000 pages",
+      "Compatible with: CWC 7100S Series"
+    ],
+    "details": {
+      "general": [
+        {
+          "title": "Consumable type",
+          "desc": "Drum Unit"
+        },
+        {
+          "title": "Print technology",
+          "desc": "Laser"
+        },
+        {
+          "title": "Print color",
+          "desc": "Black"
+        },
+        {
+          "title": "Model number",
+          "desc": "CWC-D7100"
+        },
+        {
+          "title": "Page yield",
+          "desc": "Up to 80000 pages (standard coverage)"
+        }
+      ],
+      "compatibility": [
+        {
+          "title": "Supported printers",
+          "desc": "CWC 7100S Series (Mono & Color)"
+        }
+      ]
+    }
+  }
+]
